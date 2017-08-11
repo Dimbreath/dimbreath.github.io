@@ -1,0 +1,91 @@
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #222 url("../imgs/index_bg.jpg") center center no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0 !important;
+  padding:0 !important;
+}
+
+.container {
+  margin: 1em 0 0.5em 2em;
+}
+
+.container h1 {
+  font-size:4em;
+  color:#FFF;
+}
+.container h2 {
+  margin-top:0.15em !important;
+  font-size:1.85em;
+}
+
+#subheader {
+  margin-left: 0.5em !important;
+}
+
+body h2, h3 {
+  color:#ccc;
+}
+
+.links h3 {
+  margin-top:2em !important;
+  font-size:1.50em;
+}
+
+.links ul {
+  margin-top:1em;
+  list-style:none;
+  padding:0;
+}
+
+.links ul li {
+  line-height:1.50;
+}
+
+.links ul li i {
+  font-size:1.45em;
+  width:1.2em;
+  color:#FFF;
+}
+
+.links ul li a {
+  font-size:1.25em;
+  text-decoration:none;
+  color:#fff;
+}
+
+.links ul li .service {
+  width:5em;
+  /*font-weight:700;*/
+  font-size:1.15em;
+  display:inline-block;
+}
+
+.links ul li .value {
+  color:#444;
+  border-bottom: 2px solid transparent;
+  transition: all .2s ease-in-out;
+}
+
+
+	.links ul li a:hover .value,
+	.links ul li a:focus .value {
+		color: #3498db;
+		border-bottom-color: #3498db;
+	}
+
+  .projects {
+    margin-bottom:4em;
+  }
+
+  .project-anchor {
+    color:#ccc !important;
+    transition:all 0.2s ease-in-out;
+  }
+
+  .project-anchor:hover {
+    color:#FFF !important;
+  }
