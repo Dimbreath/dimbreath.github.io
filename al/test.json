@@ -1,0 +1,51 @@
+{
+    "name": "USS Honolulu",
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "main_2.wav",
+                    "name": "Drop Description",
+                    "quote": "Brooklyn-class Light Cruiser – Honolulu, Hull Number CL-48!"
+                },
+                {
+                    "key": "profile",
+                    "voice": "main_1.wav",
+                    "name": "Introduction",
+                    "quote": "I'm Honolulu of the Brooklyn-class. I've basically only ever served in the Pacific. I was damaged pretty bad once, but somehow I managed to make it... At least I was luckier than Helena..."
+                },   
+                {
+                    "key": "login",
+                    "voice": "mvp.wav",
+                    "name": "Login",
+                    "quote": "Why do I have to wait for you here..."
+                },   
+                {
+                    "key": "detail",
+                    "voice": "profile.wav",
+                    "name": "Detail",
+                    "quote": "Maintenance? Fine, as long as you don't do anything weird..."
+                }
+            ]
+        },
+        {
+            "name": "Summer",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop Description",
+                    "quote": "Brooklyn-class Light Cruiser – Honolulu, Hull Number CL-48!"
+                },
+                {
+                    "key": "profile",
+                    "voice": "",
+                    "name": "Introduction",
+                    "quote": "I'm Honolulu of the Brooklyn-class. I've basically only ever served in the Pacific. I was damaged pretty bad once, but somehow I managed to make it... At least I was luckier than Helena..."
+                }
+            ]
+        }
+    ]
+}
