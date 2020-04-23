@@ -1,8 +1,9 @@
 body {
   padding-top: 2rem;
+  background-color: #253341;
 }
 
 .template {
-	padding: 30px;
+	padding: 80px;
 	text-align: center;
 }

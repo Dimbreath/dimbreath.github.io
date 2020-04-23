@@ -1,0 +1,346 @@
+{
+    "name": "MNF Gascogne",
+    "id": 99901,
+    "skins": [
+        {
+            "name": "Gascogne ",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "Battleship \u2013 Gascogne."
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "Gascogne, Richelieu-class battleship number 4, construction canceled due to wartime conditions. Purpose: engage in battle and destroy Master's enemies."
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "Gascogne activation process complete. Directive assigned: secure liberty and victory for Master. Gascogne commencing active service."
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "Identification complete. Welcome back, Master."
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "Analyzing armaments... Condition: satisfactory. Gascogne is able to execute orders."
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "\"Raise the corners of your lips\"... Unable to determine significance of said action."
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "Analysis complete. Master identified to be in a state of \"slacking off.\" State evaluated as an impediment to productivity."
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "\"Do whatever you want\"... Analysis of strategic significance of order deemed impossible."
+                },
+                {
+                    "key": "main4",
+                    "voice": "main_4.wav",
+                    "name": "Main screen 4",
+                    "quote": "Discrepancy detected in the frequency of \"smiles\" recorded between members of the fleet, Gascogne's recollection, and expression identification database."
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "Awaiting Master's orders."
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "Body temperature abnormality detected. Requesting thorough physical examination."
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "Attention: confirmation required for incomplete missions."
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "Attention: confirmation required for mission rewards."
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "Attention: confirmation required for new mail."
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "A glass of armagnac has been prepared."
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "Attention: confirmation required for commission team's return."
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "Ability enhancements... Confirmed."
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "Targets identified. Commencing destruction."
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "Report: destruction of targets confirmed. Combat mission complete."
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "Failure is intolerable. Proposal: improve Gascogne's capabilities, or terminate system."
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "Armaments activated. Engaging at maximum output."
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "Combat execution systems failing, requesting support."
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "Gascogne is a weapon and a warship. No other definitions are applicable."
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "Numerous requests for Gascogne's participation in activities without strategic significance received from members of the fleet. Requesting Master's assessment."
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "Phenomena known as \"emotions\" and \"impulses\" occur when interacting with members of the fleet. Requesting instructions for achieving satisfactory interaction."
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "\"Emotions\" generated from physical contact were analyzed and interpreted as \"comfort\" and \"happiness.\" Concluding that this holds strategic significance if this is Master's intention."
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "Phenomena known as \"worries\" and \"hopes\" were observed and successfully classified during routine \"emotion\" cache analysis. System can be updated with permissions to access and act upon \"emotions\" if Master so wishes. Thank you, Master."
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "I now understand the emotion known as love. It is the throbbing of one's heart; the gratitude, longing, warmth, and light one feels for a person who does not seek recompense. This ring is the greatest gift I could ask for. I love you, Master."
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "Identification complete. Welcome back, Master!"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "Analyzing armaments... Condition: satisfactory. Please inform me if you have any orders, Master."
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "I'm waiting for any order you may have, Master."
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "Body temperature abnormality detected. Master, what's happening to me...?"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_ex100.wav",
+                    "name": "Mission reminder (Extra)",
+                    "quote": "Attention: confirmation required for incomplete missions. Master...?"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_ex100.wav",
+                    "name": "Mission complete (Extra)",
+                    "quote": "Attention: confirmation required for mission rewards. Wow...!"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_ex100.wav",
+                    "name": "Mail reminder (Extra)",
+                    "quote": "Attention: confirmation required for new mail. A-ahem!"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "Here is a glass of armagnac, if you'd like."
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_ex100.wav",
+                    "name": "Commission complete (Extra)",
+                    "quote": "Attention: confirmation required for commission team's return. Whew..."
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade_ex100.wav",
+                    "name": "Enhancing complete (Extra)",
+                    "quote": "Ability enhancements confirmed... Nice!"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "I've studied many emotions, worries, and hopes during my time in this fleet... Now I finally understand what you expect of me, Master. Thank you so, so much, Master..."
+                }
+            ]
+        },
+        {
+            "name": "Tropical Environs Acclimation Service Equipment",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "Gascogne uniform change complete. Directive assigned: have fun on the beach with Master. Requesting detailed instructions for how to \"have fun on the beach.\""
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "Gascogne uniform change complete. Directive assigned: have fun on the beach with Master. Requesting detailed instructions for how to \"have fun on the beach.\""
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "Welcome back, Master. Gascogne is currently executing routine database definition update of the phrase \"doing whatever.\""
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "Permission to inspect Gascogne granted."
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "Analyzed and compared wind speeds, temperature, and weather readings with mean values of previously recorded data. Assessment: navigation at sea is unaffected."
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "Contact with unharmful lifeform detected. Requesting instructions for satisfactory interaction."
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "\"Let's go for a swim\" \u2013 Instructions received. Need for swim ring detected. ...Assertion that swim ring is \"unnecessary\" to swim contradicts existing information in database."
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "Unable to determine strategic purpose of Master's gaze."
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "Master, Gascogne has detected body temperature abnormality during self-diagnosis operation."
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "Gascogne has procured water and energizing edibles. Requesting confirmation of Master's need of aforementioned items."
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1_ex100.wav",
+                    "name": "Receive (Extra)",
+                    "quote": "Gascogne uniform change complete. Directive assigned: have fun on the beach with Master. Master, what things do you do to \"have fun on the beach\"...?"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1_ex100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "Welcome back, Master. I'm attempting to do \"whatever I want\"..."
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1_ex100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "Permission to inspect me...? R-right now...?"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1_ex100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "Your gaze makes me feel odd, Master..."
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1_ex100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "I'm sorry, Master... My body feels strangely warm..."
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1_ex100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "I have prepared us some water and food... Would you like some, Master?"
+                }
+            ]
+        }
+    ]
+}
