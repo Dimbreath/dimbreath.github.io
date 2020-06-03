@@ -178,6 +178,24 @@
                     "voice": "link1.wav",
                     "name": "Battle 1",
                     "quote": "(1 of the following: MNF Tartu) \u5854\u5c14\u56fe\uff0c\u501f\u4f60\u7684\u4e66\u770b\u5b8c\u4e86\u5417\uff1f"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "\u73b0\u5728\u6211\u5750\u5728\u6307\u6325\u5b98\u7684\u4f4d\u7f6e\u4e0a\uff0c\u6240\u4ee5\u6211\u5c31\u662f\u6307\u6325\u2026\u2026\u54a6\uff0c\u6307\u6325\u5b98\u4f60\u4ec0\u4e48\u65f6\u5019\u6765\u7684\uff01"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u6765\uff0c\u8ba9\u6211\u6478\u6478\u4f60\u7684\u5934\u5956\u52b1\u4f60\u2026\u2026\u5440\u54c8\u54c8\uff0c\u4e0d\u8981\u9732\u51fa\u89c9\u5f97\u7f9e\u803b\u7684\u8868\u60c5\u561b\uff01"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "\u7b2c\u4e00\u540d\uff01\u9f13\u638c\uff01\u54fc\u54fc\uff0c\u6211\u679c\u7136\u5f88\u5389\u5bb3\uff01"
                 }
             ]
         },
