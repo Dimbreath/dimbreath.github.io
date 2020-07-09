@@ -1,0 +1,209 @@
+{
+    "name": "HMS Cheshire",
+    "id": 29903,
+    "skins": [
+        {
+            "name": "\u67f4\u90e1",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "\u91cd\u5de1\u6d0b\u8230-\u2014\u67f4\u90e1"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "\u6211\u662f\u7687\u5bb6\u6240\u5c5e\u7684\u91cd\u5de1\u6d0b\u8230\uff0c\u67f4\u90e1\u53f7\uff01\u4e0d\u8fc7\uff0c\u76f4\u5230\u89c1\u5230\u4eb2\u7231\u7684\u4ee5\u524d\uff0c\u6211\u4e00\u76f4\u90fd\u662f\u53ea\u5b58\u5728\u4e8e\u60f3\u8c61\u4e4b\u4e2d\u7684\u8230\u8239\u5462\u3002\u6240\u4ee5\uff0c\u6211\u7684\u8fd9\u526f\u8eab\u5fc3\uff0c\u90fd\u662f\u5c5e\u4e8e\u4eb2\u7231\u7684\u4f60\u7684\u5462\uff01"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "\u547c\u554a\u2014\u2014\u611f\u89c9\u50cf\u662f\u7761\u4e86\u5f88\u4e45\u9192\u8fc7\u6765\u4e00\u6837\u5462~\u55ef\u54fc\uff1f\u5c31\u662f\u4f60\u5524\u9192\u6211\u5427\uff1f\u90a3\uff0c\u4ece\u4eca\u5929\u8d77\uff0c\u4f60\u5c31\u662f\u6211\u7684\u4eb2\u7231\u7684\u5566\uff01\u4e3a\u4ec0\u4e48\uff1f\u56e0\u4e3a\u6211\u5bf9\u5e26\u6211\u6765\u5230\u8fd9\u4e2a\u4e16\u754c\u7684\u4f60\u4e00\u89c1\u949f\u60c5\u5566\uff01"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "\u4eb2~\u7231~\u7684~\uff01\u563f\uff0c\u6211\u62b1\uff01\u2026\u2026\u8fd9\u6837\u7684\u8fce\u63a5\u8fc7\u4e8e\u70ed\u60c5\u4e86\uff1f\u563f\u563f\uff0c\u56e0\u4e3a\u662f\u4eb2\u7231\u7684\uff0c\u6240\u4ee5\u514d\u4e0d\u4e86\u6709\u4e9b\u6fc0\u52a8\u561b\uff01"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "\u4e3a\u4ec0\u4e48\u5bf9\u4eb2\u7231\u7684\u4e00\u89c1\u949f\u60c5\u4e86\uff1f\u636e\u8bf4\u52a8\u7269\u4f1a\u628a\u4ed6\u4eec\u7b2c\u4e00\u773c\u770b\u5230\u7684\u751f\u7269\u89c6\u4e3a\u201c\u7231\u4eba\u201d\u5462~\u662f\u201c\u7236\u6bcd\u201d\u800c\u4e0d\u662f\u201c\u7231\u4eba\u201d\uff1f\u54ce\u5440\uff0c\u8fd9\u4e0d\u662f\u91cd\u70b9\u5566~\u603b\u4e4b\uff0c\u4ece\u6211\u89c1\u5230\u7684\u7b2c\u4e00\u9762\u8d77\uff0c\u4eb2\u7231\u7684\u5c31\u662f\u4eb2\u7231\u7684\u5566\uff01"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "\u4eb2\u7231\u7684\uff0c\u7687\u5bb6\u7684\u8230\u8239\u4e4b\u95f4\u6709\u6ca1\u6709\u4ec0\u4e48\u597d\u73a9\u7684\u4e8b\u60c5\uff1f\u522b\u7684\u9635\u8425\u7684\u4e5f\u53ef\u4ee5\u5566\uff0c\u90fd\u548c\u6211\u8bf4\u8bf4\u561b~"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "\u67f4\u90e1\u624d\u4e0d\u662f\u732b\u5462\uff01\u867d\u7136\u662f\u50cf\u732b\u4e00\u6837\u53ef\u7231\u4e0d\u8fc7\u603b\u5f52\u4e0d\u662f\u732b\u5566\uff01"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "\u8fd9\u662f\u4e3b\u4eba\u60a8\u7684\u7ea2\u8336\uff0c\u8bf7\u7528\u2026\u8fd9\u662f\u6211\u548c\u5973\u4ec6\u961f\u7684\u6210\u5458\u5b66\u7684\uff0c\u600e\u4e48\u6837\uff0c\u50cf\u5417\uff1f\u563f\u563f~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "\u55ef\u54fc\uff1f\u4eb2\u7231\u7684\uff0c\u5728\u60f3\u4ec0\u4e48\u5462\uff1f\u563b\u563b\uff0c\u60f3\u6cd5\u90fd\u5199\u5728\u8138\u4e0a\u4e86\u54e6~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "\u5440~\u771f\u662f\u7684\uff0c\u4e0d\u5141\u8bb8\u5077\u88ad\u5566\uff01\u660e\u660e\u53ea\u8981\u548c\u6211\u8bf4\u4e00\u58f0\u5c31\u597d\u4e86\u561b\u3002"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "\u6211\u5f88\u559c\u6b22\u732b\u8033\u7684\u53d1\u9970\u5462\uff01\u4eb2\u7231\u7684\uff0c\u4f60\u8981\u4e0d\u4e5f\u6234\u6234\u8bd5\u8bd5\u770b\uff1f\u6b38\uff0c\u5c31\u6234\u4e00\u4e0b\u561b\uff0c\u8ba9\u6211\u770b\u4e00\u773c\u5c31\u597d\u4e86\u5566\uff01"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "\u6ca1\u6709\u4ec0\u4e48\u4efb\u52a1\u662f\u80fd\u96be\u5012\u4eb2\u7231\u7684\u548c\u6211\u4e24\u4e2a\u4eba\u7684\uff01"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "\u4efb\u52a1\u5b8c\u6210\u5566\uff01\u8fd9\u4e9b\u4efb\u52a1\u5bf9\u6211\u4eec\u6765\u8bf4\u4f1a\u4e0d\u4f1a\u7b80\u5355\u4e86\u70b9\uff1f"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "\u6709\u4f60\u7684\u4fe1\u4ef6\u54e6\uff01\u662f\u5565\u5185\u5bb9\u5462\uff1f\u8ba9\u6211\u4e5f\u770b\u770b\u561b~"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "\u4eb2\u7231\u7684\uff0c\u4f60\u56de\u6765\u5566\uff01\u51fa\u51fb\u6ca1\u6709\u53d7\u4f24\u5427\uff1f\u6ca1\u6709\u9047\u5230\u5f88\u96be\u7f20\u7684\u654c\u4eba\u5427\uff1f\u6ca1\u6709\u7a81\u7136\u5bf9\u522b\u7684\u5973\u5b69\u5b50\u5fc3\u52a8\u5427\uff1f\u563f\u563f\uff0c\u90a3\u5c31\u597d~"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "\u59d4\u6258\u961f\u56de\u6765\u5566\uff01\u4e00\u8d77\u53bb\u8fce\u63a5\u5979\u4eec\u5427\uff1f\u554a\uff0c\u5bf9\u4e86\uff0c\u987a\u4fbf\u5e26\u4e0a\u4e00\u4e9b\u6170\u95ee\u54c1\u5427\uff01"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "\u563f\u563f\uff0c\u8c22\u8c22\u4eb2\u7231\u7684\u5566~"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "\u731c\u731c\u770b\uff0c\u4eca\u5929\u4e3a\u4f60\u4eec\u51c6\u5907\u7684\u4e3b\u83dc\u662f\u9c7c\u96f7\u5462\uff0c\u8fd8\u662f\u70ae\u5f39\u5462~\uff1f"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "\u8d62\u5566\uff0c\u4eb2\u7231\u7684\uff0c\u6211\u4eec\u8d62\u5566\uff01\u8036~\uff01"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "\u8d81\u654c\u4eba\u6ca1\u6ce8\u610f\u5230\u7684\u65f6\u5019\uff0c\u8d76\u7d27\u6e9c\u8d70\u5427\uff1f"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "\u8fd9\u662f\u7231\u7684\u4e00\u51fb\u54e6\uff01"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "\u554a\u75bc\u75bc\u75bc\uff01\u2026\u2026\u4f46\u662f\uff0c\u4e3a\u4e86\u4eb2\u7231\u7684\uff0c\u6211\u662f\u4e0d\u4f1a\u8f93\u7684\uff01"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "\u545c\u2026\u8fd9\u5c31\u662f\u6211\u7b2c\u4e00\u4e2a\u559c\u6b22\u4e0a\u7684\u4eba\u7684\u771f\u9762\u76ee\u5417\uff1f"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "\u554a\uff0c\u4eb2\u7231\u7684\uff0c\u4f60\u53bb\u54ea\u91cc\u4e86\uff1f\u5982\u679c\u662f\u53bb\u4e86\u597d\u73a9\u7684\u5730\u65b9\u5374\u4e0d\u5e26\u4e0a\u6211\u7684\u8bdd\uff0c\u6211\u5c31\u8981\u751f\u6c14\u5566\uff01"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "\u542c\u6211\u8bf4\u554a\uff0c\u4e0a\u6b21\u548c\u91cd\u6a31\u7684\u8230\u8239\u4e00\u8d77\u73a9\u7684\u65f6\u5019\uff0c\u6211\u6478\u5230\u4e86\u771f\u7684\u732b\u8033\u54e6\uff01\u8d27\u771f\u4ef7\u5b9e\u7684\u5462\uff01\u563f\u563f\uff0c\u5f88\u7fa1\u6155\u5427\uff1f\u2026\u65e9\u5c31\u6478\u8fc7\u4e86\uff1f\u771f\u662f\u7684\uff0c\u4f60\u5c31\u4e0d\u80fd\u6ee1\u8db3\u4e00\u4e0b\u6211\u7684\u865a\u8363\u5fc3\u561b\u2026\u2026"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "\u4eb2\u7231\u7684\uff0c\u4f60\u4f1a\u56e0\u4e3a\u6211\u5e73\u65f6\u7684\u653b\u52bf\u592a\u731b\u70c8\u4e86\u800c\u89c9\u5f97\u538c\u70e6\u5417\uff1f\u5982\u679c\u771f\u7684\u662f\u8fd9\u6837\u7684\u8bdd\uff0c\u90a3\u6211\u5c31\u2026\u2026\u6211\u5c31\u7528\u66f4\u52a0\u76f4\u63a5\u7684\u884c\u52a8\uff0c\u8ba9\u4eb2\u7231\u7684\u4e0d\u5f97\u4e0d\u63a5\u53d7\u6211\u7684\u7231\u610f\uff01\u9996\u5148\u662f\u8fd9\u4e2a\u2014\u2014\u98de\u6251\u653b\u51fb\uff0c\u563f~\uff01"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "\u5982\u679c\u6ca1\u6709\u4f60\u7684\u8bdd\uff0c\u6211\u53ef\u80fd\u6c38\u8fdc\u90fd\u89c1\u8bc6\u4e0d\u5230\u8fd9\u4e2a\u7f8e\u4e3d\u7684\u4e16\u754c\uff0c\u9047\u4e0d\u89c1\u90a3\u4e48\u591a\u53ef\u7231\u7684\u4f19\u4f34\u4eec\uff0c\u4e5f\u4f53\u9a8c\u4e0d\u5230\u5982\u6b64\u5e78\u798f\u7684\u611f\u60c5\u2026\u6240\u4ee5\uff0c\u6211\u2026\u770b\u62db\uff0c\u563f\uff01\u62b1\u4f4f\u4f60\u4e86\uff01\u4eb2\u7231\u7684\uff0c\u6700\u559c\u6b22\u4f60\u5566\uff01\u563f\u563f~"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "\u65e2\u7136\u4eb2\u7231\u7684\u90fd\u8fd9\u4e48\u8868\u73b0\u51fa\u5bf9\u67f4\u90e1\u7684\u91cd\u89c6\u4e86\uff0c\u563b\u563b~\u90a3\u4f5c\u4e3a\u56de\u62a5\uff0c\u63a5\u4e0b\u6765\uff0c\u6211\u8981\u8bf4\u4e00\u767e\u904d\u201c\u6211\u559c\u6b22\u4f60\u201d\uff01\u6211\u8981\u5f00\u59cb\u5566\uff0c\u4f60\u53ef\u8981\u542c\u6e05\u695a\u4e86\uff01\u5728\u542c\u5b8c\u4e4b\u524d\uff0c\u54ea\u91cc\u4e5f\u4e0d\u8bb8\u53bb\u54e6\uff01\u4eb2\u7231\u7684~"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: HMS Neptune) \u6b32\u64d2\u6545\u7eb5\u662f\u6709\u53ef\u80fd\u4f1a\u628a\u5bf9\u65b9\u5413\u8d70\u7684\u54e6\uff1f"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Akashi, IJN Yukikaze, IJN Shiratsuyu, IJN Hatsuharu, IJN Y\u016bgure, IJN Asashio) \u54c7\uff01\u6211\u3001\u6211\u53ef\u4ee5\u6478\u6478\u770b\u5417\uff1f"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: USS Sims, USS Hammann) \u8036~\u662f\u67f4\u90e1\u8d62\u4e86\uff01"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(1 of the following: HMS Dido, HMS Sheffield, HMS Gloucester, HMS Belfast, HMS Sirius, HMS Curlew) \u591a\u6559\u6559\u6211\u561b\uff01"
+                },
+                {
+                    "key": "link5",
+                    "voice": "link5.wav",
+                    "name": "Battle 5",
+                    "quote": "(1 of the following: USS Seattle) \u5f00party\u5566\uff01\uff01"
+                }
+            ]
+        }
+    ]
+}
