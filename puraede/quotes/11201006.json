@@ -7,205 +7,205 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "kiki_get_1",
+                    "voice": "kiki_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "このキラキラとした輝き…もしや、ダイヤですぞ！？　おっと失礼…ジブンは宝石商人キキですぞ、よろしくですぞ～！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "kiki_in_1",
+                    "voice": "kiki_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "今日もダイヤの話をしますぞ〜"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "kiki_main_1",
+                    "voice": "kiki_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "宝石の原石は、見つけただけでは意味がないですぞ。職人の手で磨いてやっと、輝き出すものですぞ！　…フフフ、まずはこうした基本から教えるですぞ！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "kiki_main_2",
+                    "voice": "kiki_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "ジ、ジブン、体力には自信がないですぞ…でも体力が必要なときには、体力がいらない他の方法で解決してみせますぞー！"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "kiki_main_3",
+                    "voice": "kiki_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "宝石の輝きは、この世でもっとも美しいものですぞ！ 赤、青、緑、黄…  どんな色も、人々を魅了して離さないですぞ！"
                 },
                 {
                     "key": "突破",
-                    "voice": "kiki_stage_1",
+                    "voice": "kiki_stage_1.ogg",
                     "name": "突破",
                     "quote": "宝石を見る目も上がったですぞ！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "kiki_stage_2",
+                    "voice": "kiki_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "リーダーの優しさは宝石の輝きと同じく、人を感動させますぞ！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "kiki_stage_3",
+                    "voice": "kiki_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "初めて宝石を見せてもらった時のような、 胸の高鳴り！ジブン、決して忘れませんぞ！ リーダーにもそんな経験をしてもらえるよう、 何でもしますぞー！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "kiki_star_1",
+                    "voice": "kiki_star_1.ogg",
                     "name": "覚醒",
                     "quote": "今のジブンなら、きっとすばらしい宝石をすぐさま見つけられますぞ！　ありがとうですぞ、リーダー！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "kiki_interaction_1",
+                    "voice": "kiki_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "リーダー、何の石を持っているですぞ？　早くジブンに見せるですぞ！　…あっ、リーダー…。これはただの、ガラス球ですぞ…"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "kiki_interaction_2",
+                    "voice": "kiki_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "ジブンはどんな相手でも誤魔化したりせず、 本当の宝石の価値を伝えますぞ。何せジブンは、 恩師のような善き宝石商を目指しているのですからですぞ！"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "kiki_interaction_3",
+                    "voice": "kiki_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "一粒の宝石には一つの物語があるのですぞ。単に貴重な石というだけではないこと、みっちり教えてやるですぞ…！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "kiki_interaction_4",
+                    "voice": "kiki_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "宝石の話を聞いてくれて、宝石探しにも付き合ってくれて…リーダーは本当に素晴らしいお人ですぞ！　もっともっと、一緒に冒険しましょうですぞー！"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "kiki_interaction_5",
+                    "voice": "kiki_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "今まで見つけたどんな宝石も、リーダーの輝きには釣り合わないですぞ。いつかはかならず、リーダーにピッタリの宝石を見つけてみせますぞ！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "kiki_go_1",
+                    "voice": "kiki_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "素晴らしい宝石を見つけに行きますぞ！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "kiki_battle_n_1",
+                    "voice": "kiki_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "いきますぞ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "kiki_battle_n_2",
+                    "voice": "kiki_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "ふんっ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "kiki_battle_n_3",
+                    "voice": "kiki_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "とぉ〜！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "kiki_battle_n_4",
+                    "voice": "kiki_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "えい！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "kiki_battle_n_5",
+                    "voice": "kiki_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "降参すべきですぞ！"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "kiki_battle_n_6",
+                    "voice": "kiki_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "まだまだいきますぞー！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "kiki_battle_hit_1",
+                    "voice": "kiki_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "痛いですぞ…！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "kiki_battle_hit_2",
+                    "voice": "kiki_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "わわっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "kiki_battle_hit_3",
+                    "voice": "kiki_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うわ〜！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "kiki_battle_hit_4",
+                    "voice": "kiki_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "気をつけるですぞ！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "kiki_battle_hit_5",
+                    "voice": "kiki_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "ひゃーっ！"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "kiki_battle_hit_6",
+                    "voice": "kiki_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "やめてほしいですぞ！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "kiki_battle_die_1",
+                    "voice": "kiki_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "も、もう戦えないですぞ…ジブンはひよわですぞ…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "kiki_battle_h_1",
+                    "voice": "kiki_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "ジブンの全力、受けてみるですぞー！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "kiki_battle_h_2",
+                    "voice": "kiki_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "ジブンの怒りを見せてやるですぞー！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "kiki_battle_c_1",
+                    "voice": "kiki_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "宝石の魅力を見せつけてやるですぞー！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "kiki_battle_c_2",
+                    "voice": "kiki_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "宝石を雑に扱う者は、許せないですぞー！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "kiki_win_1",
+                    "voice": "kiki_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "勝利を得た宝石の輝きは、より一層美しく見えますですぞ！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "kiki_fail_1",
+                    "voice": "kiki_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "しまった！　目利きに失敗したですぞ～！"
                 }

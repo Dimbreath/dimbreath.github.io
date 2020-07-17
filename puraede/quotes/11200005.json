@@ -7,193 +7,193 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "hilda_get_1",
+                    "voice": "hilda_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "わ、私はイルダと言います…売れてない作家をしてまして…。えっと、書いてるものはその、詳しくは言えないのですが…女の子と女の子が…ごにょごにょ…"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "hilda_in_1",
+                    "voice": "hilda_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "ふわぁ…おはようございます…。実は昨日の夜、急に小説のネタを思いついて…それから、筆が止まらなくて…"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "hilda_main_1",
+                    "voice": "hilda_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "はぁ、はぁ…女の子同士の友愛！　本当に最高っ――あっ！　リ、リーダーさん、いつからそこに…！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "hilda_main_2",
+                    "voice": "hilda_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "すみません…コーヒーをください…あとちょっとで…新作が完成するので…"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "hilda_main_3",
+                    "voice": "hilda_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "エイプリルさんとオリヴィアさんは今夜、ふたり寄り添い、手を取って――あっ！　ま、また妄想を止まらず…すみません！"
                 },
                 {
                     "key": "突破",
-                    "voice": "hilda_stage_1",
+                    "voice": "hilda_stage_1.ogg",
                     "name": "突破",
                     "quote": "アイディアが…絶え間なく湧いてきてる！　…ような気がします！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "hilda_stage_2",
+                    "voice": "hilda_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "ちょっと、ひらひらすぎる…うーん…  これは人の目を引きすぎません…？"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "hilda_stage_3",
+                    "voice": "hilda_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "私が書いた世界…リーダーさんにも、楽しんでもらえるでしょうか？"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "hilda_star_1",
+                    "voice": "hilda_star_1.ogg",
                     "name": "覚醒",
                     "quote": "今の私なら、世界一の小説を書ける気がします！　…もちろん、女の子同士が恋愛してるやつで！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "hilda_interaction_1",
+                    "voice": "hilda_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "ん…？　もしやリーダーさんも、女の子同士の恋愛に興味がおありで…！？"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "hilda_interaction_2",
+                    "voice": "hilda_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "リ、リーダーさんも、エイプリルさんとオリヴィアさんが仲が良すぎると思いますよね？　そう、どう見ても特別な関係でしかないあの距離感…！　はぁ～！！"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "hilda_interaction_3",
+                    "voice": "hilda_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "ま、また新しい女の子を連れて戻ってきてくれたんですか…！？　はぁ、本当にリーダーさんは…女の子の楽園を作る達人ですね…！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "hilda_interaction_4",
+                    "voice": "hilda_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "うう…徹夜、疲れました…作品が完成するときは、本当に最高なんですが…ふわぁ…でも、限界…リーダーさん、膝を貸してください…"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "hilda_interaction_5",
+                    "voice": "hilda_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "私の作品、読んでくれたんですか！？　わぁ…う、嬉しいですっ…これからも、私の最初の読者になって…女の子について語り合いましょう…！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "hilda_go_1",
+                    "voice": "hilda_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "お、女の子を守るためなら…仕方ないですね…！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "hilda_battle_n_1",
+                    "voice": "hilda_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "どうでしょう！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "hilda_battle_n_2",
+                    "voice": "hilda_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "動かないで！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "hilda_battle_n_3",
+                    "voice": "hilda_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "えいやっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "hilda_battle_n_4",
+                    "voice": "hilda_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "このーっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "hilda_battle_n_5",
+                    "voice": "hilda_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "女の子の邪魔ですっ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "hilda_battle_hit_1",
+                    "voice": "hilda_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "ぐわー！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "hilda_battle_hit_2",
+                    "voice": "hilda_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "わわっ"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "hilda_battle_hit_3",
+                    "voice": "hilda_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うへぇ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "hilda_battle_hit_4",
+                    "voice": "hilda_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "ひゃーっ"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "hilda_battle_hit_5",
+                    "voice": "hilda_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "い、痛すぎますー！？"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "hilda_battle_die_1",
+                    "voice": "hilda_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "もう…女の子が書けないなんて…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "hilda_battle_h_1",
+                    "voice": "hilda_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "私の妄想を聞いてください！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "hilda_battle_h_2",
+                    "voice": "hilda_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "この子たちには、指一本触れさせませんから…！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "hilda_battle_c_1",
+                    "voice": "hilda_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "この身が滅んでも…守りたいものがあるんですっ！　女の子たちの指がからみあう瞬間とかっ！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "hilda_battle_c_2",
+                    "voice": "hilda_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "女の子たちの愛は…永遠ですからーっ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "hilda_win_1",
+                    "voice": "hilda_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "やったー！　見事、ハッピーエンドですっ！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "hilda_fail_1",
+                    "voice": "hilda_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "バ、バッドエンドを迎えてしまいましたー！"
                 }

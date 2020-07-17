@@ -7,199 +7,199 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "may_get_1",
+                    "voice": "may_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "わたくしはメイと申します。この国のため、人類のため、そしてレッドのため…わたくしの力の限り、貢献させていただきます。よろしくお願いいたします。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "may_in_1",
+                    "voice": "may_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "リーダー様、本日のご機嫌はいかがでしょう？　ふふ。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "may_main_1",
+                    "voice": "may_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "皆様のためなら、わたくしはなんでもしたいと思っているのです。皆様の幸せを見守り、皆様の期待に応えることこそ、わたくしの喜びなのです。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "may_main_2",
+                    "voice": "may_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "リーダー様も皆様もとても優しくて…いつも、心があたたかく感じるのです。わたくしもそんな存在になりたいと、心から思います。"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "may_main_3",
+                    "voice": "may_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "ブリジットはわたくしの護衛ですが…それ以上に、良き友人だと思っています。リーダー様、どうかブリジット共々よろしくお願いいたします。"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "may_main_4",
+                    "voice": "may_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "皆様と普通の仲間として仲良くなってこそ、 より多くのことが成し遂げられると思うのです。 ですからリーダー様も、 どうかわたくしと仲良くしてくださいね。"
                 },
                 {
                     "key": "突破",
-                    "voice": "may_stage_1",
+                    "voice": "may_stage_1.ogg",
                     "name": "突破",
                     "quote": "これはリーダー様の優しさそのものですね。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "may_stage_2",
+                    "voice": "may_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "わたくしを支えてくださって、ありがとうございます。まだまだ、わたくしは成長しますから…期待していただけると嬉しいです。"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "may_stage_3",
+                    "voice": "may_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "リーダー様のことも皆様のことも、 守れる強さを手に入れられたと思います。 ですから、わたくしを頼ってください。 かならず力になりましょう…！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "may_star_1",
+                    "voice": "may_star_1.ogg",
                     "name": "覚醒",
                     "quote": "リーダー様が与えてくださったこの力、必ず皆様のために使いましょう…！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "may_interaction_1",
+                    "voice": "may_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "リーダー様、退屈なのですか？　ふふ。ではわたくしがお付き合いしましょう。おしゃべりでもお買い物でも、なんでも言ってくださいね。"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "may_interaction_2",
+                    "voice": "may_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "リーダー様は頼もしい方ですね。ブリジットがいないときでも、リーダー様がいるとほっとします。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "may_interaction_3",
+                    "voice": "may_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "すべてを守れる存在になるためには、もっと強くなって、多くを知らねばなりません。ですから、わたくしをどこへなりとも連れて行ってください、リーダー様！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "may_interaction_4",
+                    "voice": "may_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "リーダー様と同じように辛抱強く、優しく、強く……そして、いつでも皆様を希望で満たす存在になりたいのです。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "may_interaction_5",
+                    "voice": "may_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "わたくしにとって、リーダー様は特別な方です。わたくしを救い、知らない多くを教えてくれた方…いつまでも、この恩は忘れません。ですからどうか、あなたが苦しく思ったときには、わたくしが差し伸べる手を迷わず取ってくださいね。"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "may_go_1",
+                    "voice": "may_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "皆様を守ります！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "may_battle_n_1",
+                    "voice": "may_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "落ちついてください"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "may_battle_n_2",
+                    "voice": "may_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "えいっ"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "may_battle_n_3",
+                    "voice": "may_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "わたくしの力を…！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "may_battle_n_4",
+                    "voice": "may_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "やぁっ"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "may_battle_n_5",
+                    "voice": "may_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "任せてください！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "may_battle_hit_1",
+                    "voice": "may_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "やめてください！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "may_battle_hit_2",
+                    "voice": "may_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "ううっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "may_battle_hit_3",
+                    "voice": "may_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うぅ…"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "may_battle_hit_4",
+                    "voice": "may_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "下がれ！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "may_battle_hit_5",
+                    "voice": "may_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "わたくしは負けませんっ…！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "may_battle_die_1",
+                    "voice": "may_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "皆様のためなら…この程度の傷、問題ありません…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "may_battle_h_1",
+                    "voice": "may_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "問題ありません！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "may_battle_h_2",
+                    "voice": "may_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "全てわたくしに任せてください！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "may_battle_c_1",
+                    "voice": "may_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "皆様との約束のため、精いっぱい力を尽くしましょう！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "may_battle_c_2",
+                    "voice": "may_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "皆様の優しさや笑顔は…わたくしが守ります！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "may_win_1",
+                    "voice": "may_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "皆様の力になれて嬉しいです。でももっと頼ってもらえたら、もっと嬉しいです。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "may_fail_1",
+                    "voice": "may_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "わたくしが弱いせいで、こんなことに…すみません…"
                 }

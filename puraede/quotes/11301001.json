@@ -7,211 +7,211 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "lovey_get_1",
+                    "voice": "lovey_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "あなたのラヴィがやってきましたよ♪　ふふ、この運命はずっと前から決まっていたこと…リーダーさんとの愛のためなら、この身を滅ぼしても構いませんっ！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "lovey_in_1",
+                    "voice": "lovey_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "お帰りなさい、あ、な、た♪　…あぁんっ、ラヴィはもう我慢できません…っ！"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "lovey_main_1",
+                    "voice": "lovey_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "最近のラヴィは、お仕事を頑張っていると思いませんか？ だからリーダーさん、ご褒美をくれますよね…？　ふふ、いつものところで…待ってますよ♪"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "lovey_main_2",
+                    "voice": "lovey_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "リーダーさんのためならどんなことでもしますから、いくらでもご命令くださいね♪　"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "lovey_main_3",
+                    "voice": "lovey_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "リーダーさんの瞳を見ていると、 なんだか体が熱くなるんです…  まるで世界のすべてが、灰になってしまいそうなくらい…"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "lovey_main_4",
+                    "voice": "lovey_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "アロエという女は、よくわからない薬をいっぱい持っていて危険ですから！　リーダーさんは決して近づかないでください！　あとノエルとかにもっ！"
                 },
                 {
                     "key": "突破",
-                    "voice": "lovey_stage_1",
+                    "voice": "lovey_stage_1.ogg",
                     "name": "突破",
                     "quote": "リーダーさんへの愛が、ラヴィをもっと強くさせるんですっ！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "lovey_stage_2",
+                    "voice": "lovey_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "リーダーさんの気持ちに応えるためなら、ラヴィはなんでもしてみせますっ！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "lovey_stage_3",
+                    "voice": "lovey_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "リーダーさんが望むなら…あなたのために、この身の全てを捧げましょう！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "lovey_star_1",
+                    "voice": "lovey_star_1.ogg",
                     "name": "覚醒",
                     "quote": "ダーリンの愛があれば、ラヴィは何でもできる！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "lovey_interaction_1",
+                    "voice": "lovey_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "ああ、触れられるだけで全身が痺れちゃいます…リーダーさん…今夜はラヴィを寝かさないでください♪"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "lovey_interaction_2",
+                    "voice": "lovey_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "どうかラヴィにもっと触れてください…私にとってリーダーさんは運命の人。お互いのすべてを知るべきですから♪"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "lovey_interaction_3",
+                    "voice": "lovey_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リーダーさん、どうかチャンスをください！　あなたのことをどれぐらい好きか証明させてください、毎晩…愛の巣で！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "lovey_interaction_4",
+                    "voice": "lovey_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "初めて会ったときから、私はもうリーダーさんのものでしたが…あれから毎日リーダーさんの愛を貰えて、ラヴィは本当に幸せです！"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "lovey_interaction_5",
+                    "voice": "lovey_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "この出会いは運命ですから…何があっても、あなたのことは絶対に諦めません。この身が果てるまで…愛に生きましょう！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "lovey_go_1",
+                    "voice": "lovey_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "ラヴィのこと、ちゃんと見ていてくださいね！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "lovey_battle_n_1",
+                    "voice": "lovey_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "これも愛です！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "lovey_battle_n_2",
+                    "voice": "lovey_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "リーダーさんのために！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "lovey_battle_n_3",
+                    "voice": "lovey_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "えいっ、やぁ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "lovey_battle_n_4",
+                    "voice": "lovey_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "はぁーっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "lovey_battle_n_5",
+                    "voice": "lovey_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "はぁっ！　そこです！"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "lovey_battle_n_6",
+                    "voice": "lovey_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "愛がすべてです！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "lovey_battle_hit_1",
+                    "voice": "lovey_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "触らないで！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "lovey_battle_hit_2",
+                    "voice": "lovey_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "きゃあっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "lovey_battle_hit_3",
+                    "voice": "lovey_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うぅーっ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "lovey_battle_hit_4",
+                    "voice": "lovey_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "しつこい！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "lovey_battle_hit_5",
+                    "voice": "lovey_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "なんですか！"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "lovey_battle_hit_6",
+                    "voice": "lovey_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "ああもうっ、どいてください！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "lovey_battle_die_1",
+                    "voice": "lovey_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "うぅ、リーダーさん…ラヴィとの愛の日々、どうか忘れないでください……"
                 },
                 {
                     "key": "特技1",
-                    "voice": "lovey_battle_h_1",
+                    "voice": "lovey_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "ラヴィ最大の愛をお見せしましょう！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "lovey_battle_h_2",
+                    "voice": "lovey_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "リーダーさんを失望させられませんから♪"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "lovey_battle_c_1",
+                    "voice": "lovey_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "体中が、愛で激しく燃えているんです…！もう…我慢できませんっ！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "lovey_battle_c_2",
+                    "voice": "lovey_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "この愛のためなら、ラヴィはどんな規則があっても破りましょう！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "lovey_win_1",
+                    "voice": "lovey_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "ラヴィは最高でしょう？　ご褒美に今夜はたっぷり愛してくださいね、リーダーさん♪"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "lovey_fail_1",
+                    "voice": "lovey_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "もしかして…私の愛が、足りないの…？"
                 }

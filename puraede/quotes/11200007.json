@@ -7,193 +7,193 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "julian_get_1",
+                    "voice": "julian_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "やぁ、親愛なるリーダー！　君に出会えたこの運命、神に感謝するよ。僕は今夜の主役ジュリアン、これからの舞台をご期待あれ！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "julian_in_1",
+                    "voice": "julian_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "僕ジュリアンは、君がやってくるまで、ずっとここで足を止めていよう――"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "julian_main_1",
+                    "voice": "julian_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "『人生は短い。だがその短い時も、有意義に過ごせなければ長すぎるだろう』リーダー、一緒に新たな物語を作りましょう。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "julian_main_2",
+                    "voice": "julian_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "『狂人と詩人と恋する者は、  想像力で満たされている』  リーダー、君の脚本の中で  僕はどんな役をしているのかな？"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "julian_main_3",
+                    "voice": "julian_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "優秀な役者は、脚本を超えて演じられるものだよ。わかるでしょう、リーダー？"
                 },
                 {
                     "key": "突破",
-                    "voice": "julian_stage_1",
+                    "voice": "julian_stage_1.ogg",
                     "name": "突破",
                     "quote": "『簡潔は知恵の魂、冗長は表面上の飾り』"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "julian_stage_2",
+                    "voice": "julian_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "『上辺は天使のようでも、人間の内側に何を隠し持っているか分からない』――なんてね、冗談だよ！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "julian_stage_3",
+                    "voice": "julian_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "It is here, and I'am the sun."
                 },
                 {
                     "key": "覚醒",
-                    "voice": "julian_star_1",
+                    "voice": "julian_star_1.ogg",
                     "name": "覚醒",
                     "quote": "『生きべきか死ぬべきか、それが問題だ』"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "julian_interaction_1",
+                    "voice": "julian_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "なんだい、リーダー。僕と踊ってくれるのかい？"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "julian_interaction_2",
+                    "voice": "julian_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "僕の手綱を握っていいのはリーダーだけだよ。ふふ"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "julian_interaction_3",
+                    "voice": "julian_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "『すべての人が主人になれないし、すべての主人が従者から忠誠を誓われる価値がない』"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "julian_interaction_4",
+                    "voice": "julian_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "『恋は盲目で、恋人たちは自分の失敗に気づかなくなる』僕はこの状況に陥ったらしい、マイ ロード。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "julian_interaction_5",
+                    "voice": "julian_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "『one love,one lifetime.』 君と一緒にこのシーンを演じることができて光栄です。"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "julian_go_1",
+                    "voice": "julian_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "『楽しんでする苦労は、苦痛を癒すものだ』"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "julian_battle_n_1",
+                    "voice": "julian_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "こっちだ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "julian_battle_n_2",
+                    "voice": "julian_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "ははっ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "julian_battle_n_3",
+                    "voice": "julian_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "僕を見ろ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "julian_battle_n_4",
+                    "voice": "julian_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "はぁーっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "julian_battle_n_5",
+                    "voice": "julian_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "幕を開くよ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "julian_battle_hit_1",
+                    "voice": "julian_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "厳しいな"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "julian_battle_hit_2",
+                    "voice": "julian_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "うっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "julian_battle_hit_3",
+                    "voice": "julian_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うぁっ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "julian_battle_hit_4",
+                    "voice": "julian_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "ああっ"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "julian_battle_hit_5",
+                    "voice": "julian_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "失敬だな！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "julian_battle_die_1",
+                    "voice": "julian_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "『Sweet are the uses of adversity』"
                 },
                 {
                     "key": "特技1",
-                    "voice": "julian_battle_h_1",
+                    "voice": "julian_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "『何も無いものからは何も出て来ん』"
                 },
                 {
                     "key": "特技2",
-                    "voice": "julian_battle_h_2",
+                    "voice": "julian_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "『君の死は千回祈ったが、君の命が救われるよう祈ったことは一度もない』"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "julian_battle_c_1",
+                    "voice": "julian_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "『《Carmen（カルメン）》』"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "julian_battle_c_2",
+                    "voice": "julian_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "『《Nessun dorma（ネッスン・ドルマ）》』"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "julian_win_1",
+                    "voice": "julian_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "今夜の出演者たちに万雷の拍手を！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "julian_fail_1",
+                    "voice": "julian_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "どんなに長い暗闇でも、いつか夜が明ける。だから落ち込まないでください、我がリーダー。"
                 }

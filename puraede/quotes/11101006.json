@@ -7,175 +7,175 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "sierra_get_1",
+                    "voice": "sierra_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "こんにちは、リーダー。私は食堂の娘、シエラだよ。お腹が空いたときは、いつでも美味しい料理を用意してあげるから、ぜひ来てね！そうそう、とっておきのシエラグルメもお楽しみに！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "sierra_in_1",
+                    "voice": "sierra_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "リーダー、新しいシエラグルメを作ったところだよ！　食べてくれるかな？"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "sierra_main_1",
+                    "voice": "sierra_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "私は戦うことにはあんまり自信はないけど…料理なら任せて。リーダーが食べたい物を教えてくれれば、ちゃんと作ってみせるから！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "sierra_main_2",
+                    "voice": "sierra_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "ミエルは私の料理を気に入ってくれてるんだ。でも、シエラグルメ以外に限るんだけどね。１回は食べてくれたんだけど、その後は全然食べてくれなくて…残念…"
                 },
                 {
                     "key": "突破",
-                    "voice": "sierra_stage_1",
+                    "voice": "sierra_stage_1.ogg",
                     "name": "突破",
                     "quote": "もっと美味しい料理を作れそうだね！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "sierra_stage_2",
+                    "voice": "sierra_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "リーダーへのお礼は、やっぱり料理がいいよね。でも残念、今回はシエラグルメを用意できてないんだ…"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "sierra_stage_3",
+                    "voice": "sierra_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "今の私なら、絶対に最高のシエラグルメを作れるよ！　リーダーはかならず一番に味見してね！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "sierra_star_1",
+                    "voice": "sierra_star_1.ogg",
                     "name": "覚醒",
                     "quote": "また新しい料理の技を覚えられたよ！　ありがとう、リーダー！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "sierra_interaction_1",
+                    "voice": "sierra_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "リーダー、お腹空いた？　ちょうど美味しい料理作ったところだから、今持ってくるね。"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "sierra_interaction_2",
+                    "voice": "sierra_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "一日お疲れ様。ジュースもお酒も料理も用意したから、好きなだけ食べて！　その後はゆっくり休んで、明日からまた元気に頑張ろうね！"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "sierra_interaction_3",
+                    "voice": "sierra_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リーダーのおかげで、たくさん美味しいものが作れてるんだよね。…ねえ、リーダー。料理のこと以外でも、困ったことがあったらお姉さんに相談してね？　約束だよ！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "sierra_interaction_4",
+                    "voice": "sierra_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "ずっとシエラグルメを味見してくれる人は、リーダーだけだよ。これからもお姉さんに付き合ってくれると嬉しいな。お姉さんもリーダーの期待に応えるからね、それはもう…どんなことでもね♪"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "sierra_interaction_5",
+                    "voice": "sierra_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "お帰りなさい！　今日は先にお風呂に入る？　ご飯を食べる？　それとも…ふふっ、冗談だよ。でもリーダーの体が大事なのは本当だから、これからは食事以外でもリーダーのお世話をさせてねっ。"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "sierra_go_1",
+                    "voice": "sierra_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "食材調達に行こっか！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "sierra_battle_n_1",
+                    "voice": "sierra_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "避けさせないよ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "sierra_battle_n_2",
+                    "voice": "sierra_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "やぁっ"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "sierra_battle_n_3",
+                    "voice": "sierra_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "召し上がれ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "sierra_battle_n_4",
+                    "voice": "sierra_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "いくよ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "sierra_battle_n_5",
+                    "voice": "sierra_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "えいっ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "sierra_battle_hit_1",
+                    "voice": "sierra_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "痛っ"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "sierra_battle_hit_2",
+                    "voice": "sierra_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "うわ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "sierra_battle_hit_3",
+                    "voice": "sierra_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "あぁっ！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "sierra_battle_hit_4",
+                    "voice": "sierra_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "待って！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "sierra_battle_hit_5",
+                    "voice": "sierra_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "もう…"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "sierra_battle_die_1",
+                    "voice": "sierra_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "完璧なシエラグルメが、あとちょっとで完成だったのに…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "sierra_battle_h_1",
+                    "voice": "sierra_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "食材を出しなさい！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "sierra_battle_c_1",
+                    "voice": "sierra_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "よく見てて。これが美味しい料理の作り方だよ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "sierra_win_1",
+                    "voice": "sierra_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "サービスが足りないところは許してね、ふふ。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "sierra_fail_1",
+                    "voice": "sierra_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "食材も取られちゃったし…今日はついてないなぁ…"
                 }

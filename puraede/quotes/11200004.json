@@ -7,193 +7,193 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "miel_get_1",
+                    "voice": "miel_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "美食を追い求める組織『金の皿』会長、ミエルだ。そちらの美食を是非とも教えてもらえるかな？　代わりにどんな危険なことでも私に任せてくれ。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "miel_in_1",
+                    "voice": "miel_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "おやリーダー、今日はどんな美食の情報を教えてくれるのかな。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "miel_main_1",
+                    "voice": "miel_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "『金の皿』会長として、美食を追うことは私の生涯をかけて成すべきことなんだ。だから美食に関わるすべての情報は、私に教えるように！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "miel_main_2",
+                    "voice": "miel_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "リーダーの世界には奇妙な食べ物が多そうだな…ふふ、再現するのが楽しみだ。リーダーも楽しみにしていてくれたまえ。"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "miel_main_3",
+                    "voice": "miel_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "美食について、何か手がかりはあったか？　うっ…シエラグルメの話しかないなら…他の美食を探しに行こう！"
                 },
                 {
                     "key": "突破",
-                    "voice": "miel_stage_1",
+                    "voice": "miel_stage_1.ogg",
                     "name": "突破",
                     "quote": "ふふ、美食にも代えがたい気持ち良さだね。ご馳走様！　"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "miel_stage_2",
+                    "voice": "miel_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "完璧だ！　こんな時こそ、お祝いの豪華な料理は欠かせないものだ！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "miel_stage_3",
+                    "voice": "miel_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "極上のご馳走をリーダーに振る舞うとしよう！　今日は特別に、私の手作りだ！　さぁ、テーブルの特等席へどうぞ！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "miel_star_1",
+                    "voice": "miel_star_1.ogg",
                     "name": "覚醒",
                     "quote": "美食で胃袋を満たす以外で、これほど私を幸福にさせられるのはリーダーだけだな。"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "miel_interaction_1",
+                    "voice": "miel_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "金の皿は美食を追い求めるこの世でもっとも素晴らしい組織なんだ！　ふふ…詳しく説明しようか？"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "miel_interaction_2",
+                    "voice": "miel_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "ラフレシアの蜜はどんな味がするのか…美食家としては絶対見逃す事が出来ないな！　まぁ、食べられる機会はかなり先になるのだが…ふふ。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "miel_interaction_3",
+                    "voice": "miel_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "『美食の前では、人々は皆平等である』――と育て親の伯爵に教わったのだが、リーダーと食事をしているとそうは思えないな。もっと、自分が特別な存在になったように感じる、というか…"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "miel_interaction_4",
+                    "voice": "miel_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "リーダーと一緒にいると、料理がさらに美味しく感じるな。ラフレシアの蜜でさえも、叶いそうにないぐらいに――な。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "miel_interaction_5",
+                    "voice": "miel_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "『金の皿』会長である私が開発したスペシャルメニューだ。さぁ、召し上がれ！前菜ばかりなんだけど…"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "miel_go_1",
+                    "voice": "miel_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "うん、美食の予感がするな"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "miel_battle_n_1",
+                    "voice": "miel_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "食べ物を粗末しない！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "miel_battle_n_2",
+                    "voice": "miel_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "いけ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "miel_battle_n_3",
+                    "voice": "miel_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "その身で味わえ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "miel_battle_n_4",
+                    "voice": "miel_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "はぁーっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "miel_battle_n_5",
+                    "voice": "miel_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "捜索開始だ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "miel_battle_hit_1",
+                    "voice": "miel_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "やめろ！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "miel_battle_hit_2",
+                    "voice": "miel_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "うわっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "miel_battle_hit_3",
+                    "voice": "miel_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うっ！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "miel_battle_hit_4",
+                    "voice": "miel_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "ぐっ…"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "miel_battle_hit_5",
+                    "voice": "miel_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "すこし痛むな…！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "miel_battle_die_1",
+                    "voice": "miel_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "ううっ、何かの食べ物に当たったか…！"
                 },
                 {
                     "key": "特技1",
-                    "voice": "miel_battle_h_1",
+                    "voice": "miel_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "さぁ、このデザートを召し上がるといい！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "miel_battle_h_2",
+                    "voice": "miel_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "あなたの心を、我が美食で慰めてみせよう。"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "miel_battle_c_1",
+                    "voice": "miel_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "急ぎの事件があるなら、この美食家の私にお任せ下さい。"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "miel_battle_c_2",
+                    "voice": "miel_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "美食は無駄にするべからず――まだひと踏ん張りしろ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "miel_win_1",
+                    "voice": "miel_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "皆で美食を享受してこそ、より美味しくなるものだ！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "miel_fail_1",
+                    "voice": "miel_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "今日の私には、美食を食べる資格はないな…"
                 }

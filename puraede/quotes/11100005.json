@@ -7,211 +7,211 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "francesca_get_1",
+                    "voice": "francesca_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "私はフランチェスカ。祖母は私を、『フラン』と呼んでいた。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "francesca_in_1",
+                    "voice": "francesca_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "ん…リーダーも、図書館が好き？　…私の邪魔をしないなら、好きにするといい。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "francesca_main_1",
+                    "voice": "francesca_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "本なら、ここにいくらでもある。読みたいなら…貸してもいい。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "francesca_main_2",
+                    "voice": "francesca_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "命をかけても…この大図書館を守る。それが、祖母との約束だから。"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "francesca_main_3",
+                    "voice": "francesca_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "この大図書館には、生まれてからずっといる。本があれば、退屈じゃない。"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "francesca_main_4",
+                    "voice": "francesca_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "エイプリルみたいな遊び人じゃないから、このままで構わない。…私は本が読めれば、それでいい。"
                 },
                 {
                     "key": "突破",
-                    "voice": "francesca_stage_1",
+                    "voice": "francesca_stage_1.ogg",
                     "name": "突破",
                     "quote": "知識は、前へ進むための原動力になる。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "francesca_stage_2",
+                    "voice": "francesca_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "ん…少しは、変化があったみたい。"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "francesca_stage_3",
+                    "voice": "francesca_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "あまり私に期待するな。…でも期待したいと言うなら、好きにすればいい。"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "francesca_star_1",
+                    "voice": "francesca_star_1.ogg",
                     "name": "覚醒",
                     "quote": "…この計り知れない力、何かが変わった…"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "francesca_interaction_1",
+                    "voice": "francesca_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "読書中だ、邪魔をするな。"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "francesca_interaction_2",
+                    "voice": "francesca_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "質問がある。…なぜリーダーは、オリヴィアのようにおかしくなった？"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "francesca_interaction_3",
+                    "voice": "francesca_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "頼りないあいつらと比べたら、リーダーはまし。…別に、褒めてるわけじゃない。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "francesca_interaction_4",
+                    "voice": "francesca_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "リーダーのお節介で、本を読めなかったりしたけど…いろいろ経験できたから、問題ない。…ありがとう。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "francesca_interaction_5",
+                    "voice": "francesca_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "バカばかりだけど…昔みたいに、退屈じゃない。　ただ、このバカたちはちゃんと管理すべき。…リーダーと私で。"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "francesca_go_1",
+                    "voice": "francesca_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "引っ張るな。"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "francesca_battle_n_1",
+                    "voice": "francesca_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "バカ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "francesca_battle_n_2",
+                    "voice": "francesca_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "えいっ…！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "francesca_battle_n_3",
+                    "voice": "francesca_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "面倒…！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "francesca_battle_n_4",
+                    "voice": "francesca_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "はっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "francesca_battle_n_5",
+                    "voice": "francesca_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "最悪…！"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "francesca_battle_n_6",
+                    "voice": "francesca_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "っ…バカ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "francesca_battle_hit_1",
+                    "voice": "francesca_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "いやっ…！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "francesca_battle_hit_2",
+                    "voice": "francesca_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "わっ…"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "francesca_battle_hit_3",
+                    "voice": "francesca_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うぅ…"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "francesca_battle_hit_4",
+                    "voice": "francesca_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "やめろ…！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "francesca_battle_hit_5",
+                    "voice": "francesca_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "うぁっ…"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "francesca_battle_hit_6",
+                    "voice": "francesca_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "気に入らない…！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "francesca_battle_die_1",
+                    "voice": "francesca_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "…やはり私に、肉体活動は似合わない…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "francesca_battle_h_1",
+                    "voice": "francesca_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "バカ、気を付けろ。"
                 },
                 {
                     "key": "特技2",
-                    "voice": "francesca_battle_h_2",
+                    "voice": "francesca_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "見てられない…"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "francesca_battle_c_1",
+                    "voice": "francesca_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "見せてやる。本が私に与えてくれる力を――"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "francesca_battle_c_2",
+                    "voice": "francesca_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "大図書館の全てを管理することが、私の仕事。…ついでに、バカの管理も。"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "francesca_win_1",
+                    "voice": "francesca_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "知識さえあれば、勝つのは簡単。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "francesca_fail_1",
+                    "voice": "francesca_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "計算には間違いない…絶対、他に何か問題がある。"
                 }

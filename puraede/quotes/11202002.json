@@ -7,199 +7,199 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "marta_get_1",
+                    "voice": "marta_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "プライドに入れてくれてありがとうございますっ。私はうっかり者だし、お役に立てるかわからないですけど…精一杯頑張るので、よろしくお願いします！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "marta_in_1",
+                    "voice": "marta_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "リーダーさん、おかえりなさい。このあたりは、もう片付けておきましたよ。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "marta_main_1",
+                    "voice": "marta_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "私は小さい頃から背が高くて、力もとても強かったんですけど…村の皆さんはずっと普通に接してくれたんですよ、えへへ。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "marta_main_2",
+                    "voice": "marta_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "皆さんが戦ってる姿を見ると「このままじゃいけない、私も強くならなくちゃ」って思うんですけど…どうすれば強くなれるんでしょう？"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "marta_main_3",
+                    "voice": "marta_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "力が強すぎて、困ることが多いんです。料理しようとしてフライパンを壊しちゃったり、掃除しようとして家具を壊しちゃったり…もっと力加減を覚えなくちゃ。"
                 },
                 {
                     "key": "突破",
-                    "voice": "marta_stage_1",
+                    "voice": "marta_stage_1.ogg",
                     "name": "突破",
                     "quote": "私、また成長できたんですか？　…背も、また伸びたりしてないかな？"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "marta_stage_2",
+                    "voice": "marta_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "力がまた強くなったみたいですっ…。ちゃんと力加減できるかな…？"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "marta_stage_3",
+                    "voice": "marta_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "力の加減が上手くできるようになりましたっ。リーダーさん、私にもっとお手伝いをさせてください！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "marta_star_1",
+                    "voice": "marta_star_1.ogg",
                     "name": "覚醒",
                     "quote": "あのっ、私…これでもっと、リーダーさんの力になれるんですよね！　リーダーさんのためになりたいですっ。"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "marta_interaction_1",
+                    "voice": "marta_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "こういうことをされるのは、恥ずかしいですけど…リーダーさんが私のことを普通の女の子として構ってくれるのは…とっても嬉しいです。えへへ…"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "marta_interaction_2",
+                    "voice": "marta_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "このプライドに入れて、本当に良かったです。皆さんとっても優しくて、とっても楽しくて…私ももっと頑張って、皆さんの力になりたいですっ。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "marta_interaction_3",
+                    "voice": "marta_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "田舎で育ったので、家事も一通りできるし、体力もあるんですっ。だからリーダーさん、もっといろんなことを手伝わせてくださいっ。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "marta_interaction_4",
+                    "voice": "marta_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "最近の私、変なんです…。リーダーさんの前だと、自分が小さな女の子みたいで…リーダーさんのことを思い出しただけで、顔が赤くなって…"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "marta_interaction_5",
+                    "voice": "marta_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "ふあ、リーダーさんの匂い…安心します…。…ふふ。こんなに近いと、リーダーさんの胸の音も聞こえそうですね…あの、もう少しこのままでいていいですか…？"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "marta_go_1",
+                    "voice": "marta_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "私の力、使ってくれるんですか？"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "marta_battle_n_1",
+                    "voice": "marta_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "動かないでくださいっ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "marta_battle_n_2",
+                    "voice": "marta_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "見ててくださいっ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "marta_battle_n_3",
+                    "voice": "marta_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "えいっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "marta_battle_n_4",
+                    "voice": "marta_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "てやっ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "marta_battle_n_5",
+                    "voice": "marta_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "思いっきりいきますっ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "marta_battle_hit_1",
+                    "voice": "marta_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "大丈夫です！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "marta_battle_hit_2",
+                    "voice": "marta_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "わぁっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "marta_battle_hit_3",
+                    "voice": "marta_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "やめてくださいっ！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "marta_battle_hit_4",
+                    "voice": "marta_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "やあぁ！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "marta_battle_hit_5",
+                    "voice": "marta_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "うひゃあっ"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "marta_battle_hit_6",
+                    "voice": "marta_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "あう、痛い！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "marta_battle_die_1",
+                    "voice": "marta_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "ごめんなさい、皆さんにご迷惑をかけてばっかりで…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "marta_battle_h_1",
+                    "voice": "marta_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "それ～！　皆さん、飛んでいってくださーい！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "marta_battle_h_2",
+                    "voice": "marta_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "こんな私でも、できることがあるって…見せたいです！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "marta_battle_c_1",
+                    "voice": "marta_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "はいっ！　私も全力で攻撃しますよ！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "marta_battle_c_2",
+                    "voice": "marta_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "私の全力、どうぞ味わってくださいっ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "marta_win_1",
+                    "voice": "marta_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "まだまだ私、戦えますから！　行きましょう、リーダーさんっ"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "marta_fail_1",
+                    "voice": "marta_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "私の力が足りなかったせいです、ごめんなさい…"
                 }

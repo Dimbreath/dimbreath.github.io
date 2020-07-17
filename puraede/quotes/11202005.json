@@ -7,193 +7,193 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "cate_get_1",
+                    "voice": "cate_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "おまえがリーダーか。これから怪我をしたときには、私に任せておけ。…もちろん、そんな仕事はないほうがいいがな。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "cate_in_1",
+                    "voice": "cate_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "また面倒ごとか？　――なんだ、リーダーか。ほら、早くこちらに来ればいいだろう。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "cate_main_1",
+                    "voice": "cate_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "怪我をしたやつがいたら、すぐに呼ぶんだぞ。…あと、もし出血が多かったら先に掃除できるやつを呼んでおくこと。よく覚えておくんだぞ。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "cate_main_2",
+                    "voice": "cate_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "私からしたら、便りがないことはいい便りだ。私の仕事がなくても、気にすることはない。"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "cate_main_3",
+                    "voice": "cate_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "シャノンのやつと関わると面倒なことになるからな、リーダーも気をつけたほうがいい。さもないと、何が起きるかわからないぞ。"
                 },
                 {
                     "key": "突破",
-                    "voice": "cate_stage_1",
+                    "voice": "cate_stage_1.ogg",
                     "name": "突破",
                     "quote": "やれやれ…こうも期待されたら、もっと働かないとな。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "cate_stage_2",
+                    "voice": "cate_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "たくさんの患者を救えるのは悪くない。だが…怪我も病気も、もっと少なくあるべきだ。"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "cate_stage_3",
+                    "voice": "cate_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "ムチャをして怪我したやつらは、全員私に任せておけ。私がしっかり『治療』してやるからな。"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "cate_star_1",
+                    "voice": "cate_star_1.ogg",
                     "name": "覚醒",
                     "quote": "手を貸してもらえて助かった、リーダー。おかげで私の治療も戦いも、ずいぶん腕が上がったよ。これで何が起きても、おまえを助けられる。"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "cate_interaction_1",
+                    "voice": "cate_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "何してるんだ？　用がないなら、どこかに行ってくれ。私にはやることがたくさんあるんだ、暇人だと思うなよ。"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "cate_interaction_2",
+                    "voice": "cate_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "メンバーもリーダーも、放っておくのが心配なやつばかりだな…別に、おまえを責めてるわけじゃない。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "cate_interaction_3",
+                    "voice": "cate_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "おまえが手助けをしてくれるのは助かる。…だが、おまえも無理はするなよ。倒れられたら困るやつがたくさんいるんだからな。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "cate_interaction_4",
+                    "voice": "cate_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "近頃、あまり私のところに来ないな。…べ、別にさみしいなんて言っていない！　変なことを考えるのはやめろ、包帯で口をふさぐぞ！"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "cate_interaction_5",
+                    "voice": "cate_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "あぁ本当にうっとうしいやつだ、私の気持ちを乱してばかり…！　…いったいどうすれば、リーダーを私のものにできるんだ…"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "cate_go_1",
+                    "voice": "cate_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "怪我人は私に任せておけ。"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "cate_battle_n_1",
+                    "voice": "cate_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "邪魔するな！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "cate_battle_n_2",
+                    "voice": "cate_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "はぁ――っ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "cate_battle_n_3",
+                    "voice": "cate_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "ふっ…！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "cate_battle_n_4",
+                    "voice": "cate_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "怪我するぞ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "cate_battle_n_5",
+                    "voice": "cate_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "ちっ、面倒な…！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "cate_battle_hit_1",
+                    "voice": "cate_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "ち、血が…！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "cate_battle_hit_2",
+                    "voice": "cate_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "くそっ！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "cate_battle_hit_3",
+                    "voice": "cate_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "わっ…！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "cate_battle_hit_4",
+                    "voice": "cate_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "うぁっ！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "cate_battle_hit_5",
+                    "voice": "cate_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "しまった…！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "cate_battle_die_1",
+                    "voice": "cate_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "薬を飲むのが遅かったな、私はここまでのようだ…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "cate_battle_h_1",
+                    "voice": "cate_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "焦ることはない、私がおまえを治してやる。"
                 },
                 {
                     "key": "特技2",
-                    "voice": "cate_battle_h_2",
+                    "voice": "cate_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "本当に世話が焼けるやつらだ"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "cate_battle_c_1",
+                    "voice": "cate_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "ここはツケにしてやる。帰ったら治療費をもらうからな。"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "cate_battle_c_2",
+                    "voice": "cate_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "治療なら、素直に私に任せておけ。期待に応えてやる。"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "cate_win_1",
+                    "voice": "cate_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "今怪我をしたやつは、列を作れ。順番に治療してやる"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "cate_fail_1",
+                    "voice": "cate_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "はあ…これでまた仕事が増えたな…"
                 }

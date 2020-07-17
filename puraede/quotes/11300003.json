@@ -7,211 +7,211 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "aloe_get_1",
+                    "voice": "aloe_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "ああ、やっと会えてうれしいです、リーダーさん…。私は薬師のアロエです。あなたのためなら私、どんな薬でも作りますから。痺れ薬に、眠り薬に、毒薬に…ふふ、いつでも声をかけてくださいね。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "aloe_in_1",
+                    "voice": "aloe_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "ああ、やっと来てくれた…他の女の子と遊んだりしてませんよね？　ふふ…"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "aloe_main_1",
+                    "voice": "aloe_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "リーダーさんの望みなら、誰でも助けに行きますし、誰でも殺してみせますよ。リーダーさんのためなら、何でもできますから…！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "aloe_main_2",
+                    "voice": "aloe_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "私にとってリーダーさんは大事な存在ですから、誰もリーダーさんのそばに近づけさせたくないんです。ねえ、リーダーさんなら、わかってくれますよね…？"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "aloe_main_3",
+                    "voice": "aloe_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "リーダーさん、ここにある薬に触っちゃダメですよ。いえ、どうしても触りたいなら止めませんが…間違えてリーダーさんの指が腐り落ちたりしたら、大変ですから。…ね？"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "aloe_main_4",
+                    "voice": "aloe_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "最近、いやらしい女がリーダーさんの周りをウロウロしていますよね。でもリーダーさんの心は変わらないって信じてますから。私だけいれば、満足してくれますよね…？"
                 },
                 {
                     "key": "突破",
-                    "voice": "aloe_stage_1",
+                    "voice": "aloe_stage_1.ogg",
                     "name": "突破",
                     "quote": "リーダーさんと私の心が、近づいた気がします。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "aloe_stage_2",
+                    "voice": "aloe_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "リーダーさんが優しいことは、もうずっと前から知っていますから。うふふふふ…リーダーさんを離しません…"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "aloe_stage_3",
+                    "voice": "aloe_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "ふふ。これでリーダーさんには、私一人いれば充分ですね。そろそろ、他の人にもそれをわかってもらわなくちゃ、うふふふふ…"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "aloe_star_1",
+                    "voice": "aloe_star_1.ogg",
                     "name": "覚醒",
                     "quote": "ああ、リーダーさんのこの優しさ…私、いつまでも忘れませんから…！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "aloe_interaction_1",
+                    "voice": "aloe_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "リーダーさんは、私ともっと親密な関係になりたいですか？　私ならいつでも、お付き合いしますよ。"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "aloe_interaction_2",
+                    "voice": "aloe_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "ふふ…リーダーさんに見つめてもらえると、本当に嬉しいです。でも…他の女の子は見ないで、私だけを見てくれると、もっともっと嬉しいです…。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "aloe_interaction_3",
+                    "voice": "aloe_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リーダーさん以外、誰も私を理解していないんです。ふふ…でも他人なんて、どうでもいいんです。私にとって、リーダーさんだけいれば充分ですから。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "aloe_interaction_4",
+                    "voice": "aloe_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "リーダーさんと出会ってから、 寂しくなくなったんです。だからこれからも、 リーダーさんが行くどんな場所にも、 必ず付いて行かせてくださいね。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "aloe_interaction_5",
+                    "voice": "aloe_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "ああ、やっぱり私を理解してくれるのはリーダーさんだけ…。リーダーさん、私たちはかけがえのない存在ですよね？　だから、互いのすべてを独占しあいましょう…うふふふ…！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "aloe_go_1",
+                    "voice": "aloe_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "リーダーさんの敵は、私の敵ですよ"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "aloe_battle_n_1",
+                    "voice": "aloe_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "後悔してください"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "aloe_battle_n_2",
+                    "voice": "aloe_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "どうですか？"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "aloe_battle_n_3",
+                    "voice": "aloe_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "逃げられませんよ"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "aloe_battle_n_4",
+                    "voice": "aloe_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "あきらめてください"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "aloe_battle_n_5",
+                    "voice": "aloe_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "ふふ…"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "aloe_battle_n_6",
+                    "voice": "aloe_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "どんな苦しみがお好みですか？"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "aloe_battle_hit_1",
+                    "voice": "aloe_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "許せません"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "aloe_battle_hit_2",
+                    "voice": "aloe_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "んんっ…"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "aloe_battle_hit_3",
+                    "voice": "aloe_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "ああっ…"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "aloe_battle_hit_4",
+                    "voice": "aloe_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "なんですか？"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "aloe_battle_hit_5",
+                    "voice": "aloe_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "くっ…"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "aloe_battle_hit_6",
+                    "voice": "aloe_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "ふふ、やりますね…"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "aloe_battle_die_1",
+                    "voice": "aloe_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "リーダーさんが無事なら、この程度の痛み、なんてことありません…！"
                 },
                 {
                     "key": "特技1",
-                    "voice": "aloe_battle_h_1",
+                    "voice": "aloe_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "ふふ、生まれてきたことを後悔させてあげますね。"
                 },
                 {
                     "key": "特技2",
-                    "voice": "aloe_battle_h_2",
+                    "voice": "aloe_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "薬師の戦い方には、いろいろあるんですよ"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "aloe_battle_c_1",
+                    "voice": "aloe_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "諦めが悪い人には、死ぬよりもつらい感覚を教えてあげますね…！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "aloe_battle_c_2",
+                    "voice": "aloe_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "たくさんの薬を同時に使えば、もっともっと、苦痛を増すことができるんです…"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "aloe_win_1",
+                    "voice": "aloe_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "リーダーさんのためなら私、死んでもいいですから。うふふふふ…！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "aloe_fail_1",
+                    "voice": "aloe_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "上手くいきませんでした…リーダーさんに嫌われたくないです…"
                 }

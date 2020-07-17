@@ -7,205 +7,205 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "olivia_get_1",
+                    "voice": "olivia_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "オリヴィアよ、これからよろしくね。あなたの期待を超えられるよう、努力させてもらうわ。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "olivia_in_1",
+                    "voice": "olivia_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "リーダー、お帰りなさい。今日も気を引き締めていきましょう。"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "olivia_main_1",
+                    "voice": "olivia_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "リーダー、疲れているのなら…気分転換に散歩でもどうかしら？　その…私も付き合ってあげてもいいのだけど。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "olivia_main_2",
+                    "voice": "olivia_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "はぁ～～このぬいぐるみ、すっごく可愛い…って、リーダー！？　いつからそこに…い、今のは、えっと…！"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "olivia_main_3",
+                    "voice": "olivia_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "可愛いものには、その…ちょっと気を抜いたときに癒されるだけ！　だから別に、大好きとかじゃなくてっ…"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "olivia_main_4",
+                    "voice": "olivia_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "最近また、エイプリルに振り回されがちなの…もっと特訓が必要ね。"
                 },
                 {
                     "key": "突破",
-                    "voice": "olivia_stage_1",
+                    "voice": "olivia_stage_1.ogg",
                     "name": "突破",
                     "quote": "ありがとう。成長できたのは嬉しいけど…まだまだこれからね。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "olivia_stage_2",
+                    "voice": "olivia_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "こんな私…どう思うかしら？　少しは、大人らしくなった？"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "olivia_stage_3",
+                    "voice": "olivia_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "ここまで来れたのは、すべてリーダーのおかげよ。恩を返せるよう、もっと努力しなくちゃね。"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "olivia_star_1",
+                    "voice": "olivia_star_1.ogg",
                     "name": "覚醒",
                     "quote": "今まで付き合ってくれてありがとう。これからは、私があなたの剣になるわ。"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "olivia_interaction_1",
+                    "voice": "olivia_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "リ、リーダー、やめなさい！　やめないと…怒るわよ！"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "olivia_interaction_2",
+                    "voice": "olivia_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "エイプリルを見かけなかったかしら？　もう…きっとまた、どこかでいたずらしてるんだわ。"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "olivia_interaction_3",
+                    "voice": "olivia_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "気を抜いちゃだめ…可愛いものが好きだなんて、もしバレたら…！　あっ、リーダー！　いえ、な、なんでもないの！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "olivia_interaction_4",
+                    "voice": "olivia_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "くんくん…リーダーって、なんだか落ち着く匂いがするわ…って、その、変な意味じゃなくて！"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "olivia_interaction_5",
+                    "voice": "olivia_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "リーダーの気持ちはわかったわ。私もあなたのこと、嫌いじゃない、というか…好き、というか…あぁ、もう…"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "olivia_go_1",
+                    "voice": "olivia_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "私の実力を信じてくれるなら、期待に応えなくちゃね。"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "olivia_battle_n_1",
+                    "voice": "olivia_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "全力で行くわ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "olivia_battle_n_2",
+                    "voice": "olivia_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "はっ！　やぁ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "olivia_battle_n_3",
+                    "voice": "olivia_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "このっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "olivia_battle_n_4",
+                    "voice": "olivia_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "はぁーーー！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "olivia_battle_n_5",
+                    "voice": "olivia_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "覚悟しなさい。"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "olivia_battle_hit_1",
+                    "voice": "olivia_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "やめなさいっ！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "olivia_battle_hit_2",
+                    "voice": "olivia_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "ううっ"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "olivia_battle_hit_3",
+                    "voice": "olivia_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "くっ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "olivia_battle_hit_4",
+                    "voice": "olivia_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "もうっ！"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "olivia_battle_hit_5",
+                    "voice": "olivia_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "きゃっ…"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "olivia_battle_hit_6",
+                    "voice": "olivia_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "この程度、なんてことないわ！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "olivia_battle_die_1",
+                    "voice": "olivia_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "ごめんなさい、リーダー。私がもっとしっかりしていれば…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "olivia_battle_h_1",
+                    "voice": "olivia_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "本当の剣術を見せてあげるわ！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "olivia_battle_h_2",
+                    "voice": "olivia_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "食らいなさい！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "olivia_battle_c_1",
+                    "voice": "olivia_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "どんな敵でも逃げたりしないわ！　さぁ我が剣よ、輝きなさい！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "olivia_battle_c_2",
+                    "voice": "olivia_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "リーダーの期待に応えるため――この剣の輝きで、私の意志を証明するわ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "olivia_win_1",
+                    "voice": "olivia_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "ふぅ…リーダーの指示のおかげで、結果が出せたわね。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "olivia_fail_1",
+                    "voice": "olivia_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "役に立てなくて…本当に、ごめんなさい…"
                 }

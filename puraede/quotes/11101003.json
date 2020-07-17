@@ -7,163 +7,163 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "nonno_get_1",
+                    "voice": "nonno_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "温泉宿の娘、ノンノだよー！　たーっくさんの人たちを助けたいから、このプライドに入れさせてね！　頑張って戦うよーっ！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "nonno_in_1",
+                    "voice": "nonno_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "今日もみんなを助けようね、リーダー！"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "nonno_main_1",
+                    "voice": "nonno_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "ノンノも、リーダーみたいな癒しの力が欲しいんだ。そしたら、もっとたくさんの人を助けられて、みーんな癒せるよねっ。えへへ！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "nonno_main_2",
+                    "voice": "nonno_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "ノンノの家の温泉はすごいんだよ！　疲れが取れるし、病気も治せちゃうんだ！　後でリーダーも入ってね！"
                 },
                 {
                     "key": "突破",
-                    "voice": "nonno_stage_1",
+                    "voice": "nonno_stage_1.ogg",
                     "name": "突破",
                     "quote": "温泉に入ったみたいに、力が湧いてくるよ～！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "nonno_stage_2",
+                    "voice": "nonno_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "ノンノ、前より強くなれたよねっ？　リーダーのおかげだよ～！　ノンノ、もっともっと癒してあげるね！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "nonno_stage_3",
+                    "voice": "nonno_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "リーダーがノンノにしてくれたこと、ぜーんぶ覚えてるし、すーっごく嬉しいよ！　リーダーがノンノを助けてくれたみたいに、ノンノもみーんなを助けるからね！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "nonno_star_1",
+                    "voice": "nonno_star_1.ogg",
                     "name": "覚醒",
                     "quote": "ノンノ、すっごくすっごく強くなれちゃった！　これなら、世界中の人たちを助けて癒せちゃうよっ！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "nonno_interaction_1",
+                    "voice": "nonno_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "なんでもお手伝いするよ、リーダー！　あっ、肩もみなんてどうかな？　ノンノ、得意なんだよっ！"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "nonno_interaction_2",
+                    "voice": "nonno_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "リーダーと一緒にいる人、みーんな幸せそうでいいなぁ…ノンノもリーダーみたいに、いっぱい笑顔にしてあげたいなぁ！"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "nonno_interaction_3",
+                    "voice": "nonno_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リーダーはいつも優しくて、みんなのお世話をしててえらいけど…自分のことを後回しにしてばっかりなのは、よくないよっ。でも大丈夫、リーダーのお世話はこれからノンノがしてあげるからねっ。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "nonno_interaction_4",
+                    "voice": "nonno_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "お風呂の準備できたよー！　一番風呂はもちろんリーダーから！　ノンノがお背中を流してあげるからね〜っ！"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "nonno_interaction_5",
+                    "voice": "nonno_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "冒険で疲れたら、いつでもノンノの家の温泉で休憩していってね！　リーダーのこと、しっかりおもてなしするから、絶対に来てねーっ！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "nonno_go_1",
+                    "voice": "nonno_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "ノンノに任せて！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "nonno_battle_n_1",
+                    "voice": "nonno_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "ノンノの番だ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "nonno_battle_n_2",
+                    "voice": "nonno_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "えいっ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "nonno_battle_n_3",
+                    "voice": "nonno_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "見ててっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "nonno_battle_n_4",
+                    "voice": "nonno_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "えへへ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "nonno_battle_hit_1",
+                    "voice": "nonno_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "だ、大丈夫！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "nonno_battle_hit_2",
+                    "voice": "nonno_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "えーん！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "nonno_battle_hit_3",
+                    "voice": "nonno_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "わぁっ！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "nonno_battle_hit_4",
+                    "voice": "nonno_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "やめて〜！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "nonno_battle_die_1",
+                    "voice": "nonno_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "ノンノ、もうみんなの力になれないみたい…ごめんね…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "nonno_battle_h_1",
+                    "voice": "nonno_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "あんまり長く、温泉につかっちゃダメだよ～！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "nonno_battle_c_1",
+                    "voice": "nonno_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "ノンノの温泉を味わってねーっ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "nonno_win_1",
+                    "voice": "nonno_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "みんなで温泉に入って、疲れを取ろうね！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "nonno_fail_1",
+                    "voice": "nonno_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "ノンノ、みんなを癒せなかったみたい…"
                 }

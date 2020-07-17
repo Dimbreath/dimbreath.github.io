@@ -7,169 +7,169 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "evelynn_get_1",
+                    "voice": "evelynn_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "イ、イヴリンです。わ、わたしは弱くて、不器用です、けど…雑用でも、なんでもやりますからっ…！　どうか、あなたについていかせてくださいっ…！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "evelynn_in_1",
+                    "voice": "evelynn_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "お、お帰りなさい、リーダーさん…えへへ、なんだか照れますね…"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "evelynn_main_1",
+                    "voice": "evelynn_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "わ、わたしは、本当になんにもできないですが…か、肩を揉むぐらいだったら、大丈夫だと思うので…たぶん、きっと…"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "evelynn_main_2",
+                    "voice": "evelynn_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "じ、自由にしていいんですか…？　は、初めて言われた言葉です…。ず、ずっと今まで、誰かに言われて働いてきたので…その…ど、どうしたらいいんでしょうか…？"
                 },
                 {
                     "key": "突破",
-                    "voice": "evelynn_stage_1",
+                    "voice": "evelynn_stage_1.ogg",
                     "name": "突破",
                     "quote": "わ、わたしのために…本当にいいんですか？"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "evelynn_stage_2",
+                    "voice": "evelynn_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "わ、わたしもリーダーさんみたいに、かっこよくなりたいですっ…リ、リーダーさんっ、いろんなこと、教えてもらえますか…？"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "evelynn_stage_3",
+                    "voice": "evelynn_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "つ、強さや自由を教えてくれたリーダーさんに、 とっても…感謝してますっ。 これからもわたしを、そばにいさせてくださいっ…  すこしでも、あなたのために…  働かせてくださいっ。"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "evelynn_star_1",
+                    "voice": "evelynn_star_1.ogg",
                     "name": "覚醒",
                     "quote": "な、何かさせてください。少しでも、お礼をしたいんですっ…"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "evelynn_interaction_1",
+                    "voice": "evelynn_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "はわっ…は、はいっ！　ぼ、ぼんやりしてて、ごめんなさいっ…な、なんでもお手伝いしますからっ…！"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "evelynn_interaction_2",
+                    "voice": "evelynn_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "リ、リーダーさんっ、あの…わたし、言いたいことが…あっ、いいえ…何でもないです…。あ、あの、そろそろ冒険の準備、してきます…"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "evelynn_interaction_3",
+                    "voice": "evelynn_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リ、リーダーさんっ…あの、えっと、その…ぼ、冒険…お疲れさまでした！　…ふぅっ…ずっと言いたかったこと、やっと言えましたっ…。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "evelynn_interaction_4",
+                    "voice": "evelynn_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "リ、リーダーさんっ…よ、よかったら、おしゃべりしませんか…？　その、ちょっとだけでいいので…えへへ…"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "evelynn_interaction_5",
+                    "voice": "evelynn_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "こ、このプライドに入ってから…人生で一番、幸せな時間を過ごしてるんです…。毎日リーダーさんとおしゃべりして、働いて、のんびりして…これからもリーダーさんと過ごせたらいいなって思います…ずっとずっと、この先も…"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "evelynn_go_1",
+                    "voice": "evelynn_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "なんにもできないかもしれないけど…何かしたいんですっ…！"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "evelynn_battle_n_1",
+                    "voice": "evelynn_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "攻撃しますっ…！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "evelynn_battle_n_2",
+                    "voice": "evelynn_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "やらせてくださいっ"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "evelynn_battle_n_3",
+                    "voice": "evelynn_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "えいっ…！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "evelynn_battle_n_4",
+                    "voice": "evelynn_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "やあっ…！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "evelynn_battle_n_5",
+                    "voice": "evelynn_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "お願いっ…！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "evelynn_battle_hit_1",
+                    "voice": "evelynn_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "ううっ"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "evelynn_battle_hit_2",
+                    "voice": "evelynn_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "やめて…！"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "evelynn_battle_hit_3",
+                    "voice": "evelynn_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "痛いっ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "evelynn_battle_hit_4",
+                    "voice": "evelynn_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "きゃあっ"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "evelynn_battle_die_1",
+                    "voice": "evelynn_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "や、やっぱり、わたしはなんにもできないみたいです…うう～…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "evelynn_battle_h_1",
+                    "voice": "evelynn_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "わ、わたしにもできることがあるはずだからっ…！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "evelynn_battle_c_1",
+                    "voice": "evelynn_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "リ、リーダーさんの言うとおり、全力を尽くしますっ…！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "evelynn_win_1",
+                    "voice": "evelynn_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "わ、わたしも戦えましたっ…ありがとうございます、リーダーさんっ…！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "evelynn_fail_1",
+                    "voice": "evelynn_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "す、すみません、すみませんっ…わたしのせいで…"
                 }

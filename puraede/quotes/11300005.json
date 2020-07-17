@@ -7,205 +7,205 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "sara_get_1",
+                    "voice": "sara_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "サラだ。かわいいリーダーには特別に、この世界の楽しみ方をお姉さんが案内してあげようか。ふふ。"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "sara_in_1",
+                    "voice": "sara_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "お帰り、リーダー。ご飯にするかい、お風呂にするかい？　それとも…お姉さんにするかい？"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "sara_main_1",
+                    "voice": "sara_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "リーダー。私の遊びに付き合ってくれるなら、とっておきのご奉仕をしてあげよう。…って、どちらも一緒かな？"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "sara_main_2",
+                    "voice": "sara_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "こちらのお仕事は終わったよ。他に命令はあるかな？　家事から戦闘まで…もちろん、夜のことも任せてくれ。"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "sara_main_3",
+                    "voice": "sara_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "私の過去が知りたいなら…ほら、口を開けて。あーん。…ふふ、ケーキを食べるときのリーダーも愛らしいね。"
                 },
                 {
                     "key": "待機ボイス4",
-                    "voice": "sara_main_4",
+                    "voice": "sara_main_4.ogg",
                     "name": "待機ボイス4",
                     "quote": "リーダー、オリヴィアのお嬢を見なかったかな？ 探しているんだが、どこにもいなくてね。 やれやれ、彼女が怪我をしたら私が怒られてしまうよ。"
                 },
                 {
                     "key": "突破",
-                    "voice": "sara_stage_1",
+                    "voice": "sara_stage_1.ogg",
                     "name": "突破",
                     "quote": "おや。この感じ、なかなか悪くないね。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "sara_stage_2",
+                    "voice": "sara_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "かわいいリーダーに頼られてうれしいよ、ふふ。リーダーが望むなら、お姉さんはいつでも助けに来よう。"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "sara_stage_3",
+                    "voice": "sara_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "これが君の望む姿なのかい？　ふふ。お姉さんは君を満足させてあげられたかな？"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "sara_star_1",
+                    "voice": "sara_star_1.ogg",
                     "name": "覚醒",
                     "quote": "君の望みなら、なんでもお姉さんが叶えてあげよう。ふふ、これもメイドの勤めだからね。"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "sara_interaction_1",
+                    "voice": "sara_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "メイドは二十四時間、主人に付き添うものだからね。夜まで待たなくともーー大丈夫だよ？"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "sara_interaction_2",
+                    "voice": "sara_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "お姉さんの毛並みはなかなかのものだけど、肌のほうも自信があるんだ。ほら、触って確かめてみるかい？"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "sara_interaction_3",
+                    "voice": "sara_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "リーダー、大好きだよ。…どうだい、何か感じたかな？　…おや、おかしいな。ちゃんと少しだけ、気持ちを込めたんだけど。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "sara_interaction_4",
+                    "voice": "sara_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "君が目の前にいてくれる幸せを大事にしたいんだ。この幸せを守るためなら、お姉さんはなんでもやるよ。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "sara_interaction_5",
+                    "voice": "sara_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "この先は、いつまでも君と共にありたいと思っているよ。 …ふふ、お姉さんだってたまには本気で、 愛を囁くぐらいするさ。 だから、ちゃんと聞いてくれリーダー。 …愛しているよ。本当に、ね"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "sara_go_1",
+                    "voice": "sara_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "お姉さんに任せてくれ。"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "sara_battle_n_1",
+                    "voice": "sara_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "邪魔だね。"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "sara_battle_n_2",
+                    "voice": "sara_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "あっはっはっは！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "sara_battle_n_3",
+                    "voice": "sara_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "はぁーっやっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "sara_battle_n_4",
+                    "voice": "sara_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "片付けるよ"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "sara_battle_n_5",
+                    "voice": "sara_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "はっ！"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "sara_battle_n_6",
+                    "voice": "sara_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "逃がさないよ"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "sara_battle_hit_1",
+                    "voice": "sara_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "厄介だな"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "sara_battle_hit_2",
+                    "voice": "sara_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "くっ"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "sara_battle_hit_3",
+                    "voice": "sara_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "あぁっ"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "sara_battle_hit_4",
+                    "voice": "sara_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "チッ…"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "sara_battle_hit_5",
+                    "voice": "sara_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "狙われているのかな？"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "sara_battle_die_1",
+                    "voice": "sara_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "平和な日常に、慣れすぎたのかもしれないな…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "sara_battle_h_1",
+                    "voice": "sara_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "主人の命令は絶対だからね"
                 },
                 {
                     "key": "特技2",
-                    "voice": "sara_battle_h_2",
+                    "voice": "sara_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "ゴミはゴミ置き場に戻るといいよ"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "sara_battle_c_1",
+                    "voice": "sara_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "リーダーの邪魔になった瞬間に、君たちの運命はもう決まったんだ"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "sara_battle_c_2",
+                    "voice": "sara_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "完璧なメイドというのは、主人の悩みを全て解決できるんだよ――はぁ！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "sara_win_1",
+                    "voice": "sara_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "片付けは済んだよ。帰って、お姉さんと一緒にゆっくりしようか。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "sara_fail_1",
+                    "voice": "sara_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "久しぶりの戦い、すこし舐めていたかな…やれやれ…"
                 }

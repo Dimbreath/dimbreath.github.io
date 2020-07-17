@@ -7,205 +7,205 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "wichita_get_1",
+                    "voice": "wichita_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "俺様はウィチタ団団長のウィチタだ！　お前がここの団長か？　よし、それじゃあ今からお前を、俺様の部下にしてやる！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "wichita_in_1",
+                    "voice": "wichita_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "遅いぞ、新入り！ 今度遅れたら、おやつ抜きだからな！"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "wichita_main_1",
+                    "voice": "wichita_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "新入り、お前はそれなりに優秀だが、もっと活躍しろ。なにせ俺様達は、ウィチタ団をもっと有名にしないといけないんだからな！"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "wichita_main_2",
+                    "voice": "wichita_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "何、ショコラが作ったケーキだと？　俺様はそんなものは食べない！　…が、お前がどうしても俺様に食べてほしいというなら、食べてやろう！"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "wichita_main_3",
+                    "voice": "wichita_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "よく覚えておけ、新入り。何か悩みや面倒事があったら、いつでも俺様のところへ来るんだ。それも団長のやるべきことだからな。"
                 },
                 {
                     "key": "突破",
-                    "voice": "wichita_stage_1",
+                    "voice": "wichita_stage_1.ogg",
                     "name": "突破",
                     "quote": "ふん。お前の気持ち、たしかに受け取った。"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "wichita_stage_2",
+                    "voice": "wichita_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "俺様はもっと強くなれる。そして、お前のために戦ってやろう。…くしゅん！　…なんかここ、寒くないか？"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "wichita_stage_3",
+                    "voice": "wichita_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "ウィチタ団は最強の組織であり、その団長である俺様は当然無敵だ！　どんなことでも全部俺様に任せろ！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "wichita_star_1",
+                    "voice": "wichita_star_1.ogg",
                     "name": "覚醒",
                     "quote": "よくやった、お前を俺様の右腕として認めてやろう！　どうだ、光栄だろう！？"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "wichita_interaction_1",
+                    "voice": "wichita_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "なっ…お、おい、おまえっ…！　今、俺様に何をしたっ！？　俺様を子供扱いしているのなら、ひっかくぞ！"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "wichita_interaction_2",
+                    "voice": "wichita_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "お前は成長が見込めるからな、俺様が面倒を見て力を伸ばしてやろう。俺様の部下になれたこと、光栄に思え！"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "wichita_interaction_3",
+                    "voice": "wichita_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "近頃ますます腕が上がったようだな、新入り。だが、まだまだだ！　ウィチタ団の幹部として自覚を持ち、努力を続けろ！"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "wichita_interaction_4",
+                    "voice": "wichita_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "しっかり俺様について来るんだぞ。俺様から離れると危険だからな！　わかったなら、もっと近くに寄るんだ。ほら。"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "wichita_interaction_5",
+                    "voice": "wichita_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "いいか、俺様を決して裏切るなよ。なにせお前は、俺様にもっとも近い存在――右腕なんだからな！　だからその…誇りに思え、俺様に従え！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "wichita_go_1",
+                    "voice": "wichita_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "ふふん、団長である俺様は必要不可欠だからな。"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "wichita_battle_n_1",
+                    "voice": "wichita_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "馬鹿が！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "wichita_battle_n_2",
+                    "voice": "wichita_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "どうだ！"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "wichita_battle_n_3",
+                    "voice": "wichita_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "はっ！"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "wichita_battle_n_4",
+                    "voice": "wichita_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "あきらめろ！"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "wichita_battle_n_5",
+                    "voice": "wichita_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "ていっーやぁ！"
                 },
                 {
                     "key": "攻撃6",
-                    "voice": "wichita_battle_n_6",
+                    "voice": "wichita_battle_n_6.ogg",
                     "name": "攻撃6",
                     "quote": "ろくでもないやつめ！"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "wichita_battle_hit_1",
+                    "voice": "wichita_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "ふん、馬鹿め！"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "wichita_battle_hit_2",
+                    "voice": "wichita_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "うぅ"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "wichita_battle_hit_3",
+                    "voice": "wichita_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うわ！"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "wichita_battle_hit_4",
+                    "voice": "wichita_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "ちっ"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "wichita_battle_hit_5",
+                    "voice": "wichita_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "待て！"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "wichita_battle_hit_6",
+                    "voice": "wichita_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "どけ！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "wichita_battle_die_1",
+                    "voice": "wichita_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "くそっ…絶対に許さないからな！"
                 },
                 {
                     "key": "特技1",
-                    "voice": "wichita_battle_h_1",
+                    "voice": "wichita_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "馬鹿ども、これは罰だ！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "wichita_battle_h_2",
+                    "voice": "wichita_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "このウィチタ様が見逃すか！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "wichita_battle_c_1",
+                    "voice": "wichita_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "よくも俺様をここまで怒らせたな！　お前たちは終わりだ、ボンクラどもが！"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "wichita_battle_c_2",
+                    "voice": "wichita_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "こともあろうに、このウィチタ様を敵に回すつもりか？"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "wichita_win_1",
+                    "voice": "wichita_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "ふん！　ウィチタ団の敵は滅ぶに決まっている！"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "wichita_fail_1",
+                    "voice": "wichita_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "くそっ……このままで済むと思うなよ！"
                 }

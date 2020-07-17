@@ -7,199 +7,199 @@
             "quotes": [
                 {
                     "key": "メンバー募集",
-                    "voice": "veronica_get_1",
+                    "voice": "veronica_get_1.ogg",
                     "name": "メンバー募集",
                     "quote": "おおっ、リーダーじゃないれすか～。画家のベロニカ、ベロちゃんれすよ～。リーダーのために、この絵筆を振るいまくるれすよ～！"
                 },
                 {
                     "key": "ログインボイス",
-                    "voice": "veronica_in_1",
+                    "voice": "veronica_in_1.ogg",
                     "name": "ログインボイス",
                     "quote": "リーダー。ベロちゃんの新作の絵、見てくらさい～！"
                 },
                 {
                     "key": "待機ボイス1",
-                    "voice": "veronica_main_1",
+                    "voice": "veronica_main_1.ogg",
                     "name": "待機ボイス1",
                     "quote": "ベロちゃんの絵を理解してくれる人は少ないれすが…リーダーはちゃんとわかってくれる人でうれしいれす。リーダーと会えてよかったれす～。"
                 },
                 {
                     "key": "待機ボイス2",
-                    "voice": "veronica_main_2",
+                    "voice": "veronica_main_2.ogg",
                     "name": "待機ボイス2",
                     "quote": "絵を描いていると、何日も食べ忘れちゃうときがあるれすよ～。でも限界のときこそ、いいものが描ける気がするんれす～。気のせいれすかねぇ？"
                 },
                 {
                     "key": "待機ボイス3",
-                    "voice": "veronica_main_3",
+                    "voice": "veronica_main_3.ogg",
                     "name": "待機ボイス3",
                     "quote": "アロエさんがベロちゃんのために、特製の毒薬ドリンクを作ってくれたんれす～！　これで想像力がみなぎって、絵が描きたい放題れす～。アロエさんはとっても優しい人れすね～"
                 },
                 {
                     "key": "突破",
-                    "voice": "veronica_stage_1",
+                    "voice": "veronica_stage_1.ogg",
                     "name": "突破",
                     "quote": "うぇへへ…毒より刺激的れすねぇ…！"
                 },
                 {
                     "key": "立ち絵獲得1",
-                    "voice": "veronica_stage_2",
+                    "voice": "veronica_stage_2.ogg",
                     "name": "立ち絵獲得1",
                     "quote": "今のベロちゃん、とってもイイ感じれす～！　この感じで、リーダーの絵を描くれすよぉ～！"
                 },
                 {
                     "key": "立ち絵獲得2",
-                    "voice": "veronica_stage_3",
+                    "voice": "veronica_stage_3.ogg",
                     "name": "立ち絵獲得2",
                     "quote": "おおっ、今まで思いつかなかった絵が浮かんだれす～！　この絵が頭から逃げないうちに、描いて描いて描きまくらないとれすぅ～～！"
                 },
                 {
                     "key": "覚醒",
-                    "voice": "veronica_star_1",
+                    "voice": "veronica_star_1.ogg",
                     "name": "覚醒",
                     "quote": "リーダー、ありがとうれす～！　もっといい作品が描けちゃうれすねぇ…！"
                 },
                 {
                     "key": "好感度Lv1",
-                    "voice": "veronica_interaction_1",
+                    "voice": "veronica_interaction_1.ogg",
                     "name": "好感度Lv1",
                     "quote": "うぇへへ、リーダーも絵に興味ありそうれすねぇ。一緒に描いてみるれすかぁ？"
                 },
                 {
                     "key": "好感度Lv3",
-                    "voice": "veronica_interaction_2",
+                    "voice": "veronica_interaction_2.ogg",
                     "name": "好感度Lv3",
                     "quote": "うぅ～…毒薬の飲みすぎで、ちょっとフラフラれすぅ…ああ、心配しないでくらさい。ベロちゃんの身体に、毒薬は毒じゃないれすからぁ…"
                 },
                 {
                     "key": "好感度Lv5",
-                    "voice": "veronica_interaction_3",
+                    "voice": "veronica_interaction_3.ogg",
                     "name": "好感度Lv5",
                     "quote": "ベロちゃんが得意なのは絵を描くことれすが～…リーダーが別のことしてほしいなら、ベロちゃんやってみるれすよ～。"
                 },
                 {
                     "key": "好感度Lv7",
-                    "voice": "veronica_interaction_4",
+                    "voice": "veronica_interaction_4.ogg",
                     "name": "好感度Lv7",
                     "quote": "うぇへへ！　どうしたんれすか、リーダー。今日はピンクでフワフワじゃないれすかぁ…！　ベロちゃんは今、絶賛お絵描き中れしたぁ。あぁ、ピンクのリーダーも書き足したいれすがぁ…紙が足りないれすぅ…"
                 },
                 {
                     "key": "好感度Lv9",
-                    "voice": "veronica_interaction_5",
+                    "voice": "veronica_interaction_5.ogg",
                     "name": "好感度Lv9",
                     "quote": "たとえひとつの物事れも～、それに対して深く知ったほうが良い作品が描けるものれすよぉ！だから、もっとリーダーを教えてほしいれす～。そしたら、リーダーにもっと良い絵を見せれるれすからぁ～！"
                 },
                 {
                     "key": "冒険者出陣",
-                    "voice": "veronica_go_1",
+                    "voice": "veronica_go_1.ogg",
                     "name": "冒険者出陣",
                     "quote": "どんな一瞬も、描き逃さないれすぅ～"
                 },
                 {
                     "key": "攻撃1",
-                    "voice": "veronica_battle_n_1",
+                    "voice": "veronica_battle_n_1.ogg",
                     "name": "攻撃1",
                     "quote": "うぇへへ！"
                 },
                 {
                     "key": "攻撃2",
-                    "voice": "veronica_battle_n_2",
+                    "voice": "veronica_battle_n_2.ogg",
                     "name": "攻撃2",
                     "quote": "いいれすねぇ"
                 },
                 {
                     "key": "攻撃3",
-                    "voice": "veronica_battle_n_3",
+                    "voice": "veronica_battle_n_3.ogg",
                     "name": "攻撃3",
                     "quote": "うぇひ～"
                 },
                 {
                     "key": "攻撃4",
-                    "voice": "veronica_battle_n_4",
+                    "voice": "veronica_battle_n_4.ogg",
                     "name": "攻撃4",
                     "quote": "おお～"
                 },
                 {
                     "key": "攻撃5",
-                    "voice": "veronica_battle_n_5",
+                    "voice": "veronica_battle_n_5.ogg",
                     "name": "攻撃5",
                     "quote": "一筆、書き足すれすよ～"
                 },
                 {
                     "key": "被ダメージ1",
-                    "voice": "veronica_battle_hit_1",
+                    "voice": "veronica_battle_hit_1.ogg",
                     "name": "被ダメージ1",
                     "quote": "赤い絵の具れすか？"
                 },
                 {
                     "key": "被ダメージ2",
-                    "voice": "veronica_battle_hit_2",
+                    "voice": "veronica_battle_hit_2.ogg",
                     "name": "被ダメージ2",
                     "quote": "わぁ"
                 },
                 {
                     "key": "被ダメージ3",
-                    "voice": "veronica_battle_hit_3",
+                    "voice": "veronica_battle_hit_3.ogg",
                     "name": "被ダメージ3",
                     "quote": "うぅ…"
                 },
                 {
                     "key": "被ダメージ4",
-                    "voice": "veronica_battle_hit_4",
+                    "voice": "veronica_battle_hit_4.ogg",
                     "name": "被ダメージ4",
                     "quote": "うぇひ…"
                 },
                 {
                     "key": "被ダメージ5",
-                    "voice": "veronica_battle_hit_5",
+                    "voice": "veronica_battle_hit_5.ogg",
                     "name": "被ダメージ5",
                     "quote": "やめるれす…"
                 },
                 {
                     "key": "被ダメージ6",
-                    "voice": "veronica_battle_hit_6",
+                    "voice": "veronica_battle_hit_6.ogg",
                     "name": "被ダメージ6",
                     "quote": "触らないでほしいれすぅ…！"
                 },
                 {
                     "key": "戦闘不能",
-                    "voice": "veronica_battle_die_1",
+                    "voice": "veronica_battle_die_1.ogg",
                     "name": "戦闘不能",
                     "quote": "力が入らないれす…ベロちゃん、もう何も描けないみたいれすぅ…"
                 },
                 {
                     "key": "特技1",
-                    "voice": "veronica_battle_h_1",
+                    "voice": "veronica_battle_h_1.ogg",
                     "name": "特技1",
                     "quote": "モデルは勝手に動いちゃだめれすよぉ！"
                 },
                 {
                     "key": "特技2",
-                    "voice": "veronica_battle_h_2",
+                    "voice": "veronica_battle_h_2.ogg",
                     "name": "特技2",
                     "quote": "もうすぐ絵が完成するれすよぉ！"
                 },
                 {
                     "key": "奥義1",
-                    "voice": "veronica_battle_c_1",
+                    "voice": "veronica_battle_c_1.ogg",
                     "name": "奥義1",
                     "quote": "毒はベロちゃんと仲良しれすけど、皆さんにはどうれしょう～？"
                 },
                 {
                     "key": "奥義2",
-                    "voice": "veronica_battle_c_2",
+                    "voice": "veronica_battle_c_2.ogg",
                     "name": "奥義2",
                     "quote": "なかなか良いモデルれすね～。ベロちゃんの作品作りに協力してくらさい～！"
                 },
                 {
                     "key": "戦闘勝利",
-                    "voice": "veronica_win_1",
+                    "voice": "veronica_win_1.ogg",
                     "name": "戦闘勝利",
                     "quote": "うぇへへ！　良い絵が描けそうれすねぇ。"
                 },
                 {
                     "key": "戦闘失敗",
-                    "voice": "veronica_fail_1",
+                    "voice": "veronica_fail_1.ogg",
                     "name": "戦闘失敗",
                     "quote": "あぁ、絵の具がなくなっちゃったれすぅ…"
                 }
