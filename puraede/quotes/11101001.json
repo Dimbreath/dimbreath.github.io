@@ -1,0 +1,173 @@
+{
+    "name": "ソフィア",
+    "id": 11101001,
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "メンバー募集",
+                    "voice": "sophia_get_1",
+                    "name": "メンバー募集",
+                    "quote": "こんにちは、リーダーさん！　…ん？　あのー、もしもし？　聞こえてますか？　私はここにいるんですけどもっ！　と、ともかくっ…これからよろしくお願いしますっ！"
+                },
+                {
+                    "key": "ログインボイス",
+                    "voice": "sophia_in_1",
+                    "name": "ログインボイス",
+                    "quote": "リーダーさん、私を忘れてないですよね？　えへへ、確認したかっただけですっ！"
+                },
+                {
+                    "key": "待機ボイス1",
+                    "voice": "sophia_main_1",
+                    "name": "待機ボイス1",
+                    "quote": "地味なのはもう嫌なんですっ！　もっと注目されたいですっ！　私が主役になれるお仕事をたーっくさんください！"
+                },
+                {
+                    "key": "待機ボイス2",
+                    "voice": "sophia_main_2",
+                    "name": "待機ボイス2",
+                    "quote": "あ、リーダーさん！　今日そちらから挨拶してくれましたね、今後もその調子でお願いします！"
+                },
+                {
+                    "key": "突破",
+                    "voice": "sophia_stage_1",
+                    "name": "突破",
+                    "quote": "よーし、この調子でいきましょう～っ！"
+                },
+                {
+                    "key": "立ち絵獲得1",
+                    "voice": "sophia_stage_2",
+                    "name": "立ち絵獲得1",
+                    "quote": "も、もしかして…少しは普通じゃなくなりましたっ？"
+                },
+                {
+                    "key": "立ち絵獲得2",
+                    "voice": "sophia_stage_3",
+                    "name": "立ち絵獲得2",
+                    "quote": "私っ、すっごい感じてますよ！　人気急上昇中～って！"
+                },
+                {
+                    "key": "覚醒",
+                    "voice": "sophia_star_1",
+                    "name": "覚醒",
+                    "quote": "次のトップスターは私がなってみせますっ！"
+                },
+                {
+                    "key": "好感度Lv1",
+                    "voice": "sophia_interaction_1",
+                    "name": "好感度Lv1",
+                    "quote": "おおっ、リーダーさん自ら挨拶に来るだなんてっ！　…もしかして、私の顔に何か付いていたかな？"
+                },
+                {
+                    "key": "好感度Lv3",
+                    "voice": "sophia_interaction_2",
+                    "name": "好感度Lv3",
+                    "quote": "今日のリーダーさんはしっかり私を見てますね！　私の隠れた派手さにとうとう気づいたんでしょうか…！"
+                },
+                {
+                    "key": "好感度Lv5",
+                    "voice": "sophia_interaction_3",
+                    "name": "好感度Lv5",
+                    "quote": "私はいつも目立たないことを心配してますが…でも、リーダーさんがずっと私を見てくれてるのは、ちゃんとわかってますよ。"
+                },
+                {
+                    "key": "好感度Lv7",
+                    "voice": "sophia_interaction_4",
+                    "name": "好感度Lv7",
+                    "quote": "リーダーさん、手をつないでいいですか？　ほら、リーダーさんはみんなの注目の的ですから！　これで私も大注目されて…うふふ♪"
+                },
+                {
+                    "key": "好感度Lv9",
+                    "voice": "sophia_interaction_5",
+                    "name": "好感度Lv9",
+                    "quote": "今の私って、もしかしてリーダーさんにとってのトップスターですかっ？　えへへ、もっとド派手にいきますから見ててくださいね！"
+                },
+                {
+                    "key": "冒険者出陣",
+                    "voice": "sophia_go_1",
+                    "name": "冒険者出陣",
+                    "quote": "絶対に派手な爪痕を残してやりますからっ…！"
+                },
+                {
+                    "key": "攻撃1",
+                    "voice": "sophia_battle_n_1",
+                    "name": "攻撃1",
+                    "quote": "くらえ！"
+                },
+                {
+                    "key": "攻撃2",
+                    "voice": "sophia_battle_n_2",
+                    "name": "攻撃2",
+                    "quote": "えぃっ"
+                },
+                {
+                    "key": "攻撃3",
+                    "voice": "sophia_battle_n_3",
+                    "name": "攻撃3",
+                    "quote": "はーっ"
+                },
+                {
+                    "key": "攻撃4",
+                    "voice": "sophia_battle_n_4",
+                    "name": "攻撃4",
+                    "quote": "やぁーっ！"
+                },
+                {
+                    "key": "被ダメージ1",
+                    "voice": "sophia_battle_hit_1",
+                    "name": "被ダメージ1",
+                    "quote": "うぁ～っ"
+                },
+                {
+                    "key": "被ダメージ2",
+                    "voice": "sophia_battle_hit_2",
+                    "name": "被ダメージ2",
+                    "quote": "痛っ！"
+                },
+                {
+                    "key": "被ダメージ3",
+                    "voice": "sophia_battle_hit_3",
+                    "name": "被ダメージ3",
+                    "quote": "私を見ましたっ？"
+                },
+                {
+                    "key": "被ダメージ4",
+                    "voice": "sophia_battle_hit_4",
+                    "name": "被ダメージ4",
+                    "quote": "ああっ"
+                },
+                {
+                    "key": "戦闘不能",
+                    "voice": "sophia_battle_die_1",
+                    "name": "戦闘不能",
+                    "quote": "うぅ…痛いけど、やっと注目してもらえたぁ…"
+                },
+                {
+                    "key": "特技1",
+                    "voice": "sophia_battle_h_1",
+                    "name": "特技1",
+                    "quote": "もうっ、無視しないで！"
+                },
+                {
+                    "key": "奥義1",
+                    "voice": "sophia_battle_c_1",
+                    "name": "奥義1",
+                    "quote": "よそ見してる場合じゃないですよ！　私の全力の一撃、よーく見てくださーいっ！"
+                },
+                {
+                    "key": "戦闘勝利",
+                    "voice": "sophia_win_1",
+                    "name": "戦闘勝利",
+                    "quote": "わぁ～やった～！　私、今回の主役じゃないですかっ？"
+                },
+                {
+                    "key": "戦闘失敗",
+                    "voice": "sophia_fail_1",
+                    "name": "戦闘失敗",
+                    "quote": "くぅっ…もっと派手に負けたかったっ…！"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "name": "ドミニク",
+    "id": 11201008,
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "メンバー募集",
+                    "voice": "dominique_get_1",
+                    "name": "メンバー募集",
+                    "quote": "あたしは冒険家ドミニク！　ふふっ。いろんな人がドミニクを男だって思ってるみたいだけど、間違えなくあたしが本物だからね！　よろしく！"
+                },
+                {
+                    "key": "ログインボイス",
+                    "voice": "dominique_in_1",
+                    "name": "ログインボイス",
+                    "quote": "リーダーくん、一緒に次の冒険の計画を立てよう！"
+                },
+                {
+                    "key": "待機ボイス1",
+                    "voice": "dominique_main_1",
+                    "name": "待機ボイス1",
+                    "quote": "巷だとこう言われてるの。「ドミニクはとっても野性的なんだ」「それに大人の男性らしいよ」。ふふっ、面白いよね。だって少ししか当たってないんだもの。あたしはただの、大人の女性♪"
+                },
+                {
+                    "key": "待機ボイス2",
+                    "voice": "dominique_main_2",
+                    "name": "待機ボイス2",
+                    "quote": "ベルって子にはね、優秀なトレジャーハンターになる素質があるんだよ。今は経験や運がちょっと足りないだけ。いつかきっと、あたしよりも立派な成果を残すって信じてるよ。"
+                },
+                {
+                    "key": "待機ボイス3",
+                    "voice": "dominique_main_3",
+                    "name": "待機ボイス3",
+                    "quote": "この小っちゃい体も冒険じゃいろいろ有利だからね、満足してるよ！　ただしリーダーくん、あたしを子供扱いするのはだめだぞ！"
+                },
+                {
+                    "key": "突破",
+                    "voice": "dominique_stage_1",
+                    "name": "突破",
+                    "quote": "さぁ！　もっと遠くへ行こう！"
+                },
+                {
+                    "key": "立ち絵獲得1",
+                    "voice": "dominique_stage_2",
+                    "name": "立ち絵獲得1",
+                    "quote": "リーダーくん、いろいろ世話をしてくれてありがとう。こういう成長ができるのは、ひとりの冒険じゃ味わえない醍醐味だ。"
+                },
+                {
+                    "key": "立ち絵獲得2",
+                    "voice": "dominique_stage_3",
+                    "name": "立ち絵獲得2",
+                    "quote": "今のあたし、とっても素晴らしい冒険家になれたと思うの。だからリーダーくん、誰も行ったことのない場所へもっと行こう！"
+                },
+                {
+                    "key": "覚醒",
+                    "voice": "dominique_star_1",
+                    "name": "覚醒",
+                    "quote": "こうなったら、新しい冒険の計画を立てなくちゃね！"
+                },
+                {
+                    "key": "好感度Lv1",
+                    "voice": "dominique_interaction_1",
+                    "name": "好感度Lv1",
+                    "quote": "こら、頭を撫でないのっ。もう、あたしは子供じゃないんだぞ。"
+                },
+                {
+                    "key": "好感度Lv3",
+                    "voice": "dominique_interaction_2",
+                    "name": "好感度Lv3",
+                    "quote": "リーダーくんから信頼を得られて、とても嬉しいよ。 その期待にちゃんと応えるために、 もっと面白いものをリーダーくんには見せてあげる。"
+                },
+                {
+                    "key": "好感度Lv5",
+                    "voice": "dominique_interaction_3",
+                    "name": "好感度Lv5",
+                    "quote": "リーダーくんに恩返しをするためには、 リーダーくんと出会ってから経験した冒険の経緯を  全て書き残しておきたい。 それをまとめて新しい冒険録を出したいから  楽しみにしててね。"
+                },
+                {
+                    "key": "好感度Lv7",
+                    "voice": "dominique_interaction_4",
+                    "name": "好感度Lv7",
+                    "quote": "もしも危険な冒険で、 リーダーくんの身が危なくなったときには… あたしがなんとしてでも守ってみせるから。 ふふ、もちろん本気だよ"
+                },
+                {
+                    "key": "好感度Lv9",
+                    "voice": "dominique_interaction_5",
+                    "name": "好感度Lv9",
+                    "quote": "やっと気づいたんだ。リーダーくんが傍にいてくれるから、安心して前へ踏み出せるって！　ふふ。今度の冒険録の主人公は、あたしたち二人に決まりだよ！"
+                },
+                {
+                    "key": "冒険者出陣",
+                    "voice": "dominique_go_1",
+                    "name": "冒険者出陣",
+                    "quote": "うんっ、冒険に出発しようか！"
+                },
+                {
+                    "key": "攻撃1",
+                    "voice": "dominique_battle_n_1",
+                    "name": "攻撃1",
+                    "quote": "なめないで！"
+                },
+                {
+                    "key": "攻撃2",
+                    "voice": "dominique_battle_n_2",
+                    "name": "攻撃2",
+                    "quote": "行くよ！"
+                },
+                {
+                    "key": "攻撃3",
+                    "voice": "dominique_battle_n_3",
+                    "name": "攻撃3",
+                    "quote": "ほらっ"
+                },
+                {
+                    "key": "攻撃4",
+                    "voice": "dominique_battle_n_4",
+                    "name": "攻撃4",
+                    "quote": "よそ見しない！"
+                },
+                {
+                    "key": "攻撃5",
+                    "voice": "dominique_battle_n_5",
+                    "name": "攻撃5",
+                    "quote": "えいっ！"
+                },
+                {
+                    "key": "攻撃6",
+                    "voice": "dominique_battle_n_6",
+                    "name": "攻撃6",
+                    "quote": "小っちゃくても油断せずにね♪"
+                },
+                {
+                    "key": "被ダメージ1",
+                    "voice": "dominique_battle_hit_1",
+                    "name": "被ダメージ1",
+                    "quote": "うぅ～痛いよー！"
+                },
+                {
+                    "key": "被ダメージ2",
+                    "voice": "dominique_battle_hit_2",
+                    "name": "被ダメージ2",
+                    "quote": "わぁ！"
+                },
+                {
+                    "key": "被ダメージ3",
+                    "voice": "dominique_battle_hit_3",
+                    "name": "被ダメージ3",
+                    "quote": "どうして！？"
+                },
+                {
+                    "key": "被ダメージ4",
+                    "voice": "dominique_battle_hit_4",
+                    "name": "被ダメージ4",
+                    "quote": "ううっ"
+                },
+                {
+                    "key": "被ダメージ5",
+                    "voice": "dominique_battle_hit_5",
+                    "name": "被ダメージ5",
+                    "quote": "わっ！"
+                },
+                {
+                    "key": "被ダメージ6",
+                    "voice": "dominique_battle_hit_6",
+                    "name": "被ダメージ6",
+                    "quote": "あたしをぶたないで！"
+                },
+                {
+                    "key": "戦闘不能",
+                    "voice": "dominique_battle_die_1",
+                    "name": "戦闘不能",
+                    "quote": "体が小っちゃいと、いざというとき耐えられないなぁ…"
+                },
+                {
+                    "key": "特技1",
+                    "voice": "dominique_battle_h_1",
+                    "name": "特技1",
+                    "quote": "よしっ、今がチャンス！"
+                },
+                {
+                    "key": "特技2",
+                    "voice": "dominique_battle_h_2",
+                    "name": "特技2",
+                    "quote": "相手を混乱させるのはあたしの得意技なんだ！"
+                },
+                {
+                    "key": "奥義1",
+                    "voice": "dominique_battle_c_1",
+                    "name": "奥義1",
+                    "quote": "キミのことはちゃんと冒険録に書いてあげるからさ、笑顔でさよならしようね！"
+                },
+                {
+                    "key": "奥義2",
+                    "voice": "dominique_battle_c_2",
+                    "name": "奥義2",
+                    "quote": "あたしを子ども扱いする時点で、 キミはすでに負けてるよ！"
+                },
+                {
+                    "key": "戦闘勝利",
+                    "voice": "dominique_win_1",
+                    "name": "戦闘勝利",
+                    "quote": "うん、なかなか楽しめたよ。また冒険録を書かないとね。"
+                },
+                {
+                    "key": "戦闘失敗",
+                    "voice": "dominique_fail_1",
+                    "name": "戦闘失敗",
+                    "quote": "冒険には想定外の出来事はつきものだよ。簡単に諦めないで！"
+                }
+            ]
+        }
+    ]
+}

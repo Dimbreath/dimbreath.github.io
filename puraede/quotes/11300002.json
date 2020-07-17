@@ -1,0 +1,221 @@
+{
+    "name": "ブリジット",
+    "id": 11300002,
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "メンバー募集",
+                    "voice": "bridget_get_1",
+                    "name": "メンバー募集",
+                    "quote": "ブリジットだ！　難しいことはよくわからないけどな、悪いやつがいたら、とにかく俺に任せとけ！　安心しろ、何せ俺は強いからなっ！"
+                },
+                {
+                    "key": "ログインボイス",
+                    "voice": "bridget_in_1",
+                    "name": "ログインボイス",
+                    "quote": "今日も俺と一緒に鍛えようなっ、リーダー！"
+                },
+                {
+                    "key": "待機ボイス1",
+                    "voice": "bridget_main_1",
+                    "name": "待機ボイス1",
+                    "quote": "俺はつよくなる！すべての敵を倒せるくらいに！ そしたらお姫を守れるし、リーダーの役にも立つだろ！"
+                },
+                {
+                    "key": "待機ボイス2",
+                    "voice": "bridget_main_2",
+                    "name": "待機ボイス2",
+                    "quote": "何か問題があったら任せとけ！　リーダー、見てろ！　俺が拳でぜーんぶ解決してやる！"
+                },
+                {
+                    "key": "待機ボイス3",
+                    "voice": "bridget_main_3",
+                    "name": "待機ボイス3",
+                    "quote": "俺の装備は、古代から引き継がれた遺物で貴重なんだぞ！　昔、有り金はたいて商人から買ったんだ！　へへっ、いいだろー！"
+                },
+                {
+                    "key": "待機ボイス4",
+                    "voice": "bridget_main_4",
+                    "name": "待機ボイス4",
+                    "quote": "メイの護衛だからな、アイツを狙う変なヤツはみんな倒してやるんだ！　でもメイは優しいからな、面倒ごとは見せないようにしないと…！"
+                },
+                {
+                    "key": "突破",
+                    "voice": "bridget_stage_1",
+                    "name": "突破",
+                    "quote": "強くなるって、たまんないよな！"
+                },
+                {
+                    "key": "立ち絵獲得1",
+                    "voice": "bridget_stage_2",
+                    "name": "立ち絵獲得1",
+                    "quote": "これが特訓の結果か、いい感じだな！　俺はもっと強くなるために特訓しまくるぞ！"
+                },
+                {
+                    "key": "立ち絵獲得2",
+                    "voice": "bridget_stage_3",
+                    "name": "立ち絵獲得2",
+                    "quote": "ふぅ…やっと特訓が終わったな。今の俺なら、どんな戦いでも楽に勝てる自信があるぜ！"
+                },
+                {
+                    "key": "覚醒",
+                    "voice": "bridget_star_1",
+                    "name": "覚醒",
+                    "quote": "ありがとな、リーダー！ めんどくさいことは全部俺に任せろーーー！"
+                },
+                {
+                    "key": "好感度Lv1",
+                    "voice": "bridget_interaction_1",
+                    "name": "好感度Lv1",
+                    "quote": "リーダー、一緒に特訓するか？　いろんな特訓方法を教えてやるぜ、絶対リーダーのためになるしな！"
+                },
+                {
+                    "key": "好感度Lv3",
+                    "voice": "bridget_interaction_2",
+                    "name": "好感度Lv3",
+                    "quote": "リーダー、何か手伝ってやろうか？ほら、普段迷惑かけてるしな。たまには役立たせてくれよ！"
+                },
+                {
+                    "key": "好感度Lv5",
+                    "voice": "bridget_interaction_3",
+                    "name": "好感度Lv5",
+                    "quote": "メイはいいやつだし、友達だからな。俺が全力で守ってやるんだ。もちろん、リーダーも同じだからな！"
+                },
+                {
+                    "key": "好感度Lv7",
+                    "voice": "bridget_interaction_4",
+                    "name": "好感度Lv7",
+                    "quote": "ひとりでいるより、リーダーと一緒に特訓したら、 戦ったりするほうがもっと楽しいぜ！ メイを守るみたいに、 リーダーのこともきっちり守ってやる！"
+                },
+                {
+                    "key": "好感度Lv9",
+                    "voice": "bridget_interaction_5",
+                    "name": "好感度Lv9",
+                    "quote": "リーダーと一緒にいると強くなれて楽しいぞ！俺が強くなって楽しくなるために、これからも俺のそばにいてくれ！"
+                },
+                {
+                    "key": "冒険者出陣",
+                    "voice": "bridget_go_1",
+                    "name": "冒険者出陣",
+                    "quote": "俺が行く！"
+                },
+                {
+                    "key": "攻撃1",
+                    "voice": "bridget_battle_n_1",
+                    "name": "攻撃1",
+                    "quote": "見てろ！"
+                },
+                {
+                    "key": "攻撃2",
+                    "voice": "bridget_battle_n_2",
+                    "name": "攻撃2",
+                    "quote": "へへっ！"
+                },
+                {
+                    "key": "攻撃3",
+                    "voice": "bridget_battle_n_3",
+                    "name": "攻撃3",
+                    "quote": "はっ！"
+                },
+                {
+                    "key": "攻撃4",
+                    "voice": "bridget_battle_n_4",
+                    "name": "攻撃4",
+                    "quote": "潰れてろ！"
+                },
+                {
+                    "key": "攻撃5",
+                    "voice": "bridget_battle_n_5",
+                    "name": "攻撃5",
+                    "quote": "とりゃーーっ！"
+                },
+                {
+                    "key": "攻撃6",
+                    "voice": "bridget_battle_n_6",
+                    "name": "攻撃6",
+                    "quote": "気を抜くなよ！"
+                },
+                {
+                    "key": "被ダメージ1",
+                    "voice": "bridget_battle_hit_1",
+                    "name": "被ダメージ1",
+                    "quote": "面白い！"
+                },
+                {
+                    "key": "被ダメージ2",
+                    "voice": "bridget_battle_hit_2",
+                    "name": "被ダメージ2",
+                    "quote": "なかなかいいな！"
+                },
+                {
+                    "key": "被ダメージ3",
+                    "voice": "bridget_battle_hit_3",
+                    "name": "被ダメージ3",
+                    "quote": "うわぁーーっ！"
+                },
+                {
+                    "key": "被ダメージ4",
+                    "voice": "bridget_battle_hit_4",
+                    "name": "被ダメージ4",
+                    "quote": "ぎゃーっ！"
+                },
+                {
+                    "key": "被ダメージ5",
+                    "voice": "bridget_battle_hit_5",
+                    "name": "被ダメージ5",
+                    "quote": "やめろ！"
+                },
+                {
+                    "key": "被ダメージ6",
+                    "voice": "bridget_battle_hit_6",
+                    "name": "被ダメージ6",
+                    "quote": "怖くないぜ！"
+                },
+                {
+                    "key": "戦闘不能",
+                    "voice": "bridget_battle_die_1",
+                    "name": "戦闘不能",
+                    "quote": "約束、守れなかったな…メイのこと、頼む……"
+                },
+                {
+                    "key": "特技1",
+                    "voice": "bridget_battle_h_1",
+                    "name": "特技1",
+                    "quote": "俺の拳、食らってみるか？"
+                },
+                {
+                    "key": "特技2",
+                    "voice": "bridget_battle_h_2",
+                    "name": "特技2",
+                    "quote": "俺がぜーんぶぶっ潰してやる！"
+                },
+                {
+                    "key": "奥義1",
+                    "voice": "bridget_battle_c_1",
+                    "name": "奥義1",
+                    "quote": "悪いやつめ、俺が鍛え直してやる！"
+                },
+                {
+                    "key": "奥義2",
+                    "voice": "bridget_battle_c_2",
+                    "name": "奥義2",
+                    "quote": "全員まとめてかかってこい！　一瞬で楽にしてやる！"
+                },
+                {
+                    "key": "戦闘勝利",
+                    "voice": "bridget_win_1",
+                    "name": "戦闘勝利",
+                    "quote": "ただの肩慣らしだったな！"
+                },
+                {
+                    "key": "戦闘失敗",
+                    "voice": "bridget_fail_1",
+                    "name": "戦闘失敗",
+                    "quote": "くそーっ！　もっともっと特訓しないとダメか…！"
+                }
+            ]
+        }
+    ]
+}

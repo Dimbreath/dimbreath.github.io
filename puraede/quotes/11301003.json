@@ -1,0 +1,221 @@
+{
+    "name": "イザベラ",
+    "id": 11301003,
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "メンバー募集",
+                    "voice": "isabella_get_1",
+                    "name": "メンバー募集",
+                    "quote": "このプライドには強いレッドがたくさんいるのね。なんだか興奮してきたわ…ねぇリーダー、彼女たちと遊んできてもいい？　ああ、安心して。手加減はしてあげるから。"
+                },
+                {
+                    "key": "ログインボイス",
+                    "voice": "isabella_in_1",
+                    "name": "ログインボイス",
+                    "quote": "あら、来るのが遅かったわね。でも大丈夫、お楽しみはこれからよ。"
+                },
+                {
+                    "key": "待機ボイス1",
+                    "voice": "isabella_main_1",
+                    "name": "待機ボイス1",
+                    "quote": "男はみんな可愛らしい馬鹿よね。少し飴をやるだけで言うことを聞くし、少し驚かせばとっても驚いちゃうんだもの。おかしいわ、あはは！"
+                },
+                {
+                    "key": "待機ボイス2",
+                    "voice": "isabella_main_2",
+                    "name": "待機ボイス2",
+                    "quote": "戦いだけが私を楽しませてくれるの。 強者と戦う快感、強者を倒す快感…  ああ、やめたくてもやめられないわ！"
+                },
+                {
+                    "key": "待機ボイス3",
+                    "voice": "isabella_main_3",
+                    "name": "待機ボイス3",
+                    "quote": "もっと強い相手を探してちょうだい。私の剣はもう待ちきれないの。…どんな敵だろうと私が全て倒してあげる！"
+                },
+                {
+                    "key": "待機ボイス4",
+                    "voice": "isabella_main_4",
+                    "name": "待機ボイス4",
+                    "quote": "料理だとか掃除だとかは苦手だから、全部誰かに任せてたの。でも、これからはあなたに任せればよさそうね。大丈夫、私は戦いでお返しするわ。"
+                },
+                {
+                    "key": "突破",
+                    "voice": "isabella_stage_1",
+                    "name": "突破",
+                    "quote": "身体が熱いわ…もう抑えきれない！"
+                },
+                {
+                    "key": "立ち絵獲得1",
+                    "voice": "isabella_stage_2",
+                    "name": "立ち絵獲得1",
+                    "quote": "これだけ強くしてくれたんだから、これからも責任を持って、私を楽しませてちょうだい！"
+                },
+                {
+                    "key": "立ち絵獲得2",
+                    "voice": "isabella_stage_3",
+                    "name": "立ち絵獲得2",
+                    "quote": "あら。この感覚はなかなか良いじゃない。今ならどんな相手だろうと、容易く倒せそうね。"
+                },
+                {
+                    "key": "覚醒",
+                    "voice": "isabella_star_1",
+                    "name": "覚醒",
+                    "quote": "私の力が、さらに進化したのね。…ふふ、戦う相手を探しに行かなくちゃ。"
+                },
+                {
+                    "key": "好感度Lv1",
+                    "voice": "isabella_interaction_1",
+                    "name": "好感度Lv1",
+                    "quote": "この身体は、いつでも戦いを渇望しているの…だから私が退屈で死ぬ前に、どうにかしてちょうだい、リーダー。"
+                },
+                {
+                    "key": "好感度Lv3",
+                    "voice": "isabella_interaction_2",
+                    "name": "好感度Lv3",
+                    "quote": "私はもっとたくさん、激しい戦いがしたくて、リーダーは面倒なクエストを解決しなきゃいけない…でしょ？　私たち、とってもいい関係になれそうね。"
+                },
+                {
+                    "key": "好感度Lv5",
+                    "voice": "isabella_interaction_3",
+                    "name": "好感度Lv5",
+                    "quote": "私をこれだけ信用するなんて、あなたは馬鹿なのかしら。それとも、ただ大胆なだけ？　…おかしな人間だわ、本当に。"
+                },
+                {
+                    "key": "好感度Lv7",
+                    "voice": "isabella_interaction_4",
+                    "name": "好感度Lv7",
+                    "quote": "あなたと肩を並べて戦うことが、 こんなにも快感になるとは思わなかったわ。 ねぇ、あなたはこれから先、 私のそばを離れたりしないわよね？"
+                },
+                {
+                    "key": "好感度Lv9",
+                    "voice": "isabella_interaction_5",
+                    "name": "好感度Lv9",
+                    "quote": "あなたの周りのレッドはみんな強くなるでしょう。なら、もしあなたを私のものにできたら――最強になれるってことじゃない？　ねぇ。あなたも、至上の戦いを見てみたくはないかしら？"
+                },
+                {
+                    "key": "冒険者出陣",
+                    "voice": "isabella_go_1",
+                    "name": "冒険者出陣",
+                    "quote": "身体が渇望しているの、戦いをね…"
+                },
+                {
+                    "key": "攻撃1",
+                    "voice": "isabella_battle_n_1",
+                    "name": "攻撃1",
+                    "quote": "あはは、面白いわ！"
+                },
+                {
+                    "key": "攻撃2",
+                    "voice": "isabella_battle_n_2",
+                    "name": "攻撃2",
+                    "quote": "はぁ！"
+                },
+                {
+                    "key": "攻撃3",
+                    "voice": "isabella_battle_n_3",
+                    "name": "攻撃3",
+                    "quote": "気持ちいわ！"
+                },
+                {
+                    "key": "攻撃4",
+                    "voice": "isabella_battle_n_4",
+                    "name": "攻撃4",
+                    "quote": "はぁーーっ！"
+                },
+                {
+                    "key": "攻撃5",
+                    "voice": "isabella_battle_n_5",
+                    "name": "攻撃5",
+                    "quote": "ふっ！"
+                },
+                {
+                    "key": "攻撃6",
+                    "voice": "isabella_battle_n_6",
+                    "name": "攻撃6",
+                    "quote": "抵抗してみなさい！"
+                },
+                {
+                    "key": "被ダメージ1",
+                    "voice": "isabella_battle_hit_1",
+                    "name": "被ダメージ1",
+                    "quote": "もう一度やってみなさい！"
+                },
+                {
+                    "key": "被ダメージ2",
+                    "voice": "isabella_battle_hit_2",
+                    "name": "被ダメージ2",
+                    "quote": "ぐっ"
+                },
+                {
+                    "key": "被ダメージ3",
+                    "voice": "isabella_battle_hit_3",
+                    "name": "被ダメージ3",
+                    "quote": "うぅ！"
+                },
+                {
+                    "key": "被ダメージ4",
+                    "voice": "isabella_battle_hit_4",
+                    "name": "被ダメージ4",
+                    "quote": "ちっ！"
+                },
+                {
+                    "key": "被ダメージ5",
+                    "voice": "isabella_battle_hit_5",
+                    "name": "被ダメージ5",
+                    "quote": "たまらないわ"
+                },
+                {
+                    "key": "被ダメージ6",
+                    "voice": "isabella_battle_hit_6",
+                    "name": "被ダメージ6",
+                    "quote": "やるじゃない"
+                },
+                {
+                    "key": "戦闘不能",
+                    "voice": "isabella_battle_die_1",
+                    "name": "戦闘不能",
+                    "quote": "これが死ぬという感覚なのね…楽しかったわ、あははは！"
+                },
+                {
+                    "key": "特技1",
+                    "voice": "isabella_battle_h_1",
+                    "name": "特技1",
+                    "quote": "思う存分、戦いましょう！"
+                },
+                {
+                    "key": "特技2",
+                    "voice": "isabella_battle_h_2",
+                    "name": "特技2",
+                    "quote": "さぁ、あなたも命を賭けなさい！"
+                },
+                {
+                    "key": "奥義1",
+                    "voice": "isabella_battle_c_1",
+                    "name": "奥義1",
+                    "quote": "私は最強になるの。あなたは、そのための踏み台にしてあげる！"
+                },
+                {
+                    "key": "奥義2",
+                    "voice": "isabella_battle_c_2",
+                    "name": "奥義2",
+                    "quote": "来なさい！　戦いに飢える、この身体を満たしてちょうだい！"
+                },
+                {
+                    "key": "戦闘勝利",
+                    "voice": "isabella_win_1",
+                    "name": "戦闘勝利",
+                    "quote": "弱者に価値はないの"
+                },
+                {
+                    "key": "戦闘失敗",
+                    "voice": "isabella_fail_1",
+                    "name": "戦闘失敗",
+                    "quote": "ちっ、油断したわね。…次は、こんなことにはさせないわ。"
+                }
+            ]
+        }
+    ]
+}

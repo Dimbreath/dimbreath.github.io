@@ -1,0 +1,209 @@
+{
+    "name": "コンチータ",
+    "id": 11201007,
+    "skins": [
+        {
+            "name": "Base",
+            "quotes": [
+                {
+                    "key": "メンバー募集",
+                    "voice": "conchita_get_1",
+                    "name": "メンバー募集",
+                    "quote": "あ…えと…あの…私、コンチータ…芸をしていないと、人と上手く、話せなくて…努力はするけど、そのっ…わ、私、先に休憩してくるっ…！"
+                },
+                {
+                    "key": "ログインボイス",
+                    "voice": "conchita_in_1",
+                    "name": "ログインボイス",
+                    "quote": "あ、あの…お帰りなさい。わ、私の芸…見てみる？"
+                },
+                {
+                    "key": "待機ボイス1",
+                    "voice": "conchita_main_1",
+                    "name": "待機ボイス1",
+                    "quote": "う…私はしゃべるのは苦手…だけど…でもクエストは、ちゃんとする、から…！　よ…よろしくお願いします！"
+                },
+                {
+                    "key": "待機ボイス2",
+                    "voice": "conchita_main_2",
+                    "name": "待機ボイス2",
+                    "quote": "さぁさぁ皆様、とくとご覧あれ！　コンチータの百発百中ナイフ飛ばし――あっ、あの、違…わ、私はただ、芸の練習を…"
+                },
+                {
+                    "key": "待機ボイス3",
+                    "voice": "conchita_main_3",
+                    "name": "待機ボイス3",
+                    "quote": "芸をしている時だけ、普通に喋れる、けど…い、今は芸をしてなくてもしゃべれてる、気がする…しゃべれてる、よね？"
+                },
+                {
+                    "key": "突破",
+                    "voice": "conchita_stage_1",
+                    "name": "突破",
+                    "quote": "さ、ささ…支えてくれて…ありがとう、リーダー…"
+                },
+                {
+                    "key": "立ち絵獲得1",
+                    "voice": "conchita_stage_2",
+                    "name": "立ち絵獲得1",
+                    "quote": "む、胸のあたり…あたたかい感じが、する…。たぶん、リーダーの愛情、が…伝わってきたから…"
+                },
+                {
+                    "key": "立ち絵獲得2",
+                    "voice": "conchita_stage_3",
+                    "name": "立ち絵獲得2",
+                    "quote": "この記念すべき一瞬のため、最高の感謝を伝えさせてください！　さぁ行きますよ、コンチータのナイフ飛ばし～！"
+                },
+                {
+                    "key": "覚醒",
+                    "voice": "conchita_star_1",
+                    "name": "覚醒",
+                    "quote": "こ、こんな力を手に入れられたら――わ、私、もっと優秀な芸人になれるっ…！"
+                },
+                {
+                    "key": "好感度Lv1",
+                    "voice": "conchita_interaction_1",
+                    "name": "好感度Lv1",
+                    "quote": "ひゃうっ！！！　…な…何の、用…！？"
+                },
+                {
+                    "key": "好感度Lv3",
+                    "voice": "conchita_interaction_2",
+                    "name": "好感度Lv3",
+                    "quote": "ん…あ、あの…リーダーに、触られるのは…ち、ちょっと、緊張、します…"
+                },
+                {
+                    "key": "好感度Lv5",
+                    "voice": "conchita_interaction_3",
+                    "name": "好感度Lv5",
+                    "quote": "わ、私、もっと強くなりたいし…ち、ちゃんとしたいから…いろいろ、教えてほしい…！"
+                },
+                {
+                    "key": "好感度Lv7",
+                    "voice": "conchita_interaction_4",
+                    "name": "好感度Lv7",
+                    "quote": "リ、リーダーがいろんなこと、教えてくれたおかげで…今、皆と仲良くなれたって…思う。ありがとう、リーダー…"
+                },
+                {
+                    "key": "好感度Lv9",
+                    "voice": "conchita_interaction_5",
+                    "name": "好感度Lv9",
+                    "quote": "リーダー、い、いつもありがとう…いつか自分の一座を持てたら…か、必ず、リーダーのために最高のショーを見せるからっ…！　や、約束、だから！"
+                },
+                {
+                    "key": "冒険者出陣",
+                    "voice": "conchita_go_1",
+                    "name": "冒険者出陣",
+                    "quote": "い、いい芸が見せられるように…深呼吸…"
+                },
+                {
+                    "key": "攻撃1",
+                    "voice": "conchita_battle_n_1",
+                    "name": "攻撃1",
+                    "quote": "動かないで！"
+                },
+                {
+                    "key": "攻撃2",
+                    "voice": "conchita_battle_n_2",
+                    "name": "攻撃2",
+                    "quote": "はっ！"
+                },
+                {
+                    "key": "攻撃3",
+                    "voice": "conchita_battle_n_3",
+                    "name": "攻撃3",
+                    "quote": "やぁ！"
+                },
+                {
+                    "key": "攻撃4",
+                    "voice": "conchita_battle_n_4",
+                    "name": "攻撃4",
+                    "quote": "まだまだ！"
+                },
+                {
+                    "key": "攻撃5",
+                    "voice": "conchita_battle_n_5",
+                    "name": "攻撃5",
+                    "quote": "とぉっ！"
+                },
+                {
+                    "key": "攻撃6",
+                    "voice": "conchita_battle_n_6",
+                    "name": "攻撃6",
+                    "quote": "私は失敗しませんよ！"
+                },
+                {
+                    "key": "被ダメージ1",
+                    "voice": "conchita_battle_hit_1",
+                    "name": "被ダメージ1",
+                    "quote": "む、胸が痛い…"
+                },
+                {
+                    "key": "被ダメージ2",
+                    "voice": "conchita_battle_hit_2",
+                    "name": "被ダメージ2",
+                    "quote": "わぁ！"
+                },
+                {
+                    "key": "被ダメージ3",
+                    "voice": "conchita_battle_hit_3",
+                    "name": "被ダメージ3",
+                    "quote": "ダ…ダメ！"
+                },
+                {
+                    "key": "被ダメージ4",
+                    "voice": "conchita_battle_hit_4",
+                    "name": "被ダメージ4",
+                    "quote": "あう…"
+                },
+                {
+                    "key": "被ダメージ5",
+                    "voice": "conchita_battle_hit_5",
+                    "name": "被ダメージ5",
+                    "quote": "うう…よ、避けれない…"
+                },
+                {
+                    "key": "戦闘不能",
+                    "voice": "conchita_battle_die_1",
+                    "name": "戦闘不能",
+                    "quote": "うう、芸を失敗しちゃった…すごい芸人になれるまで、私はまだまだ…"
+                },
+                {
+                    "key": "特技1",
+                    "voice": "conchita_battle_h_1",
+                    "name": "特技1",
+                    "quote": "おっと、ナイフがずれちゃうと大変ですよ～！"
+                },
+                {
+                    "key": "特技2",
+                    "voice": "conchita_battle_h_2",
+                    "name": "特技2",
+                    "quote": "これは私の大得意な芸ですから、さぁ参りましょう！"
+                },
+                {
+                    "key": "奥義1",
+                    "voice": "conchita_battle_c_1",
+                    "name": "奥義1",
+                    "quote": "では、本日最後の大技をご覧いただきましょう！"
+                },
+                {
+                    "key": "奥義2",
+                    "voice": "conchita_battle_c_2",
+                    "name": "奥義2",
+                    "quote": "さぁよく見てください、コンチータ最高の芸を！"
+                },
+                {
+                    "key": "戦闘勝利",
+                    "voice": "conchita_win_1",
+                    "name": "戦闘勝利",
+                    "quote": "や、やっと終わった…ハァ、ハァ…緊張した…"
+                },
+                {
+                    "key": "戦闘失敗",
+                    "voice": "conchita_fail_1",
+                    "name": "戦闘失敗",
+                    "quote": "ああ…また、芸が失敗…練習が足りない…"
+                }
+            ]
+        }
+    ]
+}
