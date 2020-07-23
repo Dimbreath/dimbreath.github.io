@@ -1,0 +1,292 @@
+{
+    "name": "HMS Perseus",
+    "id": 20606,
+    "skins": [
+        {
+            "name": "\u82f1\u4ed9\u5ea7",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "\u5de8\u50cf\u7ea7\u822a\u7a7a\u6bcd\u8230\u2014\u82f1\u4ed9\u5ea7"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "\u6211\u662f\u5de8\u50cf\u7ea7\u822a\u7a7a\u6bcd\u8230\u00b7\u82f1\u4ed9\u5ea7\u3002\u6211\u662f\u5728\u5927\u6218\u4e4b\u540e\u624d\u52a0\u5165\u7684\uff0c\u4e5f\u6ca1\u6709\u592a\u591a\u8db3\u4ee5\u5938\u8000\u7684\u529f\u7ee9\uff0c\u4f46\u6211\u4f1a\u7528\u81ea\u5df1\u7684\u65b9\u5f0f\u52aa\u529b\u7684\u2026\u2026\u8fd9\u6837\u5c31\u53ef\u4ee5\u4e86\u5417\uff1f\u2026\u2026\u547c"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "\u7687\u5bb6\u6d77\u519b\uff0c\u82f1\u4ed9\u5ea7\uff0c\u4f60\u4e5f\u53ef\u4ee5\u53eb\u6211\u5e15\u5c14\u4fee\u65af\u3002\u2026\u2026\u8fd8\u6709\u4ec0\u4e48\u8981\u8bf4\u7684\u5417\uff1f\u2026\u90a3\u5c31\uff0c\u4ece\u4eca\u5f80\u540e\u8bf7\u591a\u5173\u7167\u3002"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "\u65e9\u8d77\u7684\u9e1f\u513f\u6709\u866b\u5403\uff0c\u6307\u6325\u5b98\u2026\u5927\u6982\u662f\u4f1a\u997f\u6b7b\u7684\u9e1f\u513f\u5427\u3002"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "\u623f\u95f4\u91cc\u6709\u8bb8\u591a\u5168\u8eab\u955c\uff1f\u90a3\u662f\u2026\u56e0\u4e3a\u6211\u559c\u6b22\u955c\u5b50\u2026\u8fd9\u4e48\u56de\u7b54\u80fd\u6ee1\u8db3\u4f60\u4e86\u5417\uff1f"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "\u6709\u4ec0\u4e48\u9700\u8981\u5e2e\u5fd9\u7684\uff0c\u53ef\u4ee5\u544a\u8bc9\u6211\u3002\u4e0d\u8fc7\u5728\u90a3\u4e4b\u524d\uff0c\u8fd8\u8bf7\u5148\u81ea\u5df1\u8bd5\u7740\u52aa\u529b\u5b8c\u6210\uff0c\u6307\u6325\u5b98\u3002"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "\u5de5\u4f5c\u5c31\u548c\u5373\u5c06\u5230\u4fdd\u8d28\u671f\u7684\u98df\u7269\u4e00\u6837\uff0c\u653e\u7740\u4e0d\u7ba1\u4f1a\u51fa\u95ee\u9898\u7684\uff0c\u6307\u6325\u5b98\u3002"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "\u5915\u5f20\u548c\u660e\u77f3\u5979\u4eec\uff0c\u597d\u50cf\u7ecf\u5e38\u5728\u505a\u4e00\u4e9b\u6709\u610f\u601d\u7684\u8bd5\u9a8c\u5462\u3002\u55ef\uff0c\u6211\u6709\u70b9\u611f\u5174\u8da3\u2026"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "\u5728\u548c\u6211\u95f2\u804a\u524d\uff0c\u5148\u5173\u6ce8\u4e0b\u81ea\u5df1\u624b\u5934\u7684\u4e8b\u60c5\u5982\u4f55\uff1f"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u662f\u4e0d\u662f\u60f3\u5ff5\u6d77\u519b\u90e8\u62d8\u7559\u5904\u7684\u9910\u98df\u4e86\u5462\uff1f"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "\u2026\u55ef\u3002"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "\u6307\u6325\u5b98\u539f\u6765\u662f\u4e0d\u613f\u610f\u6267\u884c\u4efb\u52a1\u7684\u61d2\u60f0\u866b\u5417\uff1f"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u518d\u4e0d\u6536\uff0c\u4efb\u52a1\u5956\u52b1\u5c31\u8981\u8fc7\u671f\u4e86\u3002"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u6709\u4f60\u7684\u90ae\u4ef6\u2026\u6ca1\u4ec0\u4e48\uff0c\u53ea\u662f\u4e3e\u624b\u4e4b\u52b3\u3002"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "\u8fd9\u6837\u7684\u6218\u6597\u5c31\u611f\u5230\u75b2\u60eb\u2026\u6307\u6325\u5b98\uff0c\u5c31\u50cf\u53ef\u7231\u7684\u5c0f\u9e21\u4e00\u6837\u5462\u3002"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "\u6307\u6325\u5b98\u2026\u4e0d\uff0c\u6211\u6ca1\u6709\u751f\u6c14\uff0c\u6211\u53ea\u662f\u60f3\u63d0\u9192\u4f60\u59d4\u6258\u5b8c\u6210\u4e86\u3002"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "\u975e\u5e38\u611f\u8c22\u3002\u2026\u60f3\u8981\u56de\u793c\u5417\uff1f"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "\u8bf7\u5927\u5bb6\u4fdd\u6301\u614e\u91cd\uff0c\u654c\u4eba\u2026\u4e5f\u4e0d\u662f\u7701\u6cb9\u7684\u706f\u3002"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "\u5bf9\u9762\u2026\u770b\u8d77\u6765\u8fd8\u9700\u8981\u52aa\u529b\u5462\u3002"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "\u2026\u5bf9\u4e0d\u8d77\uff0c\u5931\u8d25\u4e86"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "\u2026\u4ea4\u7ed9\u6211\u5427\u3002"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "\u2026\u4e0d\u80fd\u6389\u4ee5\u8f7b\u5fc3\u5462\u3002"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u5c31\u50cf\u814c\u719f\u4e86\u7684\u9cb1\u9c7c\u7f50\u5934\u4e00\u6837\u5462\u2026"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "\u6307\u6325\u5b98\uff0c\u6211\u542c\u5f97\u5230\uff0c\u6240\u4ee5\u8bf7\u4e0d\u8981\u5728\u6211\u8eab\u8fb9\u53d1\u51fa\u5f88\u5927\u7684\u58f0\u97f3\uff0c\u6709\u70b9\u5435\u3002"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "\u5927\u5bb6\u2026\u90fd\u80fd\u597d\u597d\u8bf4\u51fa\u60f3\u8bf4\u7684\u8bdd\u5462\u2026\u2026\u6ca1\u4ec0\u4e48\uff0c\u4f60\u597d\uff0c\u6307\u6325\u5b98\u3002"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "\u6211\u771f\u662f\u7b28\u86cb\u2026\u660e\u660e\u60f3\u548c\u6307\u6325\u5b98\u641e\u597d\u5173\u7cfb\u7684\uff0c\u5374\u6bcf\u6b21\u90fd\u8bf4\u51fa\u90a3\u4e9b\u8bdd\u2026\u6307\u6325\u5b98\u4e00\u5b9a\u8ba8\u538c\u6211\u4e86\u5427\u2026"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "\u5bf9\u6307\u6325\u5b98\u7684\u770b\u6cd5\uff1f\u2026\u5c31\u50cf\u662f\u591c\u822a\u4e2d\u7a81\u7136\u88ad\u6765\u7684\u66b4\u96e8\u4e00\u822c\u2026\u2026\u554a\uff0c\u4e0d\uff0c\u4e0d\u662f\uff0c\u6211\u4e0d\u662f\u60f3\u8bf4\u8fd9\u4e2a\uff0c\u6211\u60f3\u8bf4\u7684\u662f\u2026\u5176\u5b9e\u6211\u5bf9\u6307\u6325\u5b98\u662f\u2026\u2026"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "\u5176\u5b9e\uff0c\u6211\u5e76\u4e0d\u8ba8\u538c\u6307\u6325\u5b98\u7684\u2026\u6307\u6325\u5b98\u603b\u662f\u613f\u610f\u548c\u6211\u8bf4\u8bdd\uff0c\u613f\u610f\u6478\u6478\u6211\u7684\u5934\u2026\u6211\u5176\u5b9e\u2026\u6700\u559c\u6b22\u6307\u6325\u5b98\u4e86\u3002\u55ef\u2026"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Y\u016bbari) \u8fd9\u6b21\u53c8\u6709\u4ec0\u4e48\u6709\u8da3\u7684\u65b0\u88c5\u5907\u4e86\u5417\uff1f"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "\u65e9\u8d77\u7684\u9e1f\u513f\u6709\u866b\u5403\uff0c\u6307\u6325\u5b98\u2026\u8981\u52a0\u6cb9\u6210\u4e3a\u4e0d\u88ab\u997f\u6b7b\u7684\u9e1f\u513f\u54e6\u3002"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "\u623f\u95f4\u91cc\u7684\u955c\u5b50\uff0c\u5176\u5b9e\u662f\u4e3a\u4e86\u65b9\u4fbf\u968f\u65f6\u7ec3\u4e60\u5bf9\u8bdd\u7528\u7684\u2026\u554a\uff0c\u4e0d\u8bb8\u7b11\u6211\u2026"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "\u8981\u548c\u6211\u804a\u804a\u5929\u5417\uff1f"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "\u2026\u2026\u2026\u2026"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_ex1100.wav",
+                    "name": "Commission complete (Extra)",
+                    "quote": "\u6307\u6325\u5b98\u2026\u55ef\uff0c\u59d4\u6258\u7ec4\u5b8c\u6210\u59d4\u6258\u56de\u6765\u4e86\u54e6\u3002"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade_ex1100.wav",
+                    "name": "Enhancing complete (Extra)",
+                    "quote": "\u975e\u5e38\u611f\u8c22\u3002\u2026\u60f3\u8981\u56de\u793c\u5417\uff1f"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "\u6700\u8fd1\u611f\u89c9\u2026\u4e0d\u6b62\u5bf9\u6307\u6325\u5b98\uff0c\u548c\u5176\u4ed6\u8230\u8239\u4f19\u4f34\u4eec\u90fd\u80fd\u66f4\u597d\u5730\u8bf4\u4e0a\u8bdd\u4e86\u5462\u2026\u90fd\u662f\u56e0\u4e3a\u6709\u6307\u6325\u5b98\u5728\u6211\u7684\u8eab\u8fb9\uff0c\u7ed9\u6211\u52c7\u6c14\u4e0e\u9f13\u52b1\u2026\u6211\u6700\u559c\u6b22\u6307\u6325\u5b98\u4e86\u3002"
+                }
+            ]
+        },
+        {
+            "name": "\u751f\u758f\u7684\u6267\u52e4\u65f6\u95f4",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "\u6211\u662f\u4eca\u5929\u7684\u503c\u73ed\u62a4\u58eb\uff0c\u82f1\u4ed9\u5ea7\u3002\u6709\u4efb\u4f55\u60c5\u51b5\u8bf7\u6309\u94c3\u547c\u6362\u6211\u3002\u2026\u8fd8\u6709\u4ec0\u4e48\u95ee\u9898\u5417\uff1f"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "\u6211\u662f\u4eca\u5929\u7684\u503c\u73ed\u62a4\u58eb\uff0c\u82f1\u4ed9\u5ea7\u3002\u6709\u4efb\u4f55\u60c5\u51b5\u8bf7\u6309\u94c3\u547c\u6362\u6211\u3002\u2026\u8fd8\u6709\u4ec0\u4e48\u95ee\u9898\u5417\uff1f"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "\u2026\u773c\u795e\uff1f\u5bf9\u4e0d\u8d77\uff0c\u6211\u4e0d\u592a\u6e05\u695a\u8fd9\u79cd\u65f6\u5019\u5e94\u8be5\u7528\u4ec0\u4e48\u8868\u60c5\u9762\u5bf9\u6307\u6325\u5b98\u2026"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "\u65e0\u8bba\u662f\u6253\u9488\u3001\u5305\u624e\uff0c\u8fd8\u662f\u62a4\u7406\uff0c\u6211\u90fd\u6709\u5728\u7ec3\u4e60\u54e6\u3002\u6307\u6325\u5b98\uff0c\u4e0b\u6b21\u80fd\u5f53\u6211\u7684\u7ec3\u4e60\u5bf9\u8c61\u5417\uff1f"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "\u5e2e\u52a9\u6709\u56f0\u96be\u7684\u4eba\u662f\u62a4\u58eb\u7684\u804c\u8d23\uff0c\u4e0d\u8fc7\uff0c\u4efb\u4f55\u5e2e\u52a9\u90fd\u662f\u6709\u6781\u9650\u7684\uff0c\u80fd\u81ea\u5df1\u5b8c\u6210\u7684\u4e8b\uff0c\u8fd8\u662f\u8bf7\u5c3d\u91cf\u81ea\u5df1\u5b8c\u6210\u5427\uff0c\u6307\u6325\u5b98\u3002"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "\u62a4\u58eb\u6709\u65f6\u5019\u8981\u7ed9\u96be\u4ee5\u884c\u52a8\u7684\u75c5\u4eba\u7ffb\u8eab\u5462\u2026\u6307\u6325\u5b98\uff0c\u80fd\u62dc\u6258\u4f60\u6682\u65f6\u50cf\u6b7b\u9c7c\u4e00\u6837\u8eba\u7740\u4e0d\u8981\u52a8\u5417\uff1f"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "\u6e2f\u533a\u521a\u5230\u4e86\u4e00\u6279\u65b0\u7684\u533b\u7597\u8bbe\u5907\uff0c\u6307\u6325\u5b98\uff0c\u80fd\u9ebb\u70e6\u4f60\u5f53\u5b9e\u9a8c\u3001\u2026\u4e0d\uff0c\u5f53\u4e00\u56de\u6d4b\u8bd5\u8005\u5417\uff1f"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "\u6307\u6325\u5b98\u7684\u773c\u795e\uff0c\u5c31\u50cf\u7334\u5b50\u4e00\u6837\u7cbe\u795e\u5462\u3002\u770b\u6765\u5f88\u5065\u5eb7\uff0c\u55ef\u3002"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "\u6bd4\u8d77\u533b\u9662\u7684\u75c5\u5e8a\uff0c\u62d8\u7559\u5904\u7684\u94c1\u5e8a\u4f3c\u4e4e\u66f4\u9002\u5408\u6307\u6325\u5b98\u5462\u3002"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "\u6307\u6325\u5b98\u2026\u679c\u7136\u6709\u70b9\u865a\u5f31\u5462\u3002\u9700\u8981\u6765\u70b9\u8865\u5145\u8425\u517b\u7684\u836f\u5242\u5417\uff1f"
+                }
+            ]
+        }
+    ]
+}
