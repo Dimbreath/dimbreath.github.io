@@ -1,236 +1,236 @@
 {
-    "name": "HMS Drake",
-    "id": 29904,
+    "name": "KMS Z26",
+    "id": 40126,
     "skins": [
         {
-            "name": "德雷克",
+            "name": "Z26",
             "quotes": [
                 {
                     "key": "drop_descrip",
                     "voice": "",
                     "name": "Drop description",
-                    "quote": "重巡洋舰-—德雷克"
+                    "quote": "1936A “纳尔维克”型驱逐舰—Z26"
                 },
                 {
                     "key": "profile",
                     "voice": "profile.wav",
                     "name": "Details",
-                    "quote": "我是皇家海军的重巡洋舰·德雷克。也许你对我的存在还感到比较陌生，不过没关系，在以后的战斗里，我的9.2寸炮会给你留下足够充分的深刻印象的！"
+                    "quote": "介绍下自己的经历吗？我明白了！我是铁血的1936A型驱逐舰·Z26！护卫过希佩尔和舍尔，还和Z24、Z25一起参加了拦截PQ-13船队的行动，不过， 也是在这次行动里迎接了最后的结局…"
                 },
                 {
                     "key": "unlock",
                     "voice": "get.wav",
                     "name": "Receive",
-                    "quote": "你就是指挥官吧？看起来不错~皇家海军重巡德雷克，现在加入你的麾下！姑且问一句，出击的许可，应该已经准备好了吧？"
+                    "quote": "铁血驱逐舰·Z26，前来报到！接下来还请多多指教，指挥官！……好！这样应该就没问题了！"
                 },
                 {
                     "key": "login",
                     "voice": "login.wav",
                     "name": "Log in",
-                    "quote": "来了啊。今天先做点什么？先研究下作战也好，要直接先出击也是没问题的哦？"
+                    "quote": "非常抱歉，这里是指挥官办公的地方，闲杂人等不能进入……啊，指挥官不是闲杂人等来着，那就…欢迎回来，指挥官！"
                 },
                 {
                     "key": "detail",
                     "voice": "detail.wav",
                     "name": "View details",
-                    "quote": "任何伟大的事迹都必定有它的起点，但惟有坚持到最后才能获得真正的荣耀——所以继续努力吧！"
+                    "quote": "我讨厌暴风雪，不仅会把同伴们分开，还会让人怎么都躲不掉敌人……"
                 },
                 {
                     "key": "main1",
                     "voice": "main_1.wav",
                     "name": "Main screen 1",
-                    "quote": "武装舰船的是装甲、火炮和鱼雷，而武装人的，则是胆识、见识与学识。"
+                    "quote": "指挥官，不准偷懒！……已经完成了很多任务了？那，指挥官，工作辛苦了！"
                 },
                 {
                     "key": "main2",
                     "voice": "main_2.wav",
                     "name": "Main screen 2",
-                    "quote": "我不讨厌礼节，也不反对适当的仪式感，不过，繁文缛节的东西，能少点还是尽量少点好。"
+                    "quote": "Z23喜欢看书，Z1喜欢运动。那，想超过她们的话…边看书边运动？好像真的可以？"
                 },
                 {
                     "key": "main3",
                     "voice": "main_3.wav",
                     "name": "Main screen 3",
-                    "quote": "比起榨好的苹果汁，还是沾着露水的新鲜苹果更诱人，你也是这么觉得的吧！"
+                    "quote": "Z25的玩偶，其实是活的？……因为，经常能看见Z25在和那孩子说话。"
                 },
                 {
                     "key": "touch",
                     "voice": "touch_1.wav",
                     "name": "Normal touch",
-                    "quote": "我喜欢直白的人，所以有什么事尽管直接说出来就好。"
+                    "quote": "有什么需要我做的？快说！……不对，是，请说！"
                 },
                 {
                     "key": "touch2",
                     "voice": "touch_2.wav",
                     "name": "Special touch",
-                    "quote": "嚯~？你胆子还不小嘛~！"
+                    "quote": "不纯洁的接触，不行！"
                 },
                 {
                     "key": "mission",
                     "voice": "task.wav",
                     "name": "Mission reminder",
-                    "quote": "按部就班地做任务可不是我的风格，嗯…先看看有多少报酬吧！"
+                    "quote": "有任务！唔，这时候应该说的是…请指挥官迅速完成！"
                 },
                 {
                     "key": "mission_complete",
                     "voice": "mission_complete.wav",
                     "name": "Mission complete",
-                    "quote": "虽然任务报酬还不少，不过像这样由上面施予的奖励总感觉少了点什么呢…"
+                    "quote": "任务完成了！这个时候应该说的是…感谢指挥官对舰队做出的贡献！"
                 },
                 {
                     "key": "mail",
                     "voice": "mail.wav",
                     "name": "Mail reminder",
-                    "quote": "信件，会不会发现了哪里有宝藏的消息呢，哈哈。"
+                    "quote": "是最新的情报！指挥官，请过目！"
                 },
                 {
                     "key": "home",
                     "voice": "home.wav",
                     "name": "Return to port",
-                    "quote": "作战辛苦了，正好我准备了些新鲜的葡萄，要来一颗吗？…那好，接好了！嘿！"
+                    "quote": "指挥官，请喝咖啡！……要加糖？那，加10块方糖可以吗？"
                 },
                 {
                     "key": "expedition",
                     "voice": "expedition.wav",
                     "name": "Commission complete",
-                    "quote": "果然老老实实地做委托没有直接从敌人手里掠夺来得过瘾啊…啊，没什么。"
+                    "quote": "委托部队回来了，她们做得不错！……不对，应该是，她们辛苦了！"
                 },
                 {
                     "key": "upgrade",
                     "voice": "upgrade.wav",
                     "name": "Enhancing complete",
-                    "quote": "感觉炮管能发出更让人愉快的声音了，哈哈！"
+                    "quote": "感觉很好！……不对，应该是…谢谢指挥官！"
                 },
                 {
                     "key": "battle",
                     "voice": "warcry.wav",
                     "name": "Flagship fight",
-                    "quote": "哼哼哼，放开了大干一场吧！"
+                    "quote": "大家，一起跟着先锋！…我就是？那，都跟着我吧！"
                 },
                 {
                     "key": "win_mvp",
                     "voice": "mvp.wav",
                     "name": "Victory",
-                    "quote": "胜利，无论何时都让人倍感愉快啊，哈哈！"
+                    "quote": "大家还需要努力！……啊不对，应该是，大家都辛苦了！"
                 },
                 {
                     "key": "lose",
                     "voice": "lose.wav",
                     "name": "Defeat",
-                    "quote": "今天的所有屈辱，我都会铭记在心的…走着瞧吧！"
+                    "quote": "输了…大家，非常对不起！"
                 },
                 {
                     "key": "skill",
                     "voice": "skill.wav",
                     "name": "Skills",
-                    "quote": "可别怪我无情了！"
+                    "quote": "我已经准备好了！"
                 },
                 {
                     "key": "hp_warning",
                     "voice": "hp.wav",
                     "name": "Low HP",
-                    "quote": "嘁，对面的有两下子嘛！"
+                    "quote": "Z25她们都去哪儿了…"
                 },
                 {
                     "key": "feeling1",
                     "voice": "feeling1.wav",
                     "name": "Upset",
-                    "quote": "若只是几次无心之过，我是不会放在心上的，但如果你还是这样一意孤行，那就别怪我不留情面了。"
+                    "quote": "指挥官，不合格！"
                 },
                 {
                     "key": "feeling2",
                     "voice": "feeling2.wav",
                     "name": "Stranger",
-                    "quote": "战场上无需拘泥于手段，无论是靠小伎俩，还是正面进攻，站到最后的胜者才有资格谈论正义，如此而已。"
+                    "quote": "被敌人盯上了怎么办？唔唔……祈祷她们认错人！或者，等她们鱼雷不小心打到自己！"
                 },
                 {
                     "key": "feeling3",
                     "voice": "feeling3.wav",
                     "name": "Friendly",
-                    "quote": "你对冒险也有兴趣吗？太好了，我正愁缺个伴呢，说吧，你想要的是寻找大海中的黄金秘宝，还是探寻远方的神秘国度？"
+                    "quote": "嗯，今天指挥官做得很好，以后再接再厉！……这样指挥官就能理解我表达称赞的意思了吧。"
                 },
                 {
                     "key": "feeling4",
                     "voice": "feeling4.wav",
                     "name": "Crush",
-                    "quote": "唔…一起探险是挺好的，不过，最近出去的地方是不是都太近了点？不是港区内就是近海……老实说，有点无趣啊。下次，我带你去大海更深的地方吧？"
+                    "quote": "工作要劳逸结合。指挥官，明天是休息日，我要监督你，不能让你工作。这样的话，指挥官就一定能得到充分的休息了！"
                 },
                 {
                     "key": "feeling5",
                     "voice": "feeling5.wav",
                     "name": "Love",
-                    "quote": "原来如此，你并不在乎旅行的终点，而更加在意同行的伙伴吗。也就是说，只要和我一起，无论去哪都没问题！是这样吧，哈哈哈…唔？等等，这意思不就是…"
+                    "quote": "经过一小段时间的观察，我得出了一个结论：指挥官不需要我监督，也可以做得很好。嗯，指挥官是一个非常优秀的人！我为我能有这样一个指挥官而骄傲！"
                 },
                 {
                     "key": "propose",
                     "voice": "propose.wav",
                     "name": "Promise",
-                    "quote": "你不觉得奇妙吗？这种既不是“被征服”也不是“不甘心”，单纯感到“羞耻”的感觉……都是因为你，我都变得不像我了。虽然我也不讨厌这样的状态…就是了。你能理解吗？"
+                    "quote": "「无论是顺境或是逆境、富裕或贫穷、健康或疾病、快乐或忧愁，我将永远爱着你、珍惜你、对你忠诚，直到永永远远」……呼，太好了，一字不错地背下来了！…啊，对了！指挥官，接下来是该轮到你说了吧？"
                 },
                 {
                     "key": "link1",
                     "voice": "link1.wav",
                     "name": "Battle 1",
-                    "quote": "(1 of the following: MNF Jean Bart) 比比看谁能夺得更多的战果吧！"
+                    "quote": "(1 of the following: KMS Z25) 不要再跟丢我了！……不对，是，我不会再跟丢你们了！"
                 }
             ]
         },
         {
-            "name": "黄金鹿的闲暇时光",
+            "name": "友好的分享时间",
             "quotes": [
                 {
                     "key": "drop_descrip",
                     "voice": "",
                     "name": "Drop description",
-                    "quote": "呼…这么游着感觉还是不太过瘾啊。你也别在那傻看着，来陪我游会泳吧？"
+                    "quote": "指挥官，欢迎来到我的房间！啊，稍等一下，我把吃的喝的还有玩的都拿出来！"
                 },
                 {
                     "key": "unlock",
                     "voice": "get_1.wav",
                     "name": "Receive",
-                    "quote": "呼…这么游着感觉还是不太过瘾啊。你也别在那傻看着，来陪我游会泳吧？"
+                    "quote": "指挥官，欢迎来到我的房间！啊，稍等一下，我把吃的喝的还有玩的都拿出来！"
                 },
                 {
                     "key": "login",
                     "voice": "login_1.wav",
                     "name": "Log in",
-                    "quote": "本以为所谓“很适合游泳的地方”应该是哪个更宽广的海边，没想到只是这么个小小的露天泳池…不过算了，作为打发时间的地方来说倒也足够了。"
+                    "quote": "久等了！这些就是我的全部家当了！……啊不对，应该是，我的全部零食和游戏了！"
                 },
                 {
                     "key": "detail",
                     "voice": "detail_1.wav",
                     "name": "View details",
-                    "quote": "这个泳池貌似还有人工造浪的功能？呵呵，比想象中的有趣些嘛！我看看最大能到达什么程度…"
+                    "quote": "斯佩姐姐很喜欢这个脆脆的尖角呢，指挥官也喜欢吗？那…张开嘴我给你塞几个！"
                 },
                 {
                     "key": "main1",
                     "voice": "main_1_1.wav",
                     "name": "Main screen 1",
-                    "quote": "唔，都说了别一直在那傻看着呀，我都要感觉不自在起来了…"
+                    "quote": "又输给U96了！还是跟龙骧再多练习练习再来向她挑战好了！…啊，指挥官，我是在说和U96她们一起玩的对战游戏！"
                 },
                 {
                     "key": "main2",
                     "voice": "main_2_1.wav",
                     "name": "Main screen 2",
-                    "quote": "哈哈哈，这点小小的颠簸就受不了了，看来这小家伙还需要锻炼啊！"
+                    "quote": "累了的话，可以抱着大鲨鱼休息一会！…啊，我说的是床上的“大鲨鱼”抱枕！"
                 },
                 {
                     "key": "main3",
                     "voice": "main_3_1.wav",
                     "name": "Main screen 3",
-                    "quote": "呼…还是不太过瘾啊，我再游几个来回好了。"
+                    "quote": "姐姐们一直叮嘱说不能沉迷游戏。但是休息日的话，应该是怎么玩都没关系吧？"
                 },
                 {
                     "key": "touch",
                     "voice": "touch_1_1.wav",
                     "name": "Normal touch",
-                    "quote": "嚯嚯~确实感觉肩膀有些酸了呢，你还挺上道的嘛，指挥官。"
+                    "quote": "按这个键就可以开始游戏哦！……欸，指挥官不是想问开始键在哪里吗？"
                 },
                 {
                     "key": "home",
                     "voice": "home_1.wav",
                     "name": "Return to port",
-                    "quote": "运动过后的冰镇西瓜，呼呼…还有比这更棒的享受吗？指挥官，你要是不吃的话，我可就不客气了。"
+                    "quote": "指挥官口渴了吗？饮料有可乐、牛奶，还有希佩尔姐姐和欧根姐姐来玩的时候会喝啤酒，都在那边的小冰柜里面。想喝什么可以自己拿！"
                 }
             ]
         }
