@@ -1,0 +1,427 @@
+{
+    "name": "USS Nicholas",
+    "id": 10131,
+    "skins": [
+        {
+            "name": "尼古拉斯",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "弗莱彻级驱逐舰—尼古拉斯，舷号DD-449"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "DD-449尼古拉斯…虽然编号靠后但我可是第一艘下水服役的弗莱彻级哦…战史多以火力支援为主，然后…虽然参与了击沉神通还救援了海伦娜姐姐，但其他海战经历就不太能拿得出手了…如果没有其他事情，我可以回去了吗？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是…弗莱彻级第一艘下水的尼古拉斯…比起出去战斗，我更希望能待在港区里，呐，可以吗？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "和指挥官不同，我只想待在这里，哪儿也不想去……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "呼呼……咦，指、指挥官？难、难道我因为缺勤太多必须要出击了吗！？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "重樱的鱼雷……好可怕……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官向海伦娜姐姐学习一下如何纵容我怎么样？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "训练……提不起劲……完全提不起劲……"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "我才没有打瞌睡……Zzz"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "讨、讨厌……"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务，也不是一定要去做的……吧？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "指挥官，工作告一段落了，我想……"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "明明电子邮件早就出现了……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "欢、欢迎回来，指挥官……呐，我可以回去了吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托回来了，我也要回去了……"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "好厉害……"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "……以胜利为目标……吧？"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "MVP是我吗……真难得"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "果、果然还是不出来比较好"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "好想回家……"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "我不会从房间里出来的，绝不！"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "我并没有困……只是有点睁不开眼罢了"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "指、指挥官，现在很闲的话要不要一起去我的房间玩电子游戏……"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "如果一直待在家里，就见不到指挥官了……唔，怎么办才好……"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "唔……只要待在指挥官的房间里，就能一边看着指挥官一边打瞌睡了呢……"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "呜……这个仪式还要多久，好困……好想回去睡觉，指挥官，你也是这么想的吧？"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: USS Helena) 海伦娜，水面以下的也要多加注意啊"
+                }
+            ]
+        },
+        {
+            "name": "尼古纳斯",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "我喜欢护士这个身份……不用出门也不用训练，只需要照顾病人就好~治疗？只要好好地休息，病情一定会康复啦"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "我喜欢护士这个身份……不用出门也不用训练，只需要照顾病人就好~治疗？只要好好地休息，病情一定会康复啦"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "珍贵的医护人员就应当待在后方……战地医生？那种舰娘还是交给女灶神前辈吧"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "在战场上，护士一边忍着睡意一边救护再正常不过了，所以，我现在是在练习啦，哈~欠~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "针筒里放进了拉德福特的爱情糖果，所以一点～都不痛哦"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "生病了最重要的是好好休息，所以别顾虑我，躺在床上尽情地休息吧 "
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "偶尔也会遇到那几位总是大吵大闹影响别人的病人，这种时候就得麻烦女灶神前辈前来支援"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官，也想被“注射”一下吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "指挥官，终于生病了吗……"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_1.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，病历书，请拿好"
+                }
+            ]
+        },
+        {
+            "name": "装错的圣诞礼物",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，圣诞快乐，我是礼物，大概……麻烦帮我盖一下盖子，让我再睡会儿…呼…"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，圣诞快乐，我是礼物，大概……麻烦帮我盖一下盖子，让我再睡会儿…呼…"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "……唔？指挥官，早上好"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "欸，圣诞节不放假吗……好吧，那我再睡五分钟，就五分钟……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "圣诞礼物……？我是无所谓，能让我睡够就好了……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "逛街？路上小心。……一起去？不要。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "海伦娜，要来一起睡吗？箱子里很暖和哦…"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官，别摇我……呼……"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_2.wav",
+                    "name": "Mission complete",
+                    "quote": "指挥官，你看看这些箱子哪个是任务奖励，我忘了……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，累了的话，枕头分你一半？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "虽然原本没打算睡在这里，不过，醒来第一眼看到的就是指挥官的感觉也不坏……圣诞快乐哦，指挥官"
+                }
+            ]
+        },
+        {
+            "name": "夏日清扫运动",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，你也来泳池玩吗？……我？弗莱彻说我太懒惰了，让我来帮忙清扫泳池…嗯，指挥官，当心脚下哦"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，你也来泳池玩吗？……我？弗莱彻说我太懒惰了，让我来帮忙清扫泳池…嗯，指挥官，当心脚下哦"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "沙滩好远……还是泳池好"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "这件泳衣穿起来有点紧呢…说起来，我明明不打算游泳，为什么要穿泳衣来着…唔，算了，就这样吧"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "弗莱彻级的姐妹太多了，弗莱彻姐姐让我们分批来泳池玩……不过对我来说没有什么所谓呢，反正我只是想在躺椅上睡觉……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "真想快点打扫完躺下睡觉呢…呼啊…指挥官也来帮帮我嘛…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "唔，既然不能睡觉…这样吧，指挥官，我们一起在泳池里装浮尸好不好？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "发型？因为太热了，所以让海伦娜姐姐帮我扎起来了…指挥官，喜欢吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，身上很多汗呢，冲个澡，然后在泳池里泡泡解解暑？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_3.wav",
+                    "name": "Love",
+                    "quote": "夏天好热，哪里都不想去……唔？指挥官有什么想去的地方吗？如果是指挥官想去的，那我也可以考虑一下……"
+                }
+            ]
+        },
+        {
+            "name": "尼古拉斯.改",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，今天是几月？我好像稍微有点睡过头了……身体成长了？呼哇~因为我一直都在睡觉嘛……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_9.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，今天是几月？我好像稍微有点睡过头了……身体成长了？呼哇~因为我一直都在睡觉嘛……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_9.wav",
+                    "name": "View details",
+                    "quote": "不用出门就能处理的事务，倒是可以拜托给我"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_9.wav",
+                    "name": "Main screen 1",
+                    "quote": "鱼雷……勉勉强强也能当做枕头呢"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_9.wav",
+                    "name": "Main screen 2",
+                    "quote": "我一天也不尽是在睡觉啦，只是清醒的时候也完全不想动弹"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_9.wav",
+                    "name": "Main screen 3",
+                    "quote": "尼古拉斯……梦想是成为雕像……"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_9.wav",
+                    "name": "Normal touch",
+                    "quote": "这次我真的没有在打瞌睡哦！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_9.wav",
+                    "name": "Special touch",
+                    "quote": "笨、笨蛋……"
+                }
+            ]
+        }
+    ]
+}

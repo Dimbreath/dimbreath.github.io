@@ -1,0 +1,250 @@
+{
+    "name": "IJN Kumano",
+    "id": 30318,
+    "skins": [
+        {
+            "name": "熊野",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "最上级重巡洋舰四番舰—熊野"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是最上型重巡洋舰熊野！在大战中曾经作为第七舰队的一员努力过哦！怎么说呢，虽然在那个岛，以及最后的时刻发生过不少事情…算啦，这次会和小伙伴们全力以赴加油努力的，还请多多关照啦！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "锵~！重巡熊野，来报道啦~！指挥官，多多指教~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "哦哦指挥官来啦！所以~今天要做什么？和熊野一起去哪玩玩？啧，要工作吗…"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "指挥官，和熊野一起玩嘛~啊！要给我糖吃吗？那不用一起玩也没事啦！啊~呣！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "噢，战斗的时候很认真？那是~熊野可是该干的时候就能好好干的类型呢。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官~喜欢什么类型的女孩子呀？难道…熊野也有机会…？啊哈☆"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "超闲…指挥官，我叫铃谷过来好不好？想商量下下次出门买东西的事～"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "啊哈~刚才指挥官偷偷看我了吧？呼呼呼，不用这么藏着掖着，正・大・光・明地看就好了嘛♡"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "哼~果然指挥官也喜欢这样啊~没关系哦，只是这点程度的话，随便你~♡"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务啊…应付这种还是铃谷更拿手啊…"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "好困……呜哇糟糕，任务奖励来啦！喂~！"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "私信…不对，是邮件来啦！指挥官，不可以假装已读哦！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "战斗反省？挺好的，去吧~？欸，要熊野来做吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托组回来了哦~不赶紧去迎接她们可不行啊~！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "哦哦！搞不好出击的机会要变多了？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "发现敌舰！这下只能干一架了吧！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "熊野，MVP！嘿嘿~快夸我快夸我~！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "这还怎么打呀~"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "我可要认真揍你了哦！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "一定要…回到港区…！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官…不太行啊感觉~啊不是批评你啦，只不过我也有点小想法而已～"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "指挥官~好闲啊~做点什么嘛~真是的，有什么关系嘛！又不会少块肉~啊，好疼！"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "指挥官～熊野一个人好寂寞啊～什么都行来玩玩吧～ 找别人？好过分！熊野就是想找指挥官玩嘛～来啦来啦！"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "能陪熊野一起玩？太棒了！一开始就这么说不就好了～于是去哪玩呢？就我们两・个・人♡"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指、指挥官喜欢熊野吗！？是这样啊……其实熊野也喜欢指挥官哦…？诶，是说正经的啦！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "呃，“互相信赖，互相帮助……”后面是什么来着？啊啊这东西又长又不好记，而且在别人面前说也太羞耻了吧！跳过这个直接回房间去吧？亲爱的也没问题吧！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Mogami) 最上姐，和熊野玩啦！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Suzuya) 铃谷，那边就交给你了！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: HMS Fiji) 这个妆画得不错嘛！"
+                }
+            ]
+        },
+        {
+            "name": "Fancy Wave",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "熊野~以泳装之姿闪亮登场！开玩笑的☆ 那边的指挥官~眼睛盯·在·哪·里了~？哈哈♡"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "熊野~以泳装之姿闪亮登场！开玩笑的☆ 那边的指挥官~眼睛盯·在·哪·里了~？哈哈♡"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "露出度太高？没感觉哦～你看潜艇小伙伴们的衣服不是更危险～"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "指挥官，在那边愣什么呢？快来这边啊！喂～"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "最上姐的泳装…想看哦！想看对吧？熊野可是很想看的！指挥官呢？嗯？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "累死啦～指挥官快给我揉揉肩揉揉脚～对不起那个地方不用揉啦！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "糖果？这是熊野自己拿到的，不给你！哈哈哈！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "果然指挥官很在意这・里・呢♡真像个小孩子～"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "指挥官～熊野的泳装你觉得怎么样？再靠近一点看也没问题哦？嘿嘿嘿，呼…熊野这回可是玩真的哦♡"
+                }
+            ]
+        }
+    ]
+}

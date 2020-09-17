@@ -1,0 +1,304 @@
+{
+    "name": "IJN Suzutsuki",
+    "id": 30184,
+    "skins": [
+        {
+            "name": "凉月",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "秋月级驱逐舰三番舰—凉月"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是秋月级驱逐舰的一员、凉月！曾经和秋月、初月她们一起在第六十一驱逐队待过~护卫过武藏，救援过阿贺野，还算是挺活跃的吧？虽然遭遇过很多次危机，中雷那两次也是…“天”号作战的时候也是…不过最后还是都坚持过来了呢！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "啊哈哈，噗太，以后这里就是我们的新家了哦？…恩哼，秋月级三号舰·凉月，参上！无论是同伴们还是指挥官，都请交给我来守护吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来！…有新的作战任务吗？交给我吧！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "被同伴依赖的时候，心中就会涌出一股力量，感觉自己什么都能做得到呢。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "“吾乃不倒之凉月，单凭尔等的攻击是无法将吾击败的！”…这样的感觉怎么样？嘿嘿~"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "噗太，你要去指挥官的头上面吗？嘿嘿~那就去吧！但是，不能捣乱哦！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "唔…指挥官每天都要处理好多事情啊。所以说啊矶风，浦风，“大名”啦“将军”啦什么的了可没那么好当哦，还是当指挥官麾下的一员“心腹”就好了吧~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "脸上的墨迹？欸，指挥官你真是不懂呢，这是潮流哦！不觉得很帅吗？我也来给你画一个吧！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "指、指挥官！有些事情是不可以随便做的啦！"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "嗯嗯，毛茸茸的摸起来很舒服吧！…啊，我说的是这孩子，不是我的耳朵啦！"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "指挥官碰到了很难的任务？唔…也给我看看吧？说不定能帮上忙哦！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务完成了！指挥官，可不要忘了给功臣赏赐哦？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "邮件怎么缺了个口？…啊哈哈……那是噗太做的…对不起…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "“甲队由我直接指挥，乙丙队按预定计划行动，然后——”啊，指挥官？什么时候回来的…"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "一起去慰问委托回来的同伴们吧！啊对了，慰问品就让我来拿着吧！嘿~咻~"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "这样就有更多的力量守护大家了！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "愿诸位武运昌隆！一鼓作气上啦！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "“敌将，已讨伐！”…开玩笑的，嘿嘿~"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "唔…无论如何，大家都要一起平安回去…！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "大家由我来守护！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "接下来才是紧要关头！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官，我要讨厌你了哦？"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "虽然听起来有点像在自卖自夸，不过，凉月还是挺可靠的哦？“凉月，谢谢你，帮大忙了！”经常有小伙伴这么跟凉月说哦~"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "指挥官，有什么事也可以尽管来拜托我哦！…欸？偶尔依赖依赖指挥官也没关系…？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "依赖指挥官啊…唔，想象一下的话……指挥官给凉月泡茶，指挥官给凉月做便当，指挥官把睡着的凉月抱回宿舍……这，这怎么好意思！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指挥官！肩膀借我靠靠~~嘿咻~…还是这样让人感觉最安心~唔，不知不觉已经很自然地依赖着指挥官了呢…要好好负起责任哦，指挥官？嘿嘿，开玩笑的~"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "啊哈哈…果然到了这时候还是会紧张的呢…本来还以为能更游刃有余一些的呢…那个…指挥官，接下来的…全都交给你就行了吧？"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Agano) 当心别受伤了哦！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Niizuki, IJN Harutsuki, IJN Yoizuki, IJN Hanazuki) 一起保护好大家吧！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: IJN Isokaze) 矶风，拜托你帮忙了！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "欢迎回来！今天的凉月只想撒娇，什么任务都不想做哦！啊哈，当然是开玩笑的啦！…欸，可以吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "谢谢指挥官！帮大忙啦！…怎么样？指挥官有没有觉得被感谢了以后有种什么都做得到的感觉？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head_ex1100.wav",
+                    "name": "Rub (Extra)",
+                    "quote": "指挥官的话，给你多摸摸耳朵也不是不行哦？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_ex1100.wav",
+                    "name": "Mission complete (Extra)",
+                    "quote": "任务完成了！啊，作为奖励，让我在指挥官身上躺一会嘛~"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "凉月乃不沉舰是也！故而指挥官亦不败…相信无论前往何处都能平安归来的！欢迎回来！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "指挥官的怀里好舒服啊~我蹭蹭~欸，有，有人来了？！咳咳！有，有什么需要凉月帮忙的吗！……骗我的？啊，真是的！"
+                }
+            ]
+        },
+        {
+            "name": "凉月、伴你在海边！",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，这边这边~再晚点的话，大家就不等你，自己先玩起来了哦！嘿嘿，要打沙滩排球吗？还是堆沙堡？和凉月一起悠闲地泡泡海水什么的其实也不错~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，这边这边~再晚点的话，大家就不等你，自己先玩起来了哦！嘿嘿，要打沙滩排球吗？还是堆沙堡？和凉月一起悠闲地泡泡海水什么的其实也不错~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "哎呀，指挥官，你已经迟到了哦，大家都已经各自玩起来了呢~没办法，就让我先陪你一会吧~"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "嘿嘿，现在的凉月是不是人如其名，给人一种“清凉”的感觉呢~？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "堆沙堡需要帮手？来啦来啦~指挥官，先失陪一下！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "噗太，你也觉得来海边玩很开心吧~啊，不过要小心别掉到海里去了哦？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "阿贺野…好像没来啊，还想找她一起玩呢~嗯？指挥官为什么松了一口气？是我的错觉么…"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "呜哦！？…是指挥官啊，还以为是螃蟹呢，吓了我一跳…之前被响找到的螃蟹夹到脚趾还在隐隐作痛呜呜…"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "啊，真是的！指挥官，在人这么多的地方做这种事！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "沙滩排球缺人？来啦来啦~唔，等一会，我先跟佐治亚打个西瓜~"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "呼…在海边玩虽然很开心，不过闹腾了这么久，还是有点疲惫呢…嘿嘿~我躺！指挥官身上果然很舒服呢~嗯…就这样保持一会吧，嘿嘿~"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "name": "IJN Kashino",
+    "id": 31901,
+    "skins": [
+        {
+            "name": "樫野",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "运输舰—樫野"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我叫樫野，兴趣爱好是泡温泉，另外身高体重是……啊，现在不是要这方面的自我介绍呢！不好意思…嗯…我是为大和级战列舰运送主炮——记得名字是叫做“九四式40厘米炮”而诞生的。后来也参与过一些普通的运输任务，不过最后因为潜艇的伏击而结束了自己的生涯。嗯…这样就可以了吧？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "初次见面，指挥官。我是重樱所属运输舰樫野。嗯…虽说姑且算是比较特殊的舰船，不过…有我能帮上的地方的话，请尽管交给我…好吗？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，欢迎回来。今天有什么需要樫野运送的，或者其他樫野能帮得上忙的事吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "你说刀吗？…像这样？啊，很帅气吗？没有的事，我并不是特别擅长这个的…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "1、2、3……指挥官，您让准备的建材都在这里了。…嗯？不用大家一起搬哦？这么轻的东西…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "♪～指挥官，我给您泡了茶哦。加了一点牛奶的皇家风味……觉得怎么样呢？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，在窗户边挂一些风铃怎么样？风铃飘动的时候，清脆的铃声能让人心情变好哦。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "是需要我把主炮运送到哪里吗？……啊，不好意思…我刚有点发呆了……"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "呀啊！？指挥官？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "…！对、对不起，尾巴打到您了？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "好像指挥官您还有新任务没完成？要注意一下时间哦。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务完成。心上挂念的事情又可以少一件了。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "物资中间好像夹杂着一封信件……啊，是给你的呢，指挥官。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "嘿咻…啊，指挥官欢迎回来。我刚把大家带回来的物资都一口气搬到仓库里了。清单的话…请再稍微等一会哦"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托队顺利返航了。比起迎接的那一方，我更擅习惯处在被迎接的那一边呢。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "嗯……发生了什么变化吗？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "对空战斗……开始！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "嗯……总感觉，心情有些微妙呢……"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "果然，和正规战斗舰船们一起作战还是太勉强了吗…"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "补给已经送到了！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "一点损伤……没关系，还撑得住！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "哪怕再多的物资，指挥官大概也无法运用好吧……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "这身舰装和其它舰船的相比，有一些特别之处呢。指挥官感兴趣的话……嗯，不如坐上来试试？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "有些驱逐舰们喜欢和我玩游戏。嗯，就是那种，让她们坐在我的肩膀上，扮演大机器人之类的游戏…还是挺有趣的呢，嗯♪"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "指挥官，累了的话，要不要去泡个澡？泡完澡再来一瓶新鲜的牛奶的话肯定…指挥官？？没事吧！？要带您去医务室吗？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "呼…啊，指挥官，感觉舒服多了吗？冰好的牛奶和点心，还有大家的慰问品我都放在这里了。想要冲冲背的时候话随时叫我就好～"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "身为运输舰的我在战场上或许帮不上什么忙。但是指挥官却如此信赖我、重视我……我，会在各种方面努力的！嗯！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Shinano) 武器，运过来了！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "指挥官，欢迎回来。今天有什么需要樫野帮忙的吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "♪～指挥官喜欢洋风的重樱点心吗？下次做便当的时候想拿来参考下呢，欸嘿嘿"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "指、指挥官……///"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_ex1100.wav",
+                    "name": "Commission complete (Extra)",
+                    "quote": "樫野去帮委托组的各位搬运报酬物资！指挥官安心陪回来的小伙伴们就好"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "运送装备看来有回报了呢♪"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "呼……好舒服……谢谢指挥官。居然还帮我揉肩…下次就轮到我让指挥官好好舒服一下了呢～敬请期待吧，呼呼呼♪"
+                }
+            ]
+        },
+        {
+            "name": "温泉放松时间",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "啊…疼疼疼…对不起指挥官，好像踩着什么东西摔了一跤…想注意脚下有时候也很难呢…呜……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "啊…疼疼疼…对不起指挥官，好像踩着什么东西摔了一跤…想注意脚下有时候也很难呢…呜……"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "指挥官泡的舒服吗？我很喜欢这温泉哦"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "要说这个温泉什么不足的话，就是太小了些…一不小心就很容易滑倒、或者是碰到什么东西…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "呼……肩膀也不酸了，真舒服～谢谢指挥官告诉我这么好的地方～"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "泳装是那、那个……能让指挥官……呜，说不出来啦……"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "洗完澡果然要喝牛奶呢～一会再来一瓶……第、第一瓶刚才摔倒的时候不小心洒掉了……"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "要我给您冲冲背吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "果、果然很重吧……"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_1.wav",
+                    "name": "Mail reminder",
+                    "quote": "说起来，刚才好像看到一封给指挥官的信……不好意思，忘了给您报告了……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "今天的牛奶和冰箱我都搬到那边了哦。总结完之后就在这里好好泡个澡舒服一下吧～"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose_1.wav",
+                    "name": "Defeat",
+                    "quote": "好疼疼…今天看来运气不是很好呢…"
+                }
+            ]
+        }
+    ]
+}

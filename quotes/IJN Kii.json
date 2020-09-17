@@ -1,0 +1,274 @@
+{
+    "name": "IJN Kii",
+    "id": 30512,
+    "skins": [
+        {
+            "name": "纪伊",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "纪伊级战列舰—纪伊"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是纪伊级战列舰的首舰·纪伊。因为一些原因最终没能实现在大战中大展身手的抱负……如今，我终于有机会展示自己的实力了！指挥官，不要有所拘束，照你的想法驱使我就行！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "战舰纪伊，参上！听说在这里可以毫无顾忌的施展拳脚？哼哼，很好！我很期待之后的日子，你也尽管期待我的表现吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "终于来啦？我的火炮都已经寂寞难耐了哦，是时候让它们热热身了！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "无论是刀剑，还是火炮，果然武器还是得够“大”才好啊，光是气势上就有种“赢了！”的感觉，你说是吧，指挥官！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "要是谁欺负你了，尽管告诉我，我帮你揍回去！…嗯？我是认真的哦，没开玩笑的。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "嗯~~一直待着感觉身体都要变僵硬了…怎么了，一脸局促的样子。唔，衣服哪里松开了？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "骏河～今天忙完之后，和伊势她们一起去喝一杯嘛？哎别这么没人情味嘛…都说好要去就一起去了！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "遇到什么困难了？尽管说出来吧。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "增进彼此感情的亲密接触啊…也不错！"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有新任务？是要去哪个海域清剿敌人的话，就尽管交给我吧！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "干净利落地把任务都完成了啊，很好！"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有信件…难道是谁寄来的挑战书？好，我接了！……啊，原来不是吗…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "比起驻守港区，还是上战场歼敌更令人瞩目啊，不是吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "虽然我对委托这种单纯枯燥的工作没什么兴趣，不过可不能亏待了归来的同伴们，一起去迎接她们吧！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "好，马上用实战检验一下强化的成果吧！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "堂堂正正地一决胜负吧！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "不错！是一场爽快的战斗！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "咕…果然是火力还不够吗……"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "好！来大闹一场吧！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "哈，对面也有两下子嘛！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "嘁，当你的手下真没意思……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "你啊，动不动就脸红气喘，是不是有点太缺乏锻炼了？就和骏河一样啊"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "嗯——好！就让我纪伊来陪你锻炼锻炼！别老在室内待着，多出来动动吧，挥挥木刀什么的也好！"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "在战斗中大放异彩，也得有能关注你的伙伴才有意思啊~好！等忙完再去跟日向比划比划，然后再跟她一起去找伊势喝几杯！当然你和骏河也要一起！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "有想要守护的事物，会让人变得更加强大。现在的我有港区的伙伴们，有你在，自然是最强的啦，哈哈！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "都说“伙伴之间本就亲密无间”嘛，所以不用这种形式的东西——不是那个意思？你知道我并不擅长表达这个嘛…好吧，既然是你的心意我就接收了！放心吧，无论是过去、现在还是将来，我都会好好保护你的！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Amagi) 战略交给你，战斗交给我！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Suruga) 别害羞，要华丽地上咯！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: IJN Ise, IJN Hyūga) 打赢以后回去喝一杯！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "来得挺早的嘛，决定好今天要出击去哪了吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "好，到此为止！肌肤相亲倒是没所谓，不过这个就有点太故意了哦"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_ex1100.wav",
+                    "name": "Flagship fight (Extra)",
+                    "quote": "好啦，让我们认真地一决胜负吧！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "这才是想给大家看到的活跃啊！哈哈哈哈！"
+                }
+            ]
+        },
+        {
+            "name": "水边的诱惑",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "(嘶嘶)清凉的饮品，美味的食物，热情的阳光…还有避暑的泳池？呼呼，是不是挺有股“夏天”的感觉出来了？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "(嘶嘶)清凉的饮品，美味的食物，热情的阳光…还有避暑的泳池？呼呼，是不是挺有股“夏天”的感觉出来了？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "来了吗？肚子饿了的话就随便吃吧，寿司和团子都有。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "骏河又不见了啊，肯定是说着“我是低调的室内派，才不要在这种引人注目的地方待着”什么的又躲哪个角落去了吧。难得的夏天，放开点不好吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "饮料机，夏日限定露天商店…明石那家伙，在这方面还真是比谁都机灵啊"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "下泳池泡泡有什么好害羞的…和女生一起游泳而已，也没什么好在意的吧？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "天城和赤城她们玩得挺开心的嘛…这也是你的功劳，稍微自豪些也没什么啦"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "想去深水区游泳？那我陪你过去吧。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "(嘶嘶)这个冻水果茶喝起来还是很棒的，你也来吸一口吧，喏——"
+                }
+            ]
+        }
+    ]
+}

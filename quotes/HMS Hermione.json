@@ -1,0 +1,333 @@
+{
+    "name": "HMS Hermione",
+    "id": 20227,
+    "skins": [
+        {
+            "name": "赫敏",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "黛朵级轻巡洋舰—赫敏"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是皇家黛朵级的赫敏哦~舰历的话…参加过对俾斯麦的追击，还对付过撒丁的潜艇…除此之外，好像也没有什么太值得一提的了呢，还想知道什么吗，指挥官？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "你好呀，我是黛朵级的赫敏，是皇家女仆队的一员，希望我们能够好好相处呢，指挥官。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "早上好呀，指挥官。有好好休息过了吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "女仆长…贝尔法斯特小姐能力很强，又有着坚定的意志…我很憧憬呢，要是有一天，能成为那样的存在就好了…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "用眼过度可不是什么好事哦？来，先洗把脸精神一下吧。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "嗯…最近这些食材的价格好像上涨了一些呢…指挥官，接下来包含这些食材的菜会减少一些哦？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "看着指挥官顺利解决一个个工作的样子，不知为何连我都变得开心起来了呢…真是不可思议。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "碳酸饮料？唔，真是没办法呢，今天只能喝一瓶哦？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "做这种事还是要注意一下场合哦？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "指挥官，任务不做的话只会越来越多哦？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "哇，任务奖励还不少呢，指挥官真厉害~"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，这是你的邮件吧？我放在这里了哦。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，接下来禁止工作了哦？你需要先好好休息一下才行呢。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "指挥官，手边的工作先放一放，去迎接回来的委托组吧。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "咦，我变强了吗？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "发现敌人咯~"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "指挥官一定也会很高兴吧~"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "哎呀呀，失败了呢…"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "能命中就好了呢~"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "有些大意了呢…"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官…为什么这么顽固呢…"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "黛朵…很害怕失去主人呢，她那么努力，又那么能干，指挥官怎么可能讨厌她呢…不过我说了多少次都没用…还是要麻烦指挥官多照顾她一些了呢。"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "指挥官，你今天打算加班吗？这样的话，我稍后准备一壶咖啡带去办公室吧。欸？没关系，不麻烦的。即使没有要交给我的工作，只是在你身边陪着你也好呀~"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "指挥官，要是不介意的话，把你的换洗衣服也交给我来洗吧，一起洗比较方便，而且，也想让你感受一下手洗的衣服呢~"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "呼…房间这样就算打扫完毕了，接下来…啊，你回来了呀，那我就先开始做饭吧，请先做点别的什么事等一下吧~"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "希望我永远留在身边？可以哦，照顾指挥官本来就是我的职责呢。……欸，难道说，这是告白吗？……嗯，我的回答，依然是——yes哦。从今往后，也请多多指教了，指挥官~"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: HMS Dido) 黛朵，不要太烦恼啦"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: HMS Belfast) 我会好好向您学习的！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "早上好呀，指挥官，看你睡得熟我就没叫醒你，今天也一起加油工作吧~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "碳酸饮料？唔，真是没办法呢，今天只能再喝一瓶哦？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "真是的，唯有在这点上永远学不乖呢…"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "♪～房间打扫完毕，接下来是…啊，你回来了呀，指挥官。我马上给你做饭，稍微等一下就好~"
+                }
+            ]
+        },
+        {
+            "name": "温柔的纯白天使",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "哎呀，指挥官，你怎么来这里了，难道是身体不舒服吗？来这边坐好，我先来给你测量一下体温吧。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "哎呀，指挥官，你怎么来这里了，难道是身体不舒服吗？来这边坐好，我先来给你测量一下体温吧。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，你怎么又来了，啊，是来…视察的吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "就算是舰船也是会生病的呢…指挥官也要注意自己的身体哦？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "指挥官，装病的话我可是会生气的哦？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官，你不觉得这件衣服稍微有些小吗…唔唔，我穿的稍微有些不习惯呢…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，平时不注意作息健康是很容易得病的哦，就算是我，也不可能每时每刻在你身边呢"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官，来这边躺下吧，我先为您做一些检查"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "指挥官…想当医生吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，稍等一会哦，我先给这孩子做个检查…"
+                }
+            ]
+        },
+        {
+            "name": "纯白的悠闲假日",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，我把椅子拿过来了，你如果不下水的话，就坐在这张椅子上吧。欸？我吗？我当然是陪在你的身边了~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，我把椅子拿过来了，你如果不下水的话，就坐在这张椅子上吧。欸？我吗？我当然是陪在你的身边了~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "今天不用考虑工作的事，好好放松吧，指挥官。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "这件泳装其实是趁着打折的时候买的呢，呵呵，你能喜欢真是太好了~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "海浪冲在脚上的感觉真舒服呢，指挥官也可以来试一下…欸，好大的浪…呀啊！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "长时间被阳光照射其实对身体不好哦，再玩一会就换个地方吧。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "你要睡一会儿吗？没关系，安心地睡吧，我会在合适的时候把你叫醒的。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "大海真漂亮呢…欸…？我更漂亮？真是的，我可不吃这一套哦，指挥官。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "我为了今天特意准备了清凉的饮料哦，请喝吧~"
+                }
+            ]
+        }
+    ]
+}
