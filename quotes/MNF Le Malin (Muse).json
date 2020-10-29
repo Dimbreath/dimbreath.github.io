@@ -1,0 +1,257 @@
+{
+    "name": "MNF Le Malin (Muse)",
+    "id": 90112,
+    "skins": [
+        {
+            "name": "恶毒(μ兵装)",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "吾乃逐浪之空想，守护教廷之利剑——恶毒，以偶像之姿登场，愿以祈愿之歌为你带来心灵之治愈。"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是空想级驱逐舰·恶毒。哼哼…偶像任务，一定会做到最好给你看的。我、我可没有对这个兴致满满的哦？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "吾乃逐浪之空想，守护教廷之利剑——恶毒，以偶像之姿登场，愿以祈愿之歌为你带来心灵之治愈。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "早上好，今天的练习内容是什么？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "虽然并非本意，终归是参与了偶像任务。尽情欣赏来自鸢尾的优雅演出吧。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "偶像，是受人崇拜的存在。所以不能轻易做出缩短距离感的行为。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "虽然让巴尔说随心所欲就好…不过，唔…凯旋和黎塞留她们期待的眼神让人感到好刺痛…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "皇家的那孩子，不仅纯真无邪，唱也是“祈愿”的歌呢。呵呵，我是不会输给她的~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "谢谢指挥官一直以来的支持~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "哇！你、你要干嘛！"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "…？这是做什么？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "通告…希望能高效又快速地全部搞定啊…"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": " 终、终于都完成了…优雅地把奖励给领了吧…"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有工作信件，请确认。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "辛苦了。来一杯优雅的红茶如何？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托组回来了哦。……啊！也就是说可以休息了对吧！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "鸢尾之奇迹，显现于此！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "将祈愿传达过去吧！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "为鸢尾之光而喝彩、而感动吧！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "没有让人悔恨的空闲啊…！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "光啊！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "我可不像埃米尔那么能跳啊…！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "这是…表示我可以尽情偷懒的意思吧…"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "我是闪耀的鸢尾偶像·恶毒——为我提供优雅的指引吧，指挥官。"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "又要练习又要接通告又要锻炼又要排舞……要做的事情也太多了吧！不行了撑不下去了…光是看行程表就感觉累死了…我要休息了……"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "哈啊…哈啊……怎么样！看到恶毒的表现了吗！觉得不错的话就让我休息！没错！我要休息！或者等休息的时候给我准备好吃的点心也行！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指挥官，这边结束以后约会的约定，很抱歉果然还是在房间里就……咦，可以吗！？太好啦~可以在房间里滚来滚……咳咳，要先集中在舞台上、没错！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "因为有鸢尾的同伴们和指挥官，才有现在这般优雅的舞台。来吧，将誓约的戒指献给恶毒，让这闪耀的光芒成为…成为永恒！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: FFNF Champagne) 麻烦歌词写得好懂一点！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: MNF Gascogne) 一起在舞台上加油吧！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: MNF Jean Bart) 随心所欲…果然很棒吧…！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "早安…今、今天不会还要练习吧…？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "这时候要把手伸直然后转身…也太扯了吧…Zzzzzz…什什什什什么！？啊，我睡着了吗？？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "啊~没错没错，就是这里，多揉揉~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "累死了…啊呜…呜呜呜……"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_ex1100.wav",
+                    "name": "Mission reminder (Extra)",
+                    "quote": "今天的通告也…啊，没人说过要全部接下来的吧~！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_ex1100.wav",
+                    "name": "Mission complete (Extra)",
+                    "quote": "不行了…累趴了……确认了奖励以后就休息吧！"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_ex1100.wav",
+                    "name": "Mail reminder (Extra)",
+                    "quote": "……（好好奇啊…工作是变多了还是没变多呀……）"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "累死了……为什么演唱会那么累人啊…想休息一天……"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_ex1100.wav",
+                    "name": "Commission complete (Extra)",
+                    "quote": "委托组好像回来了。嗯，刚才贝亚恩说的。"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "为鸢尾之光而喝彩、而感动吧！…安可就算了！"
+                }
+            ]
+        }
+    ]
+}

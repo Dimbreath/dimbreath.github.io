@@ -1,0 +1,179 @@
+{
+    "name": "KMS Roon (Muse)",
+    "id": 40308,
+    "skins": [
+        {
+            "name": "罗恩(μ兵装)",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "重巡罗恩，以兵装实验任务为契机，偶像活动绝赞进行中。这次大家不是以枪炮，而是以歌声作为武器战斗了呢。"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "铁血巡洋舰罗恩，现在装备的并非通常的舰装，而是特殊的“μ兵装”。虽然说是“特殊”，但终归是为了战斗而生之物，果然还是很期待用这个弄坏点什么呢~指挥官，请多指教了~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "重巡罗恩，以兵装实验任务为契机，偶像活动绝赞进行中。这次大家不是以枪炮，而是以歌声作为武器战斗了呢。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，今天做点什么好？请指示——"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "虽然大家一起进行偶像活动是挺有意思的，不过…是不是有点忽略了兵装实验的事情？嗯…不要太在意细节比较好？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "像这样用歌声治愈同伴，也以歌的力量消灭敌人…呵呵呵，还是挺简单明快的嘛。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "重樱的那位，该说是内心纤细呢，还是抗打击力弱呢……该怎么跟她相处比较好呢？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "唱歌要投入真心对吧…虽然不是很擅长，但是我会加油的~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "想要抱抱吗？随时都可以哦~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "一会再来好好地进行一番“亲密接触”吧，指挥官~"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "摸摸头~是吗~？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有任务？好的~请务必带上我一起参加~"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "很努力接通告了呢~指挥官真棒~"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "来邮件了哦~不知道是说什么的呢？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "作战辛苦了。作为平时练习时提供慰问品的回报，我也给指挥官做了一些吃的，请用吧~"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托组的孩子们回来了哦。指挥官要不要也像这样做做？让大家排好队一个个拥抱过去~"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "使用声音的兵器，好像也挺有意思的~"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "竟然敢挡在我们面前？真是…不可原谅！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "啊…情绪高涨起来了…果然只有把敌人粉身碎骨的时候，才最让人兴奋啊…！！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "嗯…果然还是用普通的武器战斗比较好吗……"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "一群碍事的家伙…！！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "太碍事了……不可原谅！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官也想成为“敌人”吗…？呵呵呵，哈哈哈哈哈……！！！"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "大家都在为了指挥官努力进行着偶像活动呢~我？我当然也是了~为了指挥官而展露微笑——呵呵呵♪"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "一直在搞偶像活动，总感觉内心某处有种莫名的空虚感…是不是因为战斗…不，应该说击沉敌人的机会变少了？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "看到指挥官来演唱会为我们应援，就有种内心的缝隙被填上了的感觉…嗯…就好像指挥官的时间、生命…都用在了我身上…是这种感觉吧？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "原本以为，在战场上把敌人消灭殆尽，是让心情愉悦最好的办法，不过，指挥官让我知晓了其他的享受方式…呵呵，居然把我改变到这个程度…不会轻易原谅你的哦，指挥官♡"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "“如此美好之物，毁掉就太可惜了”——第一次意识到，自己的演唱会是这么棒的东西。我会在舞台上更加闪耀…不断夺走指挥官的时间、生命——直到永远♪呵呵呵~"
+                }
+            ]
+        }
+    ]
+}

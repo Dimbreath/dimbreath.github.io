@@ -1,0 +1,345 @@
+{
+    "name": "HMS Queen Elizabeth",
+    "id": 20501,
+    "skins": [
+        {
+            "name": "伊丽莎白女王",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "伊丽莎白女王级战列舰—伊丽莎白女王，舷号00"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "皇家海军超级无畏舰旗舰，给我把这个名号刻在骨髓上牢记吧！ \n战功？那种东西让臣子们去拿，本王只要看着她们就好了！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "你就是指挥官？想要指挥本王你还早了十万年呢，不过姑且给你个机会吧——嗯嗯，今天起你就是我忠诚的仆从之一了"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "可恶~居然让我等你这么久"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "庶民！谁允许你偷看的！本、本王还没准备好呢……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "娇小是高贵的象征，明白吗！ "
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "撞人？只能怪他们不给本王让路！ "
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "别碰本王的肚子，这样很失礼节啊！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "不要随便碰本王高贵的身体！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "什、什么……愚蠢的人类，你在做什么！！给、给本王去死两次啊！！！"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "快去完成你的任务，即使是庶民也不能懈怠！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "跪着领取这完成任务的恩赐吧"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "本王对信的内容并不是很感兴趣……唔……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "表现的不错，我就大发慈悲地准许你休息一下"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "去委托的臣子们回来了，快去看看有没有给本王带来有趣的贡品！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "本王才不需要变强！——嘛…既然是你的一片心意…"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "让你看看超无畏舰的威力！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "Piece of cake！本王做事怎么会有差池的~！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "可恶！！！竟敢令我伊丽莎白蒙羞！给我记住！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "跪倒在女王面前吧！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "还愣着干什么，上啊！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "你这个没用的臣子，本王要辞了你！"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "为了本王好好努力吧！"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "本王只是比较喜欢这里的环境才过来坐坐，你可别会错意了！"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "he，哼！你这家伙也算有点可取之处，本王就破例封你为皇家卫队队长好了，要是本王叫你你要马上过来，知道吗，马上，立即！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "我说你，工作交给手下去做就好了，要做本王夫婿的人怎么能不天天陪在本王身边！不会让人觉得寂寞嘛……"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "终于把它送到了本王的手里，你这蠢货，让本王等了多久啊！……不过看在你这么努力的份上，过来，准许你牵起本王的手，从今往后，本王会陪着你的"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: HMS Warspite) 厌战，快去把那些家伙解决掉！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(3 Eagle Union ships) 这才是符合我身份的舰队！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(5 ships from Eagle Union) 皇家的战士们，为荣耀而战吧！"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(1 of the following: HMS Valiant) 为了我好好干吧！你·也·一·样！"
+                },
+                {
+                    "key": "link5",
+                    "voice": "link5.wav",
+                    "name": "Battle 5",
+                    "quote": "(2 of the following: HMS Illustrious, HMS Victorious, HMS Formidable, HMS Illustrious) 这巨乳姐妹…太碍眼了！！＞＜"
+                }
+            ]
+        },
+        {
+            "name": "女王的舞踏会",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "哼哼，感到荣幸吧仆从！特别允许你伴随本王参加今晚的舞会！才、才不是特意选你，只是顺便，顺便的而已！知道了吗！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "哼哼，感到荣幸吧仆从！特别允许你伴随本王参加今晚的舞会！才、才不是特意选你，只是顺便，顺便的而已！知道了吗！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "特别允许你赞美本王吧！快组织你的语言，仆从!"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "为了不在舞会上丢脸，多练习下舞步吧！要、要本王陪你练习也不是不行…欸，不用麻烦我？也、也没有那么麻烦啦…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "为女王的前进清除障碍也是仆从应尽的职责，知道了吗！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "贝尔法斯特，舞会的准备都做好了吗？我、我可没有迫不及待，只是关心一下女仆们的工作而已！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "he、哼…难得为舞会做了准备，这次就原谅你的无礼好了，感激本王的宽宏大量吧，仆从！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "厌、厌战！用你的15口径炮给这大胆的仆从死刑！多死几次！！"
+                }
+            ]
+        },
+        {
+            "name": "A Night At The Stage",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "这才是与本王最相符的舞台！好了，仆从，不许移开视线！为了我燃烧全部的激情吧！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "这才是与本王最相符的舞台！好了，仆从，不许移开视线！为了我燃烧全部的激情吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "哼哼，给我好好宣传啊，仆从！要让世人都知晓本王的威光！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "“拜倒在我的面前吧，仆从！”…嗯？总觉得和平时没什么两样…？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "像这样…？看起来会比较可爱？好，辛苦了，无敌。这下肯定能轻易就把仆从“一击击沉”了！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "女仆队也出人当偶像了呢…贝法和格罗斯特她们平时是怎么进行教育的啊？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "安可？哼哼，再来几首都没问题！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "你在摸哪里啊下仆！把你关禁闭哦！"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head_2.wav",
+                    "name": "Rub",
+                    "quote": "你这失礼的家伙！"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_2.wav",
+                    "name": "Mission reminder",
+                    "quote": "有给本王的通告？好、好吧，倾听庶民的请愿也是女王的职责之一…"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_2.wav",
+                    "name": "Mission complete",
+                    "quote": "任务奖励里包含给你的慰问品！心怀感激地收下吧！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "干得不错。作为奖励，就把这个大头贴给你吧。要好好找个地方贴上哦！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_2.wav",
+                    "name": "Flagship fight",
+                    "quote": "这可是女王陛下的舞台！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_2.wav",
+                    "name": "Victory",
+                    "quote": "英勇，向大家好好宣传这场胜利吧！"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "USS Albacore (Muse)",
+    "id": 10805,
+    "skins": [
+        {
+            "name": "大青花鱼(μ兵装)",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "偶像大青花鱼，闪！亮！登！台！哈哈，顺势来了这么一段！哦？指挥官有什么更好的登场点子吗？快跟我说说~"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是正在进行偶像活动的潜艇大青花鱼！机智而又充满独创性，永远全力展露真心！无论是唱歌还是演出还是跳舞都尽管来吧！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "偶像大青花鱼，闪！亮！登！台！哈哈，顺势来了这么一段！哦？指挥官有什么更好的登场点子吗？快跟我说说~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "早安呀~P！今天也一起加油吧！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "忙着偶像活动恶作剧的机会就减少了？哼哼，全都要才是真正的偶像！萨拉托加不就是最好的榜样吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "惊喜时间！大青花鱼制作的全新道具！怎么样~？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "这一件件好看的衣服都是黛朵亲手制作的哦！…不过，那个玩偶到底是什么…？真让人好奇啊~"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "我想去看大凤的演唱会~指挥官指挥官，待会一起去看嘛♡"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "感谢指挥官的应援☆"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "要是我现在大喊“骚扰啊”的话，指挥官……会变成怎样呢？哼哼~"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有通告来了！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "通告完成了！啊~累啦~"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "塔什干，指挥官的信件放哪去了？…啊，指挥官！我什么都没做哦！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官的下一句话是“为什么大青花鱼会要求指挥官说台词”！"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "嘿嘿，迎接委托组啊…有种要办突击演出的预感！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "偶像…升级！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "机关设置OK，Let's go！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "向着下一波敌人~安可~"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "这时候应该选择的是…虽然可耻但是有用的战术！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "闹腾起来吧！！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "哇哇，失误了！？"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "光辉她们都感到很难过哦？"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "偶像真的很棒呢！唱歌跳舞，让大家都露出笑容~嗯？一点都不像我？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "哦，指挥官带慰问品来了？真细心啊~啊，在大家认真练习的时候摸鱼看外面的事情，要替我保密哦☆"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "嘿，指挥官早啊~！注意到这个“计划约会”的行程备忘了吗？成员们的心理健康管理也是制作人重要的工作之一哦~其他人的部分晚点我也会补上去的，要记得确认哦~"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "为了指挥官，我一定会成为顶尖偶像，在舞台上闪耀光芒的…！开玩笑的☆真是的~指挥官，要“大家”一起成为顶尖偶像才行哦？欸嘿嘿~"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "嗯？偶像不是应该“禁止恋爱”才对？算啦，反正我们作为偶像的同时还是“舰船”嘛~没什么问题！所以呢~戒指我就收下咯~以后也请多指教啦♪"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Taihō) 啊，大凤！要不要和我组合呀？"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "name": "HMS Dido (Muse)",
+    "id": 20228,
+    "skins": [
+        {
+            "name": "黛朵(μ兵装)",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "轻巡洋舰黛朵，现在正在进行μ兵装实验任务兼偶像活动。黛朵已经从各位伙伴那里学习了许多与偶像相关的指示，敬请…期待黛朵的表现！"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是皇家轻巡·黛朵。区区一介女仆，竟然能被选拔成为偶像…黛朵会抓紧机会，努力加油的！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "轻巡洋舰黛朵，现在正在进行μ兵装实验任务兼偶像活动。黛朵已经从各位伙伴那里学习了许多与偶像相关的指示，敬请…期待黛朵的表现！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "主人，今天希望黛朵做什么？不仅是偶像活动，女仆的工作也请尽管吩咐黛朵吧！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "偶像活动的练习、通告、舞台和训练，以及女仆队的工作，为主人提供服务——没想到黛朵能为主人派上这么多用场……事情太多…？要减少黛朵的工作吗…啊啊…请不要抛弃黛朵…！！！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "唱歌的时候，比起技巧，还是通过感情更容易感染听众…也就是说，只要黛朵一直想着主人唱歌的话……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "光辉小姐在练习跳舞的时候好像有点太注意脚下…和镜子这些东西了呢…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "女仆队的同伴们，再加上来自不同阵营的各位，才是最完整的偶像组合。黛朵真心觉得，能把大家聚在一起的指挥官…是最棒的~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "只要主人想，无论握手还是什么的黛朵都乐意之至!"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "嗯……啊"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "似乎发给我们的通告，主人，请确认。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "主人，任务奖励都在这里了，多亏了大家的努力呢。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "似乎有业务联络的信件呢，主人。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "主人没有受伤吧？身体状况还好吗？虽然黛朵现在投身于偶像活动，但只要有需要，随时可以为主人服务…"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "塔什干通知说委托组回来了哦。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "大青花鱼的点子…不知道能不能派上用场呢…"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "足以令主人沉迷的舞台…要上场了！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "黛朵只要努力也是能做好的，因为黛朵可是令主人自豪的偶像啊！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "没法像女仆长唱得那么好啊…呜……"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "作为偶像，为了主人…！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "为了不被主人舍弃…！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "黛朵让主人失望了吗…？黛朵真是没用的女仆……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "不是侍奉主人的女仆，而是偶像…虽然女仆队的大家教了黛朵很多，但是…黛朵真的能做好吗…"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "偶像服很合适…谢谢主人的赞赏！！…啊、难道这是表示黛朵作为女仆不及格…！？主人，难道…难道要抛弃黛朵了………！？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "无论作为女仆还是作为偶像的表现，都很让人期待…的意思吗……对不起，是黛朵误会了…"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "不仅是作为女仆的工作，偶像活动也做得很好…吗？能得到主人的赞扬是黛朵的荣幸！黛朵只要是为了主人，就算是偶像也…不，无论什么都会努力去做的！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "区区一介女仆，居然和其他各位一起闪亮地站上舞台，真是太不自量力了！…不过，黛朵会在舞台上加倍努力的！一切都是为了最亲爱的主人…！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: HMS Hermione) 偶尔还是可以奢侈一把的…！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Taihō) 要是黛朵也能像这样在主人面前表现自己的话…！"
+                }
+            ]
+        }
+    ]
+}

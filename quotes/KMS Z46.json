@@ -1,0 +1,410 @@
+{
+    "name": "KMS Z46",
+    "id": 40146,
+    "skins": [
+        {
+            "name": "Z46",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "1936C型驱逐舰—Z46"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "铁血海军Z级驱逐舰1936年C型。和四个妹妹一同列入建造计划，但最终只有我和Z47开工。由于进度缓慢，直到终战也没有完工…尚未出生便遭解体的舰娘，那就是我……期待着你不再称呼我为Z46的那天来临"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "是你在召唤我吗？我是……很可惜，现在我还没有名字，你就暂时叫我Z46吧"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "这个世界和我料想的大不相同，真有趣！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "Z46只是一个代号，并不是我的名字。对船来说，有无名字并不重要，但……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "我不曾失败，也未尝受伤，因此，亦无武勋 "
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "名字不仅仅是一种称呼。它还是在这个世界中自身独一无二的证明 "
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "这个世界上，不亲身体验就无法真正认识的事物如那令人敬畏的漫天繁星般不可胜数"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "能被碰触到是确实存在着的证明"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "如果你的渴求是正确的，那你的手为何在颤抖？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "前去邂逅未知与相遇吧！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "自由与命运只垂青每天努力的人"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有新邮件是被人期待与信赖的证明"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "战争结束了吗？还是才刚刚开始？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "在港口等待外出执行委托的舰船归来……这也是我来到这里前未曾拥有过的体验"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "此为无足轻重之事，但我仍要嘉奖你的心意"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "我要夸赞你们看到我还没有逃跑的勇气与愚蠢！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "是我太强了？还是你们太弱了？"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "向世界炫耀吧，为击败过我而骄傲吧！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "虚假的，必将湮于尘世"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "但凡不能杀死你的，最终都会使你变强"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "这里或许并没有我渴求的东西……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "追寻着“名字”的踪迹，我来到了这里"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "亲友、敌人、喜好、厌憎……来到这里之前，我什么都不曾拥有"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "微风拂过海面，蝉鸣漾入云间。叽叽喳喳的笑声在沙滩上留下深浅不一的足迹，盛暑阳光夺神炫目，模糊了远近的归船……这里的风景真是令人缱绻"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "被需要、被期望、被信赖、被喜爱……经历了种种风风雨雨后，我这张白纸已然染上了你的颜色。请好好思考我的名字吧，我的挚爱。"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "我挚爱的人啊，我已经期待这一天很久了，你为我准备了怎样的名字？"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: KMS Graf Zeppelin) 战斗结束以后，请教我今天便当的做法吧"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: KMS Z35) 偶像的名字与我不相配，请不要…加上“小”字……"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: KMS Z23) 记住，太过努力有时反而会有反效果。"
+                }
+            ]
+        },
+        {
+            "name": "夏之初体验",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "躁动的沙滩，欢笑的海边…初次体验到的别样夏天，我并不讨厌"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "躁动的沙滩，欢笑的海边…初次体验到的别样夏天，我并不讨厌"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "盛夏的海边，充满了未知与谜团…一起去探索吧！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "潮起，潮落，留下了这个难忘的夏天。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "酷暑与冰，真是妙不可言的一对矛盾。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "相信你心中的直觉与勇气吧，它会指引你前进的。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "无论多少次，我都会相信你的话。只要是你，一定指引我走向正确道路的吧。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "我确实的存在着，被大家需要着……"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "为何…你的双眼正诉说着犹豫？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "准备好了吗？那就前往下一个战场吧，名为「海水浴场」的战场——"
+                }
+            ]
+        },
+        {
+            "name": "少女的借物竞赛",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "奔跑与汗水，努力与希望，失落与欢笑……这就是…“运动会”…有点期待"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "奔跑与汗水，努力与希望，失落与欢笑……这就是…“运动会”…有点期待"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "我也想如猎豹一样跑得更快，想像鸟儿那般飞得更高。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "与他人竞争，通过战斗之外的方式证明自己，夺取“冠军”……这样的感觉，很奇妙"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "光是在小小的学园中，就还有这么多我未曾经历与体验的事物…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "无论是在赛道上挥洒汗水，还是在赛道旁为她人加油，都是令人难忘的体验"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "仅凭小小的纸条，就能与她人产生不一样的联系…「借物竞赛」，比想象中的更加有趣"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "这里…有什么值得探索的事物吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "新的战斗已经迫在眉睫，做好准备吧，迎接名为“运动会”的紧张战斗——"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "你所期望的我应有的色彩，无论是黑色，还是红色，亦或青色，我都将全盘接受。让我为了你赋予我的“名字”，真正的“Z46”，献上祝福——"
+                }
+            ]
+        },
+        {
+            "name": "未知的闪亮舞台",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "挥舞的彩色荧光，闪耀的舞台，热烈的欢呼与跃动的音符…我正站在…未知的舞台之上。这种悸动的感觉…并不坏"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "挥舞的彩色荧光，闪耀的舞台，热烈的欢呼与跃动的音符…我正站在…未知的舞台之上。这种悸动的感觉…并不坏"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "只要你注视着，我就有在舞台之上一直唱下去的勇气。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "无数日夜的努力，只为舞台上闪耀的一瞬，如同流星跨越苍穹，留在人们眼中的却只有刹那的光芒。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "光芒照耀下的舞台，是一方独立的世界，未知的世界之门，正在向我打开……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "吾友，无须为我担心。这一切皆是Z23和Z35、斯佩和希佩尔，以及我等铁血全员之羁绊所创造之物"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "望向同台上演出者与台下之观众们的视线…原来如此，确实很重要，其被称为“魔眼”的原因也一块告诉我吧"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "这“歌声”，便是此刻的我存在于此的证明。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "此处亦是战场，是名为“偶像”的存在赌上一切战斗的，唤作“舞台”的战场。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_3.wav",
+                    "name": "Commission complete",
+                    "quote": "委托的舰船回港了。作为受人崇拜的偶像，向她们展示自己的存在吧"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_3.wav",
+                    "name": "Flagship fight",
+                    "quote": "万人崇拜之偶像…我会努力扮演好的。"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_3.wav",
+                    "name": "Victory",
+                    "quote": "以至高之歌为演出者们的胜利献上祝福！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose_3.wav",
+                    "name": "Defeat",
+                    "quote": "是练习不足吗，亦或是…胸中的这股热情没能传达到…"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_3.wav",
+                    "name": "Love",
+                    "quote": "在舞台灯光的照耀下，不安，紧张，仓皇，一切都无处躲藏。指挥官，我心中这份“热情”，有通过歌声好好传达到你的心中吗？"
+                }
+            ]
+        }
+    ]
+}

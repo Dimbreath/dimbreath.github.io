@@ -1,0 +1,445 @@
+{
+    "name": "USS Hammann",
+    "id": 10125,
+    "skins": [
+        {
+            "name": "哈曼",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "西姆斯级驱逐舰—哈曼，舷号DD-412"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "看什么看，哈曼就是哈曼啦！ \n中途岛？哈曼可从没有后悔过去救约克城姐姐，也不用你安慰！哼！ \n…………不过……谢，谢谢……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "喂，看着哈曼发什么呆呢，hentai！——可爱？别以为你夸我我就会高兴了，你这笨蛋！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "想让哈曼在这里等多久啊，一个人超……哼！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "变态，你在津津有味的看些什么啦"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "你要是敢开窗哈曼就要你好看"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "168在吗，哈曼要好好教训她一下"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "为什么不和哈曼说话？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "不要随便碰哈曼啦，变态！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "（拿起电话）喂，军警吗？对的，这里有一个指挥官猥……"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "快去完成任务啦！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "奖励这种东西难道还要哈曼帮你打开吗？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "哈曼大发慈悲地帮你把新邮件拿过来了，好好感谢我吧"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "你辛苦……什么也没说啦，该干嘛干嘛去"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "有委托完成啦，笨蛋！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "哼，讨好哈曼也不会有好处的！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "一群杂鱼，看哈曼解决了你们！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "哼，这点程度根本不值得高兴好吧？"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "呜……指挥官，大笨蛋！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "哈曼才不是特意想帮你的！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "哈曼已经气都不想生了……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "你在看哈曼的哪里啦！变态！"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "要是以为和哈曼关系有改善那就大错特错了！……不过只有一点的话，还是可以承认的………（小声）"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "为什么哈曼总是在生气？那当然是因为某个笨蛋老是不开窍呀，哈曼在气没法生气的自己啦！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "不好好看着哈曼在看哪里啦，果然是不懂女人心的大笨蛋，不主动一点就毫无反应——哇不要忽然把人抱住——报，报警了哦！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "看在你终于开窍的份上，哈曼就勉为其难地收下好了——才才、才没有觉得高兴呢！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: USS Yorktown) 这次，哈曼会保护好你的！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: USS Sims) 作、作战的时候认真点啦！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: IJN I168) 呜哇！？这、这次是同伴了吗"
+                }
+            ]
+        },
+        {
+            "name": "小小的夏日战争",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "哈曼才没有觉得高兴呢！不过，你能来陪哈曼玩，还是……谢……哼！哈曼刚刚什么都没说！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "哈曼才没有觉得高兴呢！不过，你能来陪哈曼玩，还是……谢……哼！哈曼刚刚什么都没说！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "迷、迷上哈曼的泳装了吗？哼，今天就特别允许你多看几眼！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "哈曼可没让你不理哈曼！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "那么喜欢排球的话，你去找小天鹅玩好了，哼！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "笨蛋指挥官，你在看哪里！嘁，明明都有了哈曼……"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "变、变态！射你哦！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "咕……约克城姐姐，哈、哈曼已经阻止不了指挥官的魔爪了……"
+                }
+            ]
+        },
+        {
+            "name": "舞会的傲娇妖精",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "哼，是指挥官拼命邀请，哈曼才勉为其难陪你来参加舞会的，可不要搞错了！——打扮花了很长时间？只、只是普通地换了一身衣服而已，哈曼才没有很期待呢！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "哼，是指挥官拼命邀请，哈曼才勉为其难陪你来参加舞会的，可不要搞错了！——打扮花了很长时间？只、只是普通地换了一身衣服而已，哈曼才没有很期待呢！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "指~挥~官？究竟打算让哈曼在会场等多久啊！？啊…咳、咳咳，也没有等很久，哈曼也才刚到而已！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "再看下去舞会都要结束了啦，笨蛋指挥官！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "呜哇…还是第一次见到那样的约克城姐姐…没、没问题吧……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "西姆斯那家伙，肯定又在什么地方等着捉弄我…指挥官，你、你可要帮我好好盯住她啊！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "168那家伙也来了！？…算了，看在舞会还有指挥官的面子上，今天就不找她麻烦了"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "就、就算是为了跳舞而难免的身体接触…要是碰了奇怪的地方，哈曼也不会轻易放过你的哦！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "喂，海军部吗？对，还是那个指挥官，这次是在舞会会场……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "你辛苦了，指挥官……怎、怎么样啦！该慰问人的时候哈曼也是会坦率地说出来的啦！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "看、看在今晚指挥官表现得不错的份上，就勉强夸你一下好了，接下来要做什么指挥官应该…哇都说了不要忽然把人抱住——算、算了…就这样…再待一会吧——"
+                }
+            ]
+        },
+        {
+            "name": "兽耳喵喵拳！",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "呜…手套好重…肚脐还凉凉的…为什么哈曼会选了这么件衣服啊……要给约克城姐姐看也让人觉得好害羞……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "呜…手套好重…肚脐还凉凉的…为什么哈曼会选了这么件衣服啊……要给约克城姐姐看也让人觉得好害羞……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "不要津津有味地盯着哈曼看啦！笨蛋！……要随时关注舞台的状况？那…果然还是不行！不许看！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "衣服有尾巴？还会动？…为什么你会知道啊！？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "哼哼，果然猫耳还是很可爱的吧~？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "埃尔德里奇那套感觉要更方便活动啊…我才不要穿呢！变态！！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "穿着这身来握手？难度是不是太高了点？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "呀！？变态！！"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_3.wav",
+                    "name": "Mission reminder",
+                    "quote": "快点确认一下通告啦！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_3.wav",
+                    "name": "Mission complete",
+                    "quote": "任务奖励下来了哦。戴着猫耳的女仆小姐？刚才搬过来了。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "辛苦了…欸？！被西姆斯偷偷拍照了？！为什么不早点说啊！"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_3.wav",
+                    "name": "Commission complete",
+                    "quote": "委托完成了…不、不会要我穿着这身出去接她们吧！？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_3.wav",
+                    "name": "Flagship fight",
+                    "quote": "真、真的要穿着这身参加战斗吗！？"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_3.wav",
+                    "name": "Victory",
+                    "quote": "哼！让你们小看哈曼！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose_3.wav",
+                    "name": "Defeat",
+                    "quote": "呜…穿着这一身果然很难战斗嘛！"
+                }
+            ]
+        },
+        {
+            "name": "哈曼.改",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "区区新衣服而已，为什么哈曼要站在这里提起裙摆给你摆pose？哈？表情还要再厌恶一点？你果然只是个hentai吧！！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_9.wav",
+                    "name": "Receive",
+                    "quote": "区区新衣服而已，为什么哈曼要站在这里提起裙摆给你摆pose？哈？表情还要再厌恶一点？你果然只是个hentai吧！！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_9.wav",
+                    "name": "Log in",
+                    "quote": "这样就能提起精神工作，果然是个无可救药的家伙"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_9.wav",
+                    "name": "View details",
+                    "quote": "想要看多久啦，哈曼还要去找约克城姐姐呢！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_9.wav",
+                    "name": "Main screen 2",
+                    "quote": "你要是好好努力哈曼也不是不可以多坚持一下"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_9.wav",
+                    "name": "Return to port",
+                    "quote": "辛苦了……看什么看，虽然是笨蛋，哈曼对努力的家伙还是会好好称赞的"
+                }
+            ]
+        }
+    ]
+}
