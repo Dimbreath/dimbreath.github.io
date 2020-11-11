@@ -1,0 +1,3 @@
+var charData = {
+	"skeleton": "skeleton"
+}
