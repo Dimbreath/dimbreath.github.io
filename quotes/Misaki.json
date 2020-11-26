@@ -1,0 +1,256 @@
+{
+    "name": "Misaki",
+    "id": 1060004,
+    "skins": [
+        {
+            "name": "海咲",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "初次见面，指挥官！嗯，我问了其它的人了，应该是叫“指挥官”没错吧？我是海咲，有过很多打工的经验，一定能给大家帮上忙的~请多多指教咯！"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "自我介绍吗？我是海咲，兴趣是潜水、天文观测、还有看漫画~喜欢的食物是珍珠奶茶和香草可丽饼！别的就没有什么特别的了…啊，对了。凪咲是我的姐姐，指挥官也要和她好好相处哦！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "初次见面，指挥官！嗯，我问了其它的人了，应该是叫“指挥官”没错吧？我是海咲，有过很多打工的经验，一定能给大家帮上忙的~请多多指教咯！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "指挥官终于来了呀，那就…马上开始今天的工作吧~？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "这个港区、还有身为“舰船”的女孩子们，都充满了一种不可思议的感觉呢…或许，指挥官才是最不可思议的那个？开玩笑的，呵呵~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "如果没什么特别重要的事情的话，我要去打工…啊，这里的工作也算是打工…吧？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "嗯~突然想吃点甜食了呢，可丽饼什么的…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "别看姐姐有时候嘴上不饶人，其实还是很关心人的，虽然有时多少有些过度保护就是了…"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "我在~喊我有什么事吗~？指挥官♪"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "呀啊！？真是的，我真要生气了哦？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "真、真是的…感觉很奇怪的啦…"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "指挥官，是新任务哦！完成这些任务的话，就能拿到奖励了吧！"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务完成。别忘了给我报酬哦！嘻嘻，开玩笑的~"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，有你的邮件，记得要看哦！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "啊，指挥官，作战辛苦了！稍微休息一下吧？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托的伙伴们回来了！不知道会不会有人带甜品回来呢~"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "如何？我是不是有所成长了呢？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "好！决定上了，就要全力以赴！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "是我们赢了！摆出胜利的手势吧！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "是我们…输了啊…"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "看好了哦！！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "还没有结束！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "这个港口挺有趣的，但是指挥官多少有些靠不住的感觉？看来这部分得靠我来好好补足一下了呢~♪"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "只要穿上这个叫“舰装”的东西，就能在海上自由地驰骋了呢。真是神奇啊~"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "虽然大家在战斗时都很厉害，但平时果然还是普通的女孩子呢，我还找到了和我一起看漫画的同伴哦~呵呵~"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "商店街的奶茶店好像最近有“买一送一”的活动呢。唔…我一个人的话可喝不完两杯珍珠奶茶呢…指挥官，有空的时候，我们一起去吧？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指挥官，待会再一起去港区的甜品店探索美味吧♪~还有就是，吃完之后，能陪我在港区里散散步吗？我还想更了解这里，以及…唔…好啦，我们这就出发吧！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "来到这里，受到了指挥官那么多的照顾，现在又收到了这么重要的东西…谢谢你，指挥官~作为回报，我会努力帮上指挥官更多的忙的！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Hibiki) 姐姐？不，弄错了吗…"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: Nagisa) 我会保护好自己的！姐姐也要小心哦！"
+                }
+            ]
+        },
+        {
+            "name": "金色的特别摄影",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "特别摄影啊…虽然以前也参与过类似的活动，但是这套衣服多少有点…指挥官喜欢这种的吗？果然…还是好羞耻啊……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "特别摄影啊…虽然以前也参与过类似的活动，但是这套衣服多少有点…指挥官喜欢这种的吗？果然…还是好羞耻啊……"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "今天也要摄影？好、好吧…"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "指挥官也给姐姐拍照了吗？呼呼，虽然姐姐对指挥官看起来有点凶，但只要不是太过分的要求，她应该都还是会答应的吧~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "拍摄结束之后，一起去喝珍珠奶茶？—嗯，那一言为定！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官平时有给舰队里的其它女孩子拍照吗？我也想看看大家的照片！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "如果有机会旅行的话，指挥官，你想去哪里呢？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "总、总觉得有点不好意思…"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "不、不行！太、太不好意思了啦…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "呼呼……啊，我刚刚是睡着了吗？不好意思…躺在沙发上太舒服了，一不小心就进入梦乡了呢~"
+                }
+            ]
+        }
+    ]
+}
