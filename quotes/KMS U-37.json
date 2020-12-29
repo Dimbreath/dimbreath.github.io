@@ -1,0 +1,250 @@
+{
+    "name": "KMS U-37",
+    "id": 40810,
+    "skins": [
+        {
+            "name": "U-37",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "铁血IXA型潜艇U-37"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "相比VII型潜艇，我们IX型潜艇更大，也能游得更远哦！我们前往敌人们意想不到的地方设下埋伏，然后——嘭！鱼雷命中！……在哈德逊湾的事？那个只是电影啦！真正的我那时候正在二线过得好好的呢~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "游弋于远洋中的猎手，U37来咯！…唔，你这指挥官怎么一副呆呆的样子？不过，反正名字也报过了，我就先走咯~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来！没什么事的话，我就潜水玩去咯~"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "我的搭档身上可有不少危险的地方，指挥官摸的时候一定要小心哦~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "能不能用“资料不见了”这样的借口逃过工作检查呢？…果然不行吗…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "所谓合作，就是要大家一起加油！所以，也要适当地把一些工作分给其他同伴哦~"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "如果随便摸我的尾巴的话，我就用大鱼的尖尖戳你屁股！哈哈，开玩笑的啦~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "被海水浸润过的少女的光滑肌肤，感觉如何呀~？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "指挥官，难道你对潜艇的身子情有独钟？嗯哼~？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有新任务？潜航模式启动！…唔，不是去拦截运输船的任务吗？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务完成了！不过，好像和我没啥关系？有些提不起劲啊…"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有新的邮件哦！也许是从非常远的地方漂洋过海来的？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "远洋的猎手回来咯！虽然没逮到猎物，不过正好抓到了回来摸鱼的指挥官！嘻嘻~"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托队回来了？让我去让我去！总呆在办公室里要闷死啦！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "续航能力增加咯！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "猜猜我是从哪儿来的~？"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "回去享受庆功宴咯！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "真遗憾，只能下次再来捕猎了~"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "此路不通哦~"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "呜哇，这里是不是应该下沉躲一躲比较好……"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "我走了！不回来了！略略略~"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "这里是宿舍，这里是学园，这里是指挥室……嗯嗯，港区各个建筑的大致方位我都已经掌握了！"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "我的舰装很大，能坐下两个人哦！要试试吗？可以带你去很远很远的地方哦~"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "执行远洋任务的时候，必须先忍受几天几夜的孤独航行呢。不过不用担心，我把指挥官的睡脸拍下来了，把这个带在身上的话就不会感到寂寞了！嘿嘿~"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "有时候想贴近你，有时候却想藏起来看着你找不到我的着急样子…我想应该就是“爱”哦！作为让我产生这份矛盾之心的罪魁祸首，要好好负起责任来哦？嘻嘻~"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "虽然早就预料到会有这一天，真的到来的时候还是让人感觉心跳不已呢！谢谢你，笨笨的，可爱的，我最喜欢的指挥官~放心吧，我会一直陪在你身边的~"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(2 of the following: KMS U-81, KMS U-47, KMS U-557, KMS U-556, KMS U-73, KMS U-101, KMS U-522, KMS U-110, KMS U-96) 狼群来捕猎咯！"
+                }
+            ]
+        },
+        {
+            "name": "轻弹浅唱正月时",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "那么~接下来请听U37献曲一首！…唔，指挥官，怎么还是这副呆呆的样子？我好不容易从重樱的小伙伴那里学了点厉害的东西~要认真听哦，要开始了——"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "那么~接下来请听U37献曲一首！…唔，指挥官，怎么还是这副呆呆的样子？我好不容易从重樱的小伙伴那里学了点厉害的东西~要认真听哦，要开始了——"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "新年快乐，指挥官！唔…有没有什么新年主题的曲子呢……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "“那么，客人且就座，待小女子为您独奏一曲”…嗯哼，不愧是我，学得有模有样的！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "唔，衣服老是这么滑下来，感觉多少有些麻烦…不过，对指挥官来说是不是正好~？嘻嘻~"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "和U艇的小伙伴们约了打“羽板球”呢，U110那孩子，兴致勃勃的样子~不过…唔，穿着这身真的运动得起来吗……"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "总觉得电吉他这类的乐器要更适合我呢…不过，似乎不太适合现在这身打扮就是了，啊哈哈~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "欸嘿，我对自己的肌肤还是很自信的哦~？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "哎呀，指挥官还是忍耐不住诱惑呢~"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "好！该出门玩了~啊哇哇哇？！——呼，谢谢你，指挥官，差点就摔倒了……重樱的伙伴们还真厉害啊，竟然穿着这些还行动那么自如……"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "听说，演奏能反映弹奏者的内心…那个，虽然我还是个初学者啦，只会弹最简单的曲子的那种…你能听出来，演奏里的…我的感情吗？"
+                }
+            ]
+        }
+    ]
+}

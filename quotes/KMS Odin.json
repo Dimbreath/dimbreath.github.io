@@ -1,0 +1,262 @@
+{
+    "name": "KMS Odin",
+    "id": 49904,
+    "skins": [
+        {
+            "name": "奥丁",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "战列巡洋舰——奥丁"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我名为奥丁，曾经是只存在于铁血构想中的舰船。而如今…既然命运将我带来到了你的面前，那么我的使命就是辅佐你，实现你的夙愿。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "叫醒我的人就是你吗…？铁血战舰，奥丁，乐意为你效劳。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，指挥官，规划好接下来要做什么了吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "奇怪，为什么港口里的大家都一副轻松的样子……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "沙恩霍斯特级……有机会的话真想和那对姐妹聊聊呢。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "计划往往赶不上变化，指挥官，任何事情都值得再三思考。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "不要轻易地去怪罪他人，有可能只是因为你没有看清全部。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "嗯？难道计划有变动吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "接下来的话就等到军事法庭上再说吧。"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有任务，指挥官，拖延可不是明智的选择哦？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务完成了，着手下一个任务吧，指挥官。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有邮件，是新的情报吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "战争可不会给人喘息的时间，指挥官。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托的队伍回来了。很好，一切都和计划一致。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "只有实力增加了，计划的不安因素才能减少。"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "现在逃跑还来得及——"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "这场胜利，从一开始便是我等囊中之物。"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "不可能……我的计划不可能出现差错……"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "你们已经没有回头路了！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "准备启动应急方案…！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "比起令我失望，我更加好奇的是，你这样的人是怎么成为指挥官的。"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "实力？确实，光是一个响亮的名字不足以说明战士的实力。不过放心吧，时间会证明你的这种担心是多余的。"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "你会为逝去的战友悲伤吗？但是，如果大家都顾着悲伤，因此犹豫不决的话，这场战争就无法取得胜利。"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "无论是工作还是战斗，我们之间的配合都变得越来越默契了。但是这样下去的话，我会不会变得有点依赖指挥官了……"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "过于依赖一个人可不是一件好事。过深的羁绊在战争中往往会成为桎梏，甚至让人做出不理智的判断，破坏原本的计划。有点奇怪，我为什么要和你强调这些……"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "我明白了，我会一直在你身边辅佐你的。所以就……等等，那个难道是……这，这和说好的不一样啊？我也不是说讨厌，只是还没准备好……总之，给，给我一点思考的时间——"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "欢迎回来，指挥官。我们一起规划一下今天的任务吧？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "大家的轻松，正是基于对指挥官的信任。嗯，现在我能够理解她们了。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "唔！不要搞突然袭击啊…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "我们毕竟并非机器，累了的话，稍微休息一会，我会帮你先顶着的。"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "说实话，你那时的突然举动让我一下子脑袋一片空白……不过，现在的我已经冷静下来了。嗯，我答应你，无论在什么状况下，我都会与你一同进退。"
+                }
+            ]
+        },
+        {
+            "name": "挥毫苍雪",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "没想到本应与这类“艺术嗜好”无缘的我，竟然有机会像这样尽情地挥洒笔墨…如何，虽然是东方的艺术，但也还算无损我的名字之威吧？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "没想到本应与这类“艺术嗜好”无缘的我，竟然有机会像这样尽情地挥洒笔墨…如何，虽然是东方的艺术，但也还算无损我的名字之威吧？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，指挥官，休息日就尽管投身于爱好之中吧。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "奇怪，为什么港口里的大家都一副轻松的样子…是我平时太紧张了…吗"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "格奈森瑙，光是捣弄数据可体验不到艺术的乐趣啊，关于这一点你反而可以向沙恩霍斯特好好学学呢。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "提尔比茨，你可知俾斯麦去了哪？啊，没什么，既然你有把握我就放心了。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "雪与梅…吗？虽然不是我见惯的风景，不过，可以肯定，眼前这美丽的风景，必将在我的记忆中长存。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "不要在人集中精神的时候来打扰！"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "全力以赴地投入到某项事物中，便是战斗——无论是在战场上倾泻火力，还是于纸上挥洒笔墨，都是如此。"
+                }
+            ]
+        }
+    ]
+}

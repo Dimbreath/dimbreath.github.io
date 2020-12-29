@@ -1,0 +1,374 @@
+{
+    "name": "USS Biloxi",
+    "id": 10225,
+    "skins": [
+        {
+            "name": "比洛克西",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "克利夫兰级轻巡洋舰—比洛克西，舷号CL-80"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是白鹰轻巡比洛克西，生涯中参与了多场战役，为多个航母前辈进行护航。虽然我们克利夫兰级的姐妹们防空能力都很出色，但作战的胜利还需仰仗所有人的力量。所以，一起加油吧"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "比洛克西向你报到，指挥官。希望在战场上能和大家协力取得胜利——寒暄的话到此为止，今后就一起努力吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "各项任务正在顺利执行中，请指挥官检视"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "嗯？有什么需要帮忙的，尽管对我说。虽然我很忙，不过还是会排好时间，尽量优先把你的事情处理掉的"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "大姐头？啊，是说我们的首舰么。作为姐妹舰来说我是很尊敬她的哦，啊哈哈哈"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "和克利夫兰相比，虽然我们在设计上有一定的改进，但是并不像巴丹她们那样直接变成了航母，所以也不足以被归为新的舰型呢…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "无论处境多么危险，只要同伴有难，就应该全力施救，对吧？嗯，不能抛弃任何人"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "仔细瞧瞧我的配装吧，我的防空火力可不输给任何人。击败那些天上的敌人，就像是在猎火鸡一样"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "无礼的家伙只会被人唾弃，指挥官你也想做这种人？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务一个接一个的到来了。指挥官，不能有所懈怠"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "奖励已经领回来了，请查看吧~这是指挥官的成果体现"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，有新邮件了。请尽早取阅，也许有好消息"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "欢迎回来。今后就试着让凯旋而归成为一种习惯吧"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托的同伴们回来了，一起去看看她们带回了哪些东西吧？说不定还有惊喜"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "能力越强，责任越大，说得一点都没错"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "我会让胜利变得唾手可得的…！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "得感谢大家的战力支援呢"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "可恶……我是不会就此罢休的！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "领教一下我的防空火力吧！不会让你们逃掉"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "嘁…小伤而已"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官，如果你只是想无所事事度日的话，我可没工夫陪你"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "呼…虽然工作还很忙，不过还是稍作休息好了。如果指挥官很闲，陪你聊会儿也不是不行"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "有时候，我也会和同伴们聊聊假期里该做的事…怎么，觉得这话由我说出口挺奇怪？该工作时就得努力工作，到假期时就该好好放松。我可不是什么工作狂哦？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "哼哼~又只剩我们两个人了。这下可以完全忘掉工作，随心所欲地畅所欲言了。就放轻松点吧，要来点饮料和点心吗？我请客。"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "有时也会对东奔西走的日子感到厌倦…最近偶尔会觉得，指挥官所在的这里，才是我最终应该停靠的港湾"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "曾经我以为，只有驰骋于战场的身影才是最闪耀的…但现在我发现，一直陪伴在身边的指挥官也同样——不，在我的心中，没有什么比你的光芒更加耀眼"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(2 of the following: USS Bataan, USS Independence) 我们几个又能一起作战了，上吧！"
+                }
+            ]
+        },
+        {
+            "name": "俊俏丽人",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "既然是异乡的节日，着装上也来点和平时不一样的感觉好了。呼呼，我比较好奇，指挥官对我现在这身装扮有什么看法。果然是…很有新鲜感？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "既然是异乡的节日，着装上也来点和平时不一样的感觉好了。呼呼，我比较好奇，指挥官对我现在这身装扮有什么看法。果然是…很有新鲜感？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，今天要去什么地方？不用着急，现在是假期，时间有的是"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "有同伴说这一身可以“俘获指挥官的心”，实际上如何呢？哈哈哈，开个玩笑"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "东煌街道的招牌真是独具特色，算是让我开眼界了"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "这车子的座位还是有些窄，不然我也想让指挥官坐上来"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "想给伙伴们准备点东煌的特产，指挥官有什么可推荐的？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "累了吗？那就歇会儿吧。再给我倒点红酒，然后一起举杯——祝你今天开心~"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "我在想…或许我们可以给愉快的旅途适当添加些有趣的佐料。比如说，指挥官来当我的专职车夫，载着我去任何想去的地方？呵呵，开玩笑的"
+                }
+            ]
+        },
+        {
+            "name": "洛城女帝",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "「哼哼哼…终于落到我手上了，今天就让我们好·好·的聊一聊吧，指挥官？」——哎呀，是不是演得太逼真了呢？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "「哼哼哼…终于落到我手上了，今天就让我们好·好·的聊一聊吧，指挥官？」——哎呀，是不是演得太逼真了呢？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，感觉如何？…虽然由我这么问有点奇怪…你怎么了吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "虽然我对指挥官的想法没有变，不过，这身打扮果然还是太有魄力了吗…我可能也太入戏了点吧，哈哈……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "让我们一起到宴会会场去吧。不用担心，这些孩子们作为司机还是很上道的…嗯？担心的不是那边？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "今天就休息一下吧，没必要一直像勤劳的工蜂忙着工作的"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "保持平常心，才能在战场上行动自如。我的姐妹们都有着相当坚强的心呢"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "这身打扮果然还是太有魄力了吗…唔，我可能也有点太入戏了吧……"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "「看样子你还没搞清自己有多少斤两啊」"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_2.wav",
+                    "name": "Victory",
+                    "quote": "「首尾都已经处理好了」——哈哈哈，不至于做到这份上吗"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose_2.wav",
+                    "name": "Defeat",
+                    "quote": "哼…有点意思…！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "明明只是在享受宴会而已，没想到会变成这种状况呢…算啦，这样也挺有趣的。指挥官，姑且跟你确认下，你也觉得…挺有意思的吧？"
+                }
+            ]
+        },
+        {
+            "name": "绚烂缤纷花火夜",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "听说异乡的节日活动能看到华丽的烟花，就选了一套能搭配的服装，这身感觉如何？…人比烟花好看？哼哼，总不能让烟花抢了在指挥官面前的风头嘛！开玩笑的，哈哈哈"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "听说异乡的节日活动能看到华丽的烟花，就选了一套能搭配的服装，这身感觉如何？…人比烟花好看？哼哼，总不能让烟花抢了在指挥官面前的风头嘛！开玩笑的，哈哈哈"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "回来了啊，指挥官！今晚有烟火大会，一起去看吧！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "若是错过，便是后悔也无法追回的刹那芳华…其实并不仅限于眼前的烟花呢。指挥官，当遇到这般转瞬即逝的美好时，可不要错过了哦？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "虽然还是冬夜，不过大家看烟花的热情把寒意都驱散了不少呢，哈哈哈"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "克利夫兰她们也来了，像这样一起看烟花…感觉也不错。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "看着这些美丽的烟火，就感觉来年会是更美好的一年呢，哈哈哈。新的一年，继续努力吧，指挥官！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "嗯？对这一身感到在意的话，回头可以让你看个痛快。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "…想像烟花一样上天吗？"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "name": "KMS Peter Strasser",
+    "id": 40703,
+    "skins": [
+        {
+            "name": "彼得·史特拉塞",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "齐柏林伯爵级航空母舰—彼得·史特拉塞"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "命运多舛的齐柏林伯爵级航母之一，未能经历下水便遭拆除的“B航舰”，就是我。至于“彼得·史特拉塞”这个名字…总比“B航舰”好听，不是吗？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是未曾真正面世的齐柏林级“B航舰”，如今作为“彼得·史特拉塞”降生于此。时间有限，而需要完成的事情还有很多，让我们直接开始正题吧。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "来了吗？好，今天也请加油，高效地完成工作吧。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "时间乃无形之物，却能通过“钟表”这一精密的机械得以让人有直观的认知，确实是件很妙的事情，不是吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "将计划精确到每分钟，就能有效减少在犹豫与抉择中浪费的时间了吧，要试试吗，指挥官？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "海因里希，你的训练计划在这里，下次可别再忘了"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "看着事情在预定的时间内一件一件地完成，确实是件令人愉快的事情呢，呵呵~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "还未到休息的时间哦，指挥官？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "若是这样就能提高你的工作效率的话，这也算是有意义的时间花费了吧…"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "新任务来了，花点时间规划任务吧，会比一股脑地去做要有效率得多。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "呼呼，任务的报酬也算对得起我们在任务上所花费的时间了。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有你的信件，尽快看了吧，指挥官。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "越是精密的仪器，越容易因为维护不当而陷入停摆，人更是如此。别忽略了应有的休息，指挥官。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托已经完成了，伙伴们的高效率值得赞赏呢。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "强化完成，呼呼，度过了一段意义非凡的时间呢。"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "好，就先试试这步棋如何吧。"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "嚯？比预计的结束时间还要早一些呢。"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "花点时间寻找失败的原因，总比因重复犯错浪费更多的时间要好。"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "时机到了！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "事态…还在可控范围之内。"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "你…不值得我花费时间。"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "时间宝贵，指挥官，有什么事请尽量简洁地阐述吧。"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "指挥官，你房间的时钟慢了两分钟。不过没关系，我已经把它拆卸下来修理好了。可不能拿“时钟慢了”做迟到的理由了哦？呵呵~"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "将大量时间倾注在另一个人身上，是一种极大的“浪费”。无论怎么看，这都是件收益与付出极不对等的行为……是吧？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "两人都将时间倾注于彼此身上，就能达到相对的“收支平衡”…吗。真是有趣的算法啊。姑且先认可你这种说法吧，呼呼。"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "为了不让彼此的时间投入化作泡影…既然你都说到这份上了，这个信物，我就收下。未来还很长，就让我们继续在彼此身上投入更多的“时间”…以及“感情”吧，呵呵~"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": " 比起毁灭世界，先考虑如何毁灭眼前的敌人如何？"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": " 不要冒进，按原定战术行动…喂！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": " 呵呵呵，合作愉快~"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": " 咳…稍微静静，别太激动"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "好好工作吧，无论是你的时间还是我的时间，都不是可以轻易浪费的呢。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "这样似乎也能让我的效率更高呢，呵呵…"
+                }
+            ]
+        },
+        {
+            "name": "节庆的Chronos",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "据欧根说，这是东方的重樱的节庆正装，上身后意外地感觉还不错呢，呼呼，这种时候，应该说“新年快乐”，没错吧~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "据欧根说，这是东方的重樱的节庆正装，上身后意外地感觉还不错呢，呼呼，这种时候，应该说“新年快乐”，没错吧~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "节庆时刻也不忘应做的工作，指挥官，值得表扬。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "分分秒秒的时间，积累成了年岁的变化，岁月沉淀，终会成就名为“历史”的财富，呼呼，有意思，真有意思~"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "重樱的习俗里，这时候是要发“压岁钱”的吧，指挥官，你是希望收到我的，还是发给我呢？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "即便是节庆，闹腾也要适可而止哦，欧根、海因里希。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "齐柏林，一起去重樱的神社参观参观如何？即便不“参拜神明”，尝试下重樱的“甜酒”也是挺好的。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "之前定制的工作计划中已经将这些节日也计算进去了，所以稍微休息一下也无妨哦，指挥官？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "这样就把持不住了可不太行哦，指挥官。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "战术总结交给我就好，后面的事情就不需要你烦恼了。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_1.wav",
+                    "name": "Commission complete",
+                    "quote": "委托完成了。让我去迎接她们吧，不需要用上你的时间。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,404 @@
+{
+    "name": "IJN Haruna",
+    "id": 30403,
+    "skins": [
+        {
+            "name": "榛名",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "金刚级高速战舰三番舰—榛名"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "重樱航速最快的，同时也是唯一一艘直到最后都在奋战的高速战舰——武勋舰榛名。这一次，我也会——努力尽情尽力地战斗！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "初次见面，我是重樱首艘高速战舰——榛名。指挥官，比起刀剑，我更喜欢拳头唷"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "这么爽朗的天气，不出海实在太可惜了，对吧，指挥官"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "我也…想像雾岛那样受人欢迎呢…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "终于有能和威尔士以拳交心的机会了！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官，没有勇气和毅力战胜不了的敌人，你也是这么认为的吧？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "牛肉果然还是上州的最好——指挥官，你也尝尝吧？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官，你也喜欢吃比叡姐做的大福吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "咦？带上手套，就不容易弄脏手了呀"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "比叡姐，一起去活动活动筋骨怎么样？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "金刚姐，我也算能独当一面了吧？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "我很喜欢你的嗓音，所以——能念给我听吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "辛苦了，有遇上敌人吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "哎——还没轮到我出场！？"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "速度又变快了！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "终于到我出场了！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "金刚姐，我要奖励！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "咕……很抱歉，但输了就是输了——"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "火力——全开！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "一切还没有结束！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "死心吧——"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "金刚姐，我来帮你揉揉肩吧"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "激战之后，就应该吃一桶热腾腾的大米饭呢"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "指挥官，你也会跳舞吗？嗯…那个——能教教我吗？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指挥官，在比叡姐的宴会上，我能做你的舞伴吗？  "
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "有、有点害羞呢……现在，指挥官就是我最重要的人了……哎，和姐姐们比？那、那个，不一样的啦——"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Kongō) 金刚姐，我怎么样！？"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Hiei) 我会将眼前的一切，都干净利落地——击溃！"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: IJN Kirishima) 好好欣赏姐姐的英勇身姿吧！"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(2 of the following: IJN Ise, IJN Hyūga) 吴港分队——出击！"
+                }
+            ]
+        },
+        {
+            "name": "授课前的自由时间",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "偶尔转换心情，享受一下校园生活似乎也不错…嗯？指挥官也想一起听歌吗？耳机分你一半——"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "偶尔转换心情，享受一下校园生活似乎也不错…嗯？指挥官也想一起听歌吗？耳机分你一半——"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "和雾岛走在一起时，总会引起过多的关注…哈啊…受欢迎也不净是好事啊……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "比起坐在教室里听课，我还是更喜欢在操场活动身体呢…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "社团活动啊…空手道部之类的…怎么样？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "我这周有空哟，要不要一起去哪里逛逛呢，指挥官？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "比叡姐做的便当，每天都很让人期待呢"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "…想尝尝被书包砸的滋味吗？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_1.wav",
+                    "name": "Flagship fight",
+                    "quote": "唔…好像快迟到了…抓紧时间解决掉敌人吧！"
+                }
+            ]
+        },
+        {
+            "name": "绯红Innocence",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "呼…差不多就是这样吧，金刚姐的眼光，还是挺值得相信的？…那个，指挥官，能过来扶我一下吗？…穿、穿着这一身走路还不太习惯嘛！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "呼…差不多就是这样吧，金刚姐的眼光，还是挺值得相信的？…那个，指挥官，能过来扶我一下吗？…穿、穿着这一身走路还不太习惯嘛！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "太慢了！宴会马上要开始了哦？嗯…要先喝口葡萄酒润润嗓子吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "呜哇，雾岛的人气果然不一般啊…为什么那么多姐妹找她跳舞啊？！唔……我还是先不去找她了…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "按照威尔士教的品尝葡萄酒的方法的话…要先闻一下，然后晃一下酒杯，再闻一下…唔…？是什么时候才能喝来着？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "一旦涉及到宴会，比叡姐就忙得停不下来呢，指挥官，一会一起去跟她打个招呼吧。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，尝尝这个煎牛排吧，很好吃哦。嗯，一定是上州产的牛肉。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "一起跳舞？好…！就让你见识一下经过地狱训练后我的舞技吧！……唔…等、等我站稳一下……"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "…这炮塔可不只是摆设哦？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "辛苦了，继续一起参加宴会吧？"
+                }
+            ]
+        },
+        {
+            "name": "雅致莲华",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "“指挥官大人，在姐妹们的帮助下准备的这身装扮，可有合您的喜好？”……不不，要模仿比叡姐那样的优雅对我来说还是太勉强了…那个，在、在指挥官看来，我这一身…怎么样…？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "“指挥官大人，在姐妹们的帮助下准备的这身装扮，可有合您的喜好？”……不不，要模仿比叡姐那样的优雅对我来说还是太勉强了…那个，在、在指挥官看来，我这一身…怎么样…？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，在被金刚姐提醒前，赶紧开始工作吧？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "虽然对这身打扮没什么自信，不过，能得到指挥官的好评真是太好了。虽然比不上其他同伴，但在指挥官这还是拿到了及格分吧！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "别看这样，我也是在这身衣服的穿法上下了很多功夫的！指挥官你看，比如这里和这里，还有…哇啊！？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "既然要做就要全力以赴做到最好！作为金刚姐的妹妹，一定要让大家见识到我的优雅！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，我要去你那了，稍微借把手…嘿咻，谢啦，把这身衣服弄湿了就不好了~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "看我给你表演一回“优雅”的举动！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "欸，欸…！？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_3.wav",
+                    "name": "Mission reminder",
+                    "quote": "指挥官，还是把精力集中在任务上吧。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_3.wav",
+                    "name": "Mission complete",
+                    "quote": "虽然多少有些不方便活动，不过搬任务奖励什么的还是没问题的。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "把伞像这样拿…再把衣服往这里…呜呜…由我这么做就是没那个感觉…到底该怎么做才对啊，比叡姐…指挥官！？什么时候回来的？！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_3.wav",
+                    "name": "Victory",
+                    "quote": "怎么样，雾岛！就算穿成这样我也是能好好战斗的！"
+                }
+            ]
+        }
+    ]
+}

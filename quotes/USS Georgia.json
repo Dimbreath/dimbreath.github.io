@@ -1,0 +1,368 @@
+{
+    "name": "USS Georgia",
+    "id": 19902,
+    "skins": [
+        {
+            "name": "佐治亚",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "战列舰—佐治亚"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是白鹰所属战列舰，佐治亚。比起那几位远房姐妹，我的主炮口径更大一些。而我，会用这主炮，粉碎挡在面前的所有敌人"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是白鹰的佐治亚。安心吧，我会用巨炮为你带来胜利的"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "哼，来得正好。热身运动刚刚好，是要演习还是出击？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "定期的装备检查与维护可是非常重要的，指挥官，你也要来帮忙吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "我有个梦想，那就是有一天，大海上不再有硝烟，所有人都回到和平之中…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "可乐真是很棒的饮料呢，啊，不过酸素可乐指挥官大概不能喝吧……"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "有机会的话，还是挺想去世界各个不同的地方看看的呢，重樱、东煌、皇家……干脆计划个环球旅行好像也不错？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "嚯~指挥官也觉得这巨炮很美吗？那就尽管欣赏个够吧~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "嚯~？看来指挥官是想要自告奋勇当炮靶呢…"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "佐治亚光线！…开玩笑的，只是普通的头饰而已，啊哈哈"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务啊…如果是战斗任务就好了呢，嘿嘿~"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "没有报告过的任务，就不算完成。可别忘了啊，指挥官"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，你的信。如果方便的话，能把信封上的风景纪念邮票留给我吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "嗯，出击辛苦了。喝瓶冰镇可乐放松下吧"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托组回来了呢。等等，把这些酸素可乐带给她们吧，慰劳将士的辛苦是指挥官应当做的事情"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "下次的战斗，你会看到我的表现的"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "这次会是什么样的对手呢？希望不要辜负了我的期待啊"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "再坚固的装甲，也只有被巨炮击碎的命运！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "只能…暂时撤退了吗"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "这巨炮的轰鸣就是你们最后的回忆！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "咕唔…装甲区损伤？！我会加倍奉还的！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "看来指挥官并不足以拥有这份力量……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "桃子很不错的哦，营养又美味，指挥官要来一颗吗？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "出击战斗固然让人热血沸腾，不过偶尔放松一下也是很重要的呢"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "下次有机会的话，就一起去旅行怎么样？有你同行的话，感觉会是段有趣的旅程呢"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "先从白鹰出发…然后到皇家和鸢尾…再是东煌…——嗯？我在计划我们的环球之旅哦。事到如今，指挥官不会说不愿意去了吧~？"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "咳…没想到会是指挥官发起的直球进攻啊~？啊哈哈…我很高兴哦，看来环球之旅可以提前准备出发了呢~"
+                }
+            ]
+        },
+        {
+            "name": "南方的黑珍珠",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "呀，指挥官，出来透透气吗？我？哈哈，我不太习惯宴会那种高雅的氛围，所以偷溜出来了……要一起走走吗？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "呀，指挥官，出来透透气吗？我？哈哈，我不太习惯宴会那种高雅的氛围，所以偷溜出来了……要一起走走吗？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "还是旁边没有人的时候能够放松下来啊～对吧，指挥官？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "这套礼服？啊，这是西雅图给我准备的……老实说，连我自己都不知道我还能打扮成这样……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "呼，还是在这样的地方喝可乐适合我，指挥官，我包里带了一些，要喝吗？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "指挥官，你不回去会场没有关系吗，还有很多人在等着你吧？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，不用担心，我很喜欢这支舰队，等一会儿，我也会回到会场去的"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "呜哇……！好险，谢谢你扶我，指挥官……我拿高跟鞋是真的没辙"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，这里的空气很不错，稍微休息一下吧"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "月色真美啊，指挥官……欸？啊，不，我不是那个意思……呃，不对，我也不是没有那个意思…啊哈哈…怎么说呢…有点不好意思啊……"
+                }
+            ]
+        },
+        {
+            "name": "Lanier Swan",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "嗯哼，阳光正好，海风也恰到好处。好啦，一起来享受夏天吧！你也很期待的吧，指挥官？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "嗯哼，阳光正好，海风也恰到好处。好啦，一起来享受夏天吧！你也很期待的吧，指挥官？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "哦？来的正好，我正要把遮阳伞撑起来，来搭把手吧，指挥官。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "这件黑色薄纱是西雅图帮忙选的，那家伙虽然看起来大大咧咧的，却意外地对这些分外拿手呢…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "怎么样，这个太阳眼镜造型很有趣吧？嘿嘿，我还挺喜欢的呢。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "说到夏天，怎么能少了冰镇的可乐呢！你也来一瓶吧指挥官—哦，错了错了，嘿嘿，这个是酸素可乐，这个才是给指挥官的可乐。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "趁着夏天还未过去，来计划个“世界沙滩之旅”好像也不错？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "看你露出一副“不知道眼睛往哪摆”的表情意外的有趣呢，哈哈哈！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "嚯~？指挥官的心也随着来到海边放开了嘛，是不是需要给你一点“刺激”呢？比如这个遮阳伞什么的？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "嗯，出击辛苦了。要来根冰棒吗？我这里还有。"
+                }
+            ]
+        },
+        {
+            "name": "雅色彩华",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "新年快乐，指挥官！据说重樱新年就得穿着这么华丽的衣服出门呢，要不陪我走走？…怎么了，发什么呆呢？不会是看呆了吧？哈哈哈哈！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "新年快乐，指挥官！据说重樱新年就得穿着这么华丽的衣服出门呢，要不陪我走走？…怎么了，发什么呆呢？不会是看呆了吧？哈哈哈哈！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "今天你要去哪里逛逛？嘿嘿，我很期待哦。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "重樱的茶很好喝！不过，偶尔还是会想喝点可乐什么的呢…唔？和这一身不搭？想喝就是想喝，有什么办法嘛…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "“桃太郎”好像是从桃子里生出来的欸！一定是很厉害的家伙！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "西雅图，我好像收到了宴会的邀请，要在宴会上整点什么才艺呢，你有啥好主意不？至少得比“佐治亚光线！”更厉害的才好"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，我刚搞了个结合重樱的茶和可乐的新感觉饮料！来试喝看看吧！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "要好好带路哦？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "喂喂，衣服都要被你弄乱了啊"
+                }
+            ]
+        }
+    ]
+}

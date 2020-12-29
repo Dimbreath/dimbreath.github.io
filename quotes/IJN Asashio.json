@@ -1,0 +1,351 @@
+{
+    "name": "IJN Asashio",
+    "id": 30163,
+    "skins": [
+        {
+            "name": "朝潮",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "朝潮级驱逐舰一番舰—朝潮"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "朝潮级驱逐舰首舰、朝潮…和荒潮，还有大家一起组成过第八驱逐队，虽然后来队伍解散了…但我相信，总有一点能和大家再聚到一起的。指挥官…愿意帮我找到她们吗？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "为了寻找失散的同伴，驱逐舰朝潮，加入您的舰队…指挥官，你也有…无法割舍的重要同伴吗？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，指挥官。如果暂时不想出航的话，就先休息一下吧？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "想一直待在港口，可这样是找不到荒潮的…"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "丹皮尔海峡？朝潮不太愿意回想起那里呢…比起这个，指挥官…可以给我改造一门防空炮吗?"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "吃好，喝好，睡好，这是最幸福的事情…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "啊呼（打哈欠），已经这么晚了吗……还在努力的指挥官大人，要注意身体哦？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "没关系，朝潮…没有在害怕哦"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "感觉…有点奇怪…"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "指挥官…任务…偶尔也要提起干劲来哦？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务的奖励…可以拿去买吃的吗？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "我可以帮您读一下邮件吗？也许…会有荒潮的消息也说不定"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "没有什么比这里更能让人安心的了。指挥官，你也是这样认为的吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "该去迎接大家了呢"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "朝潮觉得，或许再装上一门防空炮会更好…"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "防空准备…做好了吗？"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "……好像朝潮不小心干了件不得了的事情呢"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "只要再强化一下防空设备的话…"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "这次…不会再失败了！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "好像…情况不太妙…"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "荒潮…你在哪呀？"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "每当凝望海平线时，总是会忍不住想起以前的事情呢…"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "昨天又做噩梦了。指挥官今天晚上能陪我一起睡吗？朝潮很怕……怕梦见黑色的海底，怕看到什么都做不到的自己…"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "最近和指挥官在一起的时候，朝潮感到特别心安。可当想到荒潮的时候，又会感到很心疼…"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "指挥官总是这样，不知不觉中给人安全感。可是…朝潮现在好像有更加害怕的事了…指挥官，你会一直在朝潮身边的…吧？"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "如果说…朝潮也遇到过什么好事的话，那一定是和指挥官相遇这件事了吧。指挥官，以后…还能每天找你哄我入睡吗？今晚…明晚…每一晚——"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: IJN Arashio) 这次…要一起回去哦"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: IJN Ōshio) 朝潮也喜欢可爱的女孩子。…不一样？"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: IJN Michishio) 朝潮也喜欢唱歌哦。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "欢迎回来，指挥官。不用太着急，和大家一起慢慢来吧。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "港区有荒潮、有指挥官，朝潮想一直待在这里。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "朝潮，会一直守在指挥官身边的。"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_ex1100.wav",
+                    "name": "Mission reminder (Extra)",
+                    "quote": "指挥官…任务…和朝潮一起加油完成掉吧。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_ex1100.wav",
+                    "name": "Mission complete (Extra)",
+                    "quote": "任务的奖励…一会把大潮她们的分也拿过去吧。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_ex1100.wav",
+                    "name": "Mail reminder (Extra)",
+                    "quote": "邮件…像满潮那样一边唱一边读比较好吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "朝潮觉得没有比指挥官和大家身边更让人安心的地方了。指挥官觉得呢？"
+                }
+            ]
+        },
+        {
+            "name": "樱花下的转校生",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "我是转校生朝潮，请多指教…虽然不知道能不能跟上大家的课程，不过朝潮会和喵喵一起努力的…"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "我是转校生朝潮，请多指教…虽然不知道能不能跟上大家的课程，不过朝潮会和喵喵一起努力的…"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "啊，又到了上学的时间了…指挥官，要一起去学校吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "不知道在学校能不能找到荒潮呢…？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "如果能和荒潮一起上学…就好了呢…"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "喵喵…总是喜欢在人脚边蹭蹭呢"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "啊呼（打哈欠），在上课的时间睡觉虽然很舒服…但果然还是不大好…吧？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官…也想被喵喵蹭蹭吗？"
+                }
+            ]
+        },
+        {
+            "name": "雪朝与铃",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "新年快乐，我是正在与指挥官共度新年的朝潮。指挥官，朝潮想要从这里下来了，能稍微接一下我吗？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "新年快乐，我是正在与指挥官共度新年的朝潮。指挥官，朝潮想要从这里下来了，能稍微接一下我吗？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，要来点热茶和蜜柑吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "呼…呼…指挥官也要来一点热茶吗？像这样握着…呼呼一下，暖暖的很舒服哦。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "指挥官冷吗…这样可不行，嗯，要像这样抱住取暖一下才行。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "大家送来的吃的太多了，吃不完了…指挥官，能帮朝潮吃掉一些吗？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "虽然冬天不能开茶会，不过大家一起窝在被炉里聊天也很开心呢。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "要握手…吗？好的。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_2.wav",
+                    "name": "Mail reminder",
+                    "quote": "新年也有不少来信呢。"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_2.wav",
+                    "name": "Victory",
+                    "quote": "为了指挥官，朝潮会加油的。"
+                }
+            ]
+        }
+    ]
+}

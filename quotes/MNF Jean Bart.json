@@ -1,0 +1,494 @@
+{
+    "name": "MNF Jean Bart",
+    "id": 90501,
+    "skins": [
+        {
+            "name": "让·巴尔",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "黎塞留级战列舰—让·巴尔"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是战列舰让·巴尔号，这名字源于“受人敬仰”的某位私掠船船长……嗯？你问私掠船是什么？哼，就是打着国家大义名号，公然抢劫的海盗船啊。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是让·巴尔，七大洋上最新也是最后的战列舰。今后就是由你来决定我的航向吗……哼，就让我看看你有多少能耐吧"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "你这家伙……意外地忙碌啊。有什么我能做的就说一声吧。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "随便刺探个人情报的家伙，被绑在炮管上也别抱怨啊。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "战列舰的时代结束了？哼，那又如何，我的时代才刚刚开幕。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "信仰也好理念也好，整天挂在嘴边也就只是梦话罢了。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "为什么总有傻瓜向永远不会给予回应的东西祈祷？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "别向我撒娇。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "……待会可别后悔哦？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "工作就是工作，光发牢骚数量也不会减少。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "……哼，真是寒酸的报酬啊。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "看到有你的信，我顺手带过来了。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "狩猎结束了？我在场的话，那种战斗一瞬间就会分出胜负了。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "吵吵闹闹的家伙们回来了呢。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "感觉不错。想试试吗？"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "不用讲究无聊的骑士道精神，你们一起上吧"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "你们的努力令人感动——可惜选错了对手"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "我会很快让你们知道…这份屈辱的利息有多重！"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "游戏就到此为止了！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "就这点能耐吗？"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "想把狼像狗一样饲养倒也无所谓，被咬的时候可别哭鼻子哦？"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "你的笑容让我想起某个人……某个，我想要憎恨的人。"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "不要露出那种表情……只要你不选择背叛我，我也绝不会背叛你。"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "你要是受伤了，其他人会很罗嗦的……把我当作盾牌使用吧。"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "有你在附近的话，好像连空气都会放松下来……我可能、要稍微睡一会………………………不要走开。"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "我所行走的道路，是条绝不会被赞许、看不见未来的泥泞之道，即便如此你也要与我一同前行吗？……哼，真是个愚蠢的家伙啊。那份愚蠢的信任——就让我用余下的生命来回报吧。"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: FFNF Richelieu) 停止祈祷吧——战斗开始了。"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: USS Massachusetts) 这回可不会落后了！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "拿来，我帮你。…我是秘书舰，做这些是理所当然的吧？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "我可没有和敦刻尔克阿尔及利亚她们一起逛街买东西的闲心。你是最了解我的吧？反过来说，和你一起逛逛的话，倒是无妨"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "…可不能太依赖我了啊"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "……就这么喜欢这里吗？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_ex1100.wav",
+                    "name": "Mission reminder (Extra)",
+                    "quote": "这点程度的奖励，似乎不太够呢，无论对你来说还是对我来说"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "有必要的话，我也会出击的。不过，在你的指挥下，似乎没有什么我的发挥机会了啊"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_ex1100.wav",
+                    "name": "Commission complete (Extra)",
+                    "quote": "吵吵闹闹的家伙们回来了呢。"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_ex1100.wav",
+                    "name": "Flagship fight (Extra)",
+                    "quote": "荣光属于维希！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "……啊，抱歉，不小心打了个盹，你也要睡一会吗？膝盖可以借你。……没关系，我会一直跟你待在一起的"
+                }
+            ]
+        },
+        {
+            "name": "不羁的BloodStone",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "来这样的角落找一个独自喝酒的人，可不是身为今夜的主角该做的事——好吧，来都来了，喝一杯？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "来这样的角落找一个独自喝酒的人，可不是身为今夜的主角该做的事——好吧，来都来了，喝一杯？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "你……似乎很无聊，指挥官。哼，真巧，我也正无聊"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "比起某个人，我倒是更愿意听敦刻尔克的，毕竟敦刻尔克会听人话，也会说人话"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "放开一切，纵情欢歌，这才是所谓的宴会。这里的空气太高贵了，高贵到酒都变难喝了"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "这场宴会唯一的优点，就是每个人脸上的笑容都是真实的——我在夸你，听不出来吗？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "指挥官，我可不会说些好话来取悦你……算了，我们也不是第一天认识，不是吗？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "干杯——哼，托作为某个人妹妹的福，我即使不想，也早就习惯了这种场合"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_1.wav",
+                    "name": "Mission reminder",
+                    "quote": "这个时候了还有任务？……要我帮忙吗？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_1.wav",
+                    "name": "Mission complete",
+                    "quote": "好了，那些东西都先放放，过来喝一杯如何？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "刚从战场回来？敬你一杯"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_1.wav",
+                    "name": "Commission complete",
+                    "quote": "委托完成了？我也一起去接她们吧，正好透透气"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_1.wav",
+                    "name": "Victory",
+                    "quote": "呼，还是战场的风比较舒服啊"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose_1.wav",
+                    "name": "Defeat",
+                    "quote": "哼，总好过参加宴会……"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "我讨厌繁文缛节，更不喜欢花瓶一样站在这里让人参观……这一切都是因为你，是你让我觉得，为你做这些是理所当然——你犯了重罪，Mon amour……"
+                }
+            ]
+        },
+        {
+            "name": "秘密的Après midi",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "你这家伙，知道擅自闯进海盗的秘密基地会有什么后果吧？……哼，好吧，我也是偶然发现的这里，别告诉别人"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "你这家伙，知道擅自闯进海盗的秘密基地会有什么后果吧？……哼，好吧，我也是偶然发现的这里，别告诉别人"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "别乱动我的东西，小心我把你轰飞"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "寻宝？哼，近海能有什么宝藏，等哪天解决了塞壬，我带你体会一下真正的寻宝"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "吊床只有一张，想休息自己想办法，我可不是你的保姆"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "竟然把工作也带到这里来做，你就这么喜欢这个地方吗？……喜欢和我相处？啧……"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "…咳咳咳！什么玩意…这不是絮库夫吗，啧，这家伙是怎么找到这里还睡得这么香的？真是麻烦的家伙"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "……！用冰可乐搞突然袭击，你这家伙，最近胆子越来越大了啊"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "没人会来不意味着只有你可以为所欲为——我也可以，明白吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "别一回来就往我这里跑，我可不想这里变成派对场地"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "……嗯，啊，阳光真刺眼。……嗯？你还没走吗？……也不用一直待在我身边……啧，你这家伙，总是知道怎么让我高兴，真是令人生气"
+                }
+            ]
+        },
+        {
+            "name": "舶刀Première neige",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "Bonne année…唔，这种情况下应该说“新年好”才对吧。又平安无事地迎来新的一年了啊…得好好感谢你过去这一年的努力才是。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "Bonne année…唔，这种情况下应该说“新年好”才对吧。又平安无事地迎来新的一年了啊…得好好感谢你过去这一年的努力才是。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "今天也要干活吗？有什么我能帮忙的就说一声吧。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "衣服难穿？…比起真正的宫廷礼服，这都算小意思了。比起那种，还是这身相对轻便的打扮更适合我，你也这么觉得吧？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "打羽板球？有意思，就让这羽球一直飞到海平线的尽头吧！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "什么都不做小家伙们就会自己蹭上来，真想要摸的时候又…真是的…唔，我可不需要你的同情"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "敦刻尔克新做的日式点心？谢谢。她手脚还真快。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "想看我挥舞这玩意儿吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "……！？你干嘛？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head_3.wav",
+                    "name": "Rub",
+                    "quote": "……呼"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "结束了？想要见你的同伴们都排起队了。…我可不是啊……"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_3.wav",
+                    "name": "Flagship fight",
+                    "quote": "全舰，持刀突击！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_3.wav",
+                    "name": "Victory",
+                    "quote": "别以为我让巴尔会小看任何对手！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_3.wav",
+                    "name": "Love",
+                    "quote": "并不是我松懈了，只是太习惯了你在身边而已。…不过我倒是不讨厌这种感觉，甚至感觉挺不错的。令我不自觉想要依靠——你就是如此重要的存在啊。"
+                }
+            ]
+        }
+    ]
+}

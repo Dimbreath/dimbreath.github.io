@@ -1,0 +1,682 @@
+{
+    "name": "HMS Belfast",
+    "id": 20212,
+    "skins": [
+        {
+            "name": "贝尔法斯特",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "爱丁堡级轻巡洋舰—贝尔法斯特，舷号C35"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "贵安，我是爱丁堡级二号舰贝尔法斯特，是皇家最大的巡洋舰，因此担任女仆长一职。虽然参与过不少战役，也见证过那位可敬的沙恩霍斯特的陨落，但身为女仆，些许小事不足挂齿。呵呵，有什么需要的话请尽管告诉我吧"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "您就是我的指挥官吗？贵安。一介女仆贝尔法斯特，此刻起，将生涯奉献给您"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，指挥官，红茶已经泡好，文档也归类完毕，开始舒适的工作吧"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "指挥官，有什么吩咐吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "要成为一名出色的指挥官，您首先需要相信您自己就是，然后按照尽您所能做到最好"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "要来一杯红茶放松一下吗？茶点，或者您想换换口味的话，咖啡和威士忌也都准备好了呢"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "在泰晤士河畔沐浴阳光的日子也不坏呢，不过果然这种生活才适合我"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "贸然触碰女士可不是绅士作为，不要对其他人做哦"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "为主人献上一切是女仆的义务，指挥官，想看吗？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "新的任务下达了，指挥官，请您过目"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务奖励已经发放了"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有新的信件，指挥官，需要我代为朗读吗？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "欢迎回来，指挥官，茶点已经准备好了"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "指挥官，完成委托的小姐们正在等待您的迎接呢"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "贝尔法斯特，必不负您的期待"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "为主人清除障碍正是女仆的职责"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "哎呀，还不如厨房的污垢来得棘手呢"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "指挥官，请先行撤退吧，我还有些事要做（微笑）"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "敌方的诸位，接下来会有些疼哦"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "接下来才是正餐哦，诸位"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "矫正主人也是女仆的义务呢……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "万分抱歉……初来乍到，对舰队的事务还不太习惯，不能为您提供百分百的服务……请期待我接下来的表现吧"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "稍微借用了一下舰队的渠道才入手的呢，来，请品尝吧——不知还合您的口味吗？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "敏锐地捕捉主上的意图，尤其是主上自己也没有发觉的可是很重要的……欺负人？呵呵~欣赏您为难的表情是最近才发掘的乐趣呢，还请见谅（笑）"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "您醒了吗？……呵呵，因为您的睡脸太过可爱，让我实在不忍将您叫醒……如何，贝尔法斯特的膝枕还能让您满意吗？无论何时，您都可以享用哦"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "这下麻烦了呢，明明我只是一直看着您，偶尔欣赏一下您为难的样子就满足了，得到这么重要的誓约不就让我忍不住想要为您做更多，从您那里获得更多了吗？"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(2 of the following: HMS Curacoa, HMS Sheffield, HMS Curlew, HMS Curacoa, HMS Belfast, HMS Newcastle, HMS Kent, HMS Suffolk, HMS Sirius, HMS Cygnet) 妹妹啊，携手抗争命运吧"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: HMS Edinburgh) 姐姐，一起加油吧"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: HMS Queen Elizabeth) 陛下，我来保护您"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(1 of the following: USS Enterprise) 企业小姐，优雅地上吧"
+                },
+                {
+                    "key": "link5",
+                    "voice": "link5.wav",
+                    "name": "Battle 5",
+                    "quote": "(1 of the following: HMS Unicorn) 独角兽小姐，请小心"
+                }
+            ]
+        },
+        {
+            "name": "彩云之玫瑰",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "呵呵…指挥官，这一身就这么让您吃惊吗？还以为您会想看我穿上旗袍的样子呢…难道是我想错了吗～？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "呵呵…指挥官，这一身就这么让您吃惊吗？还以为您会想看我穿上旗袍的样子呢…难道是我想错了吗～？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，指挥官。我特意准备了来自东煌各地的不同茶叶哦，请问今天想要哪一种呢？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "东煌的服饰，确实有相当的魅力呢，呵呵，或许可以考虑在女仆队里推广一下，您觉得呢？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "烹饪的手法与技巧，以及如何调味……东煌的美食文化真是令人大开眼界……"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "东煌的新年习俗是大家在一起聚餐吗……呵呵，要让所有人都得到满足，女仆之魂在蠢蠢欲动呢"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "舰队中来自东煌的姐妹虽然只有寥寥数位，不过也正因为如此，不能让她们觉得受到冷落呢"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "贝尔法斯特，值此新春佳节，依然任凭差遣"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "看来，这件旗袍最大的缺点，是会让指挥官把持不住呢~"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "请用，指挥官，这是为今天仍不忘工作的您特意准备的糕点"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_1.wav",
+                    "name": "Commission complete",
+                    "quote": "指挥官，给努力委托的孩子发个红包您觉得怎么样？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "指挥官，您知道吗，我能为您做的，只有学习其他阵营的文化，为您提供更好的服务，这些远远比不上您为我们带来的一切，您却觉得这是理所当然的事……您真是一个，让人又爱又恨的人呢"
+                }
+            ]
+        },
+        {
+            "name": "凛冽的钢之从者",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "这是引入了白鹰风格的严寒区域用特殊装备。毕竟是以抗寒·特殊行动支援为目的，设计上更偏重于实用、多少有些朴实…关于这点，还请主人多加谅解了"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "这是引入了白鹰风格的严寒区域用特殊装备。毕竟是以抗寒·特殊行动支援为目的，设计上更偏重于实用、多少有些朴实…关于这点，还请主人多加谅解了"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "欢迎回来，主人。咖啡已经为您准备好了，请用"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "只有平时坚持规律的生活，才能在突发意外时有冷静的判断，以及从容的行动…贝尔法斯特作为女仆，将对主人的生活方面进行全面支援"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "企业的料理越来越进步了，一方面是女灶神指导有方，另一方面…主人的存在也是重要的原因吧"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "胡闹的打扮…女仆装可是女仆的正装哦？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "多点时间陪姐姐一起比较好、吗…我会遵照主人的吩咐的，让您担心了，非常抱歉"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "有任何想要女仆队执行的任务的话，请尽管吩咐"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "非常抱歉，战斗装束不能满足主人"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "欢迎回来，主人。周边的警戒就交给我们女仆队，请好好休息一下吧"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_2.wav",
+                    "name": "Victory",
+                    "quote": "为主人献上胜利——"
+                }
+            ]
+        },
+        {
+            "name": "优雅而高贵的从者",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "贵安，主人。因为女仆队的部分成员承担了会场的警备工作，所以我也顺便换上了与宴会氛围相符的服装。作为女仆多少有些僭越了，还请多见谅"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "贵安，主人。因为女仆队的部分成员承担了会场的警备工作，所以我也顺便换上了与宴会氛围相符的服装。作为女仆多少有些僭越了，还请多见谅"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "主人，宴会有让您满意吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "为了主人与陛下，也为了不令华丽的宴会失色，无论合适都保持优雅的举止，是女仆应尽的义务"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "主人，本日会场的安全措施已经安排万全了。嗯，还得到了皇家方舟的倾力协助，请不用担心"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "姐姐，巡逻交给我就好，你和其他同伴一起放松一下吧…其实是想要独占主人…？真是的，就一会应该没有什么关系吧…？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "喝酒…吗？好的，如果您想喝酒的话我可以陪您喝些…不过唯独重樱的酒有点……不，没什么，请喝吧"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "主人…？在会场还请稍微自重一些"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_3.wav",
+                    "name": "Return to port",
+                    "quote": "请继续享受宴会的乐趣吧，主人"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_3.wav",
+                    "name": "Flagship fight",
+                    "quote": "皇家女仆队，轻巡贝尔法斯特，参上"
+                }
+            ]
+        },
+        {
+            "name": "女仆长的购物日",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "呵呵，看主人的表情，看来这身和平常稍有不同的打扮没有让您失望呢~难得的“约会”时光，就让贝尔法斯特好好侍奉您吧"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_4.wav",
+                    "name": "Receive",
+                    "quote": "呵呵，看主人的表情，看来这身和平常稍有不同的打扮没有让您失望呢~难得的“约会”时光，就让贝尔法斯特好好侍奉您吧"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_4.wav",
+                    "name": "Log in",
+                    "quote": "平时的我都是负责安排的，偶尔尝试下听从他人的计划似乎也不错呢，指挥官，接下来的目的地就交给您了。呵呵，我很期待~"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_4.wav",
+                    "name": "View details",
+                    "quote": "主人想吃什么午餐呢？我为您准备了…——吃这个就可以？零食可不能当作正餐哦"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_4.wav",
+                    "name": "Main screen 1",
+                    "quote": "这个好像是时下挺流行的零食呢，主人也想吃吗？，来，“啊~嗯”~呵呵，这个似乎也是流行的一部分呢"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_4.wav",
+                    "name": "Main screen 2",
+                    "quote": "身为女仆，自应当为主人服务。不过，为了主人给别人留下好的印象，这一半的购物袋就辛苦主人您了。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_4.wav",
+                    "name": "Main screen 3",
+                    "quote": "除了自己的，也给其他女仆队的孩子们看点服装好了…当然，还要给主人也看看呢，呵呵~"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_4.wav",
+                    "name": "Normal touch",
+                    "quote": "牵手么……主人的手，有种令人怀念的感觉呢。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_4.wav",
+                    "name": "Special touch",
+                    "quote": "就算是在约会中，太心急也是不行的哦，主人？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_4.wav",
+                    "name": "Return to port",
+                    "quote": "主人，如果对接下来目的地没有头绪的话，不如干脆漫无目的地走下去如何？有时候偶遇的风景反倒更迷人呢~"
+                }
+            ]
+        },
+        {
+            "name": "完美的代理店长",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "欢迎光临，请问您是一个人吗？我明白了，请随我来。呵呵，怎么了？这里是餐厅，现在的我是代理店长，主人自然就是“客人”了~"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_5.wav",
+                    "name": "Receive",
+                    "quote": "欢迎光临，请问您是一个人吗？我明白了，请随我来。呵呵，怎么了？这里是餐厅，现在的我是代理店长，主人自然就是“客人”了~"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_5.wav",
+                    "name": "Log in",
+                    "quote": "这是本店的菜单，推荐您尝试下本店的套餐，现在的话，还有优惠能为您提供哦~"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_5.wav",
+                    "name": "View details",
+                    "quote": "作为皇家女仆，无论是侍奉主人还是管理餐厅，都应当能够处理妥当，游刃有余。呵呵，如何，贝尔法斯特的服务还让主人满意吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_5.wav",
+                    "name": "Main screen 1",
+                    "quote": "吹雪小姐虽然有些冒失，不过本质还是个聪明又认真的孩子。很多事情只要稍微指点一下就能融会贯通了。"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_5.wav",
+                    "name": "Main screen 2",
+                    "quote": "虽说点什么餐是客人们的自由，不过作为女仆还是很想给她们一些健康上的建议呢，尤其是对于点了满满一桌可乐的白鹰同伴们…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_5.wav",
+                    "name": "Main screen 3",
+                    "quote": "对客人的引导，点餐与推荐的服务，体察不同客人的需求…嗯，这么看来，似乎把这里的工作作为女仆训练的一环也不错呢"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_5.wav",
+                    "name": "Normal touch",
+                    "quote": "有什么我能帮到您的吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_5.wav",
+                    "name": "Special touch",
+                    "quote": "虽说为主人献上一切是女仆的义务…但是不是也要考虑下场所比较好呢，主人？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_5.wav",
+                    "name": "Return to port",
+                    "quote": "您的披萨已经准备好了，请一边休息，一边慢慢享用吧~"
+                }
+            ]
+        },
+        {
+            "name": "倾城之华扇",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "准备适合重樱节日的服装稍微多花了点时间，还请见谅。指挥官，新的一年，也请让女仆贝尔法斯特侍奉在您的身边吧。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_6.wav",
+                    "name": "Receive",
+                    "quote": "准备适合重樱节日的服装稍微多花了点时间，还请见谅。指挥官，新的一年，也请让女仆贝尔法斯特侍奉在您的身边吧。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_6.wav",
+                    "name": "Log in",
+                    "quote": "新年快乐，指挥官。女仆队做了一些重樱新年的料理，请尝尝看吧~"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_6.wav",
+                    "name": "View details",
+                    "quote": "指挥官有什么吩咐？无论节日还是平时，响应主人的需求都是女仆的本职。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_6.wav",
+                    "name": "Main screen 1",
+                    "quote": "一把优雅的扇子能衬托出持有者的风度，指挥官，您要不要也挑一把拿着呢？呵呵~"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_6.wav",
+                    "name": "Main screen 2",
+                    "quote": "重樱的节庆服饰并不会影响到身为女仆的工作，不如说，这一身比想象中的还要更方便活动呢。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_6.wav",
+                    "name": "Main screen 3",
+                    "quote": "在重樱的料理方面，得到了比叡小姐不少指导呢。作为回报，女仆队将会帮比叡小姐准备下次的宴会，敬请期待，指挥官。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_6.wav",
+                    "name": "Normal touch",
+                    "quote": "您累了吗？请在这里休息片刻吧。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_6.wav",
+                    "name": "Special touch",
+                    "quote": "凡事还是需要考虑一下场合和时间呢，指挥官。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_6.wav",
+                    "name": "Return to port",
+                    "quote": "与指挥官一同参加新年参拜…是吗？乐意直至，这是我的荣幸~"
+                }
+            ]
+        },
+        {
+            "name": "克拉达的誓约",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "您就是我的命定之人吗？贵安。贝尔法斯特，此刻起，将永远陪伴在您的身旁"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_8.wav",
+                    "name": "Receive",
+                    "quote": "您就是我的命定之人吗？贵安。贝尔法斯特，此刻起，将永远陪伴在您的身旁"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_8.wav",
+                    "name": "Log in",
+                    "quote": "今天也和往常一样吗？"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_8.wav",
+                    "name": "View details",
+                    "quote": "我可不打算放弃女仆的职责哦？再说了，还有谁会比我更了解您呢？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_8.wav",
+                    "name": "Main screen 1",
+                    "quote": "主人，亲爱的，达令……有些难以抉择呢。或者说，您有别的想法吗？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_8.wav",
+                    "name": "Main screen 2",
+                    "quote": "按照您的想法去做就好，在我心里，您永远是最出色的"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_8.wav",
+                    "name": "Main screen 3",
+                    "quote": "穿着这一身稍微有些不方便做事呢……不过您喜欢的话那就稍微忍耐一下吧"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_8.wav",
+                    "name": "Normal touch",
+                    "quote": "比起站在背后，果然在您的身侧…会看到更多的东西呢"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_8.wav",
+                    "name": "Special touch",
+                    "quote": "等、等一下…真是的，我正在打扫呢……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_8.wav",
+                    "name": "Return to port",
+                    "quote": "今天有什么有趣的事吗？一边吃点心一边跟我说吧"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_8.wav",
+                    "name": "Love",
+                    "quote": "学会适应新身份吗……您真是给我出了一个大难题呢，不过……大概世上再也不会有这么令人幸福的难题了吧"
+                }
+            ]
+        }
+    ]
+}

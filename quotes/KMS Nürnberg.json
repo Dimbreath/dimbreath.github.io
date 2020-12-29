@@ -1,0 +1,280 @@
+{
+    "name": "KMS Nürnberg",
+    "id": 40205,
+    "skins": [
+        {
+            "name": "纽伦堡",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "莱比锡级轻巡洋舰—纽伦堡"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "虽然曾经接受过多次改装，但是都没有在大战中派上多少用场…算下来，我在铁血里还算是服役比较长的了？连我自己都不敢相信……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是莱比锡级的二号舰，纽伦堡号。今天起，就让我留在这里为指挥官效劳吧。……没问题吧？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "已经是工作的时间了，请…请打起精神来，指挥官！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "为什么独自一个人来看我？莫、莫非指挥官是想趁别人不在的时候……？！不、不是的吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "指挥官喜欢吃烤香肠吗？嗯…工作顺利的话，回头我就给您做一些吧"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "有什么办法能治好莱比锡容易晕倒的毛病呢…通过接触锻炼？好像可行…不对，指挥官不会是想借机接近莱比锡干什么坏事吧？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "对指挥官是不是太严厉了些…怎么办…指挥官不会生气吧…？算、算了，反正指挥官肯定满脑子只想着奇奇怪怪的事情……"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "莫、莫非指挥官是想通过不经意的碰触，逐渐降低我的警戒心？！"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "呀啊啊？！也、也太直接了吧指挥官！？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "突然摸头，肯，肯定是在想奇奇怪怪的事情！我，我没说错吧？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "有新的任务哦，指挥官，之前的任务都完成了吗？"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务全都完成了？真不愧是指挥官呀…"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "有新邮件哦，指挥官。不会是骚扰信吧…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "出击辛苦了，指挥官。不过，为了大家，再坚持一会！…吧？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托完成了哦，不用我提醒，指挥官应该也知道做些什么的吧？"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "希望这些努力，最后都能派上用场…"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "请大家…各司其职吧？"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "欸？我是MVP？这倒是有些意外呢…"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "怎么会这样…是我的责任，非常抱歉……"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "请，请在这里被打倒吧！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "好、好疼……"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "指挥官…还真是碍眼啊……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "还是好担心莱比锡会不会突然晕倒…指挥官，也请您帮忙多看看她哦？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "想学习烤肠的做法？没问题哦。不过，事先说好，我可是很严格……等等，这该不会是指挥官用来接近我的手段吧？！"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "最近和指挥官待在一起的时间越来越长了…呜呜，指挥官果然是有什么奇怪的想法的吧！如果放任下去的话我就…咦？好像…也不是那么讨厌…？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "仔细想想，好像实际上并没有被指挥官做过太过分的事情…反而是经常得到绅士般的关怀……和指挥官在一起其实也满开心的…(小声)就、就算真的被做了什么也………我我我在说什么呀！？请、请当作什么都没听见！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "我、我知道了啦，这次就全部听您的…所以……能不能别再盯着我的脸了，这样真的很害羞的！再、在这样下去，我可能会变得很奇怪…总、总之快点结束这个仪式吧！呜呜…"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: KMS Leipzig) 一起鼓起勇气战斗吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "指挥官，今天也为了舰队好好工作吧！我会和你一起努力的！"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "呜呜……这只是不经意的触碰…不经意的触碰啦！"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head_ex1100.wav",
+                    "name": "Rub (Extra)",
+                    "quote": "突然摸……不摸头摸别的地方也不行！我会胡思乱…哇哇哇！？我说什么都没说！！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry_ex1100.wav",
+                    "name": "Flagship fight (Extra)",
+                    "quote": "指挥官，请下达指示…！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "我是MVP！呵呵…稍、稍微自豪一些也没问题吧！？"
+                }
+            ]
+        },
+        {
+            "name": "正月的漫游",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "竟然这么爽快就答应了一起旅行的请求，指挥官肯定另有打算…啊，我的意思是，如果指挥官准备好了的话，随时都可以出发哦？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "竟然这么爽快就答应了一起旅行的请求，指挥官肯定另有打算…啊，我的意思是，如果指挥官准备好了的话，随时都可以出发哦？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "指挥官准备好了的话，我们就出发吧？今天有很多地方要去呢。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "唔…指挥官，一起帮忙看下，带点什么特产给铁血的同伴们比较好？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "要是莱比锡也一起就好了呢…不过，人太多的地方她可能也不太能适应得了…？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "重樱也有很多特别的美食呢，下次跟重樱的伙伴们讨教下制作方法好了…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "这套重樱风格的服饰，还是挺好看的呢…啊？！指挥官，您刚才是不是盯着什么奇怪的地方看了！？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "要、要牵手吗？…真的只是为了防止走散而已吗…？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_1.wav",
+                    "name": "Mail reminder",
+                    "quote": "指挥官，我们要不要也写个明信片什么的呢？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，再坚持会，我们到了下一个目的地再休息吧？"
+                }
+            ]
+        }
+    ]
+}

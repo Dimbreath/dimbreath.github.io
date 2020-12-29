@@ -1,0 +1,417 @@
+{
+    "name": "FFNF Richelieu",
+    "id": 80501,
+    "skins": [
+        {
+            "name": "黎塞留",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "自由鸢尾黎塞留级战列舰—黎塞留"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "我是黎塞留级战列舰首舰，黎塞留，自由鸢尾的舰队领导者。我曾经历过命运多舛的一生，见证过祖国的兴衰离合…不过我相信，这次一定能够…真正地守住重要之物。我相信，自由、和平，都将从这支舰队开始——"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我是自由鸢尾的舰队领导者、枢机主教黎塞留。如果你也是为了信仰与自由而战的话，我会将胜利带给你的，指挥官。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "Bonjour, 指挥官。在我祈祷的期间，先喝杯茶稍等片刻吧"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "相信我，跟随我，你会得到你想要的。祈祷，并且寻找吧，这样道路便会为你而展开。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "「FVRENTIBVS EMINET AVSTRIS」…我坚信，只要有坚定的信仰和不懈的努力，无论任何苦难都无法将我们打倒——"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "港区里那些孩子们…是叫「指挥喵」吗…？呵呵，真是惹人怜爱的小家伙呢。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "皇家？如果她们下次允许我在茶会时带上我的红酒，我相信我会和她们相处得更加融洽"
+                },
+                {
+                    "key": "main4",
+                    "voice": "main_4.wav",
+                    "name": "Main screen 4",
+                    "quote": "请充分发挥鸢尾同伴们的力量，指挥官。为了和平而战正是她们的使命之一"
+                },
+                {
+                    "key": "main5",
+                    "voice": "main_5.wav",
+                    "name": "Main screen 5",
+                    "quote": "白鹰的伙伴们和鸢尾的同胞多少有点…嗯，让巴尔的话，大概会和她们更合得来吧"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "静静聆听我向神明的祷告吧，指挥官"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "…唯有勇气值得一点赞赏呢"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "愿你也能得到上天的祝福"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务，也是一种试炼。怀着正确的心态完成即可。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "奖励，是上天给与勤劳者的馈赠。心怀感激地接受便是。"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "信件，是来自他人的祝福。"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "作战结束，舰队平安回港，辛苦了，指挥官。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托的顺利完成，是舰队运转良好的证明，做的不错，指挥官。"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "为了引导人民，力量也是必要的——谢谢你，指挥官。"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "以自由与荣耀之名，全舰就位，aux armes，marchons! "
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "愿战场上飘荡的亡灵们，也能得到永恒的安宁与救赎，amen…"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "这也是…神明所赐予的试炼吗…"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "接受神罚吧！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "希望…还没有破灭！"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "不思进取者，终将步向破灭。好好记住这点吧。"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "有人说我带来战祸而厌恶我，有人则因为枢机主教的身份而敬畏我，甚至有人将我视为顽固的信教者而憎恨我……你呢，你又将如何看待我，指挥官？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "你来了，指挥官，请坐吧，想喝点什么？…不用太过拘谨，即便是我，在工作与教务之外，也有像这样与常人无二的生活。即使是最虔诚的教徒，也不能光靠信仰生存，她们同样需要食物与美酒"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "你又来了，指挥官，我开始有些后悔对你太过友善了——开玩笑的，有一个可以信任又互相了解的人可以交流是一件奢侈的事。我很幸运，当然，你也是，不是吗，指挥官"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "人与人之间的距离感是一个很有意思的东西。上级和下级，舰队的领导者和阵营的指挥者，舰船和……呵呵，现在还是先让大家保持一下对我们关系的误解吧。好吗？"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "作为自由鸢尾的领导者，我无法向你许下诺言。但作为战舰黎塞留，我愿立誓成为永远守护你、支援你的存在。以神圣的鸢尾之名——"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(5 ships from Eagle Union, Royal Navy, Sakura Empire, Iron Blood, Eastern Radiance, North Union, Iris Libre) 我们无所畏惧，因神与我们同在"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: USS Saratoga) 没想到还能有机会再度同行呢..."
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: MNF Jean Bart) 尽情发挥吧，我会全力支援你的。"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(5 ships from Eagle Union, Royal Navy, Sakura Empire, Iron Blood, Eastern Radiance, North Union, Iris Libre) 同胞啊，在共同的信念下集结吧！"
+                },
+                {
+                    "key": "link5",
+                    "voice": "link5.wav",
+                    "name": "Battle 5",
+                    "quote": "(1 of the following: MNF La Galissonnière, USS Aylwin) 向无信仰的敌人降下天罚吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "Bonjour，指挥官。在我结束祈祷之前，请先喝杯茶稍等片刻吧"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "最近有时会和让巴尔一起，即使没有交谈，两个人各自忙着手中的工作，也会有一种交心的感觉。非常令人开心"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_ex1100.wav",
+                    "name": "Normal touch (Extra)",
+                    "quote": "现在是祷告时间，指挥官，请再稍等片刻"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_ex1100.wav",
+                    "name": "Special touch (Extra)",
+                    "quote": "是不是稍微再斟酌一下接触的方式比较好呢"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "欢迎回来，多亏了指挥官，大家都平安无事，感谢你"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_ex1100.wav",
+                    "name": "Love (Extra)",
+                    "quote": "我和你之间谁是追求的一方并不重要。能够感受到我们之间的羁绊这一点本身，就足够让人愉悦了。感谢你能一直陪伴在我身边"
+                }
+            ]
+        },
+        {
+            "name": "潮风的Fleuron",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，这一身…嗯，是埃米尔为我挑选的，说实话，我对这方面一窍不通…不过既然是埃米尔，想必不会有太糟糕的选择…—指挥官？你为什么盯着我发呆？"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，这一身…嗯，是埃米尔为我挑选的，说实话，我对这方面一窍不通…不过既然是埃米尔，想必不会有太糟糕的选择…—指挥官？你为什么盯着我发呆？"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "一个风景优美的地方，指挥官，你很会挑选"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "鸢尾的教义里并没有规定人不需休息。今天大家就尽情放松，把这样的日子当成来自神的祝福就好"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "我去海里稍微游一会儿。…？呵呵，确实和我平常的印象不太一致呢。指挥官，你要一起来吗？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "炎热的盛夏与冰凉的甜食…不得不说是绝配呢，下次请敦刻尔克再多做一些好了…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "我偶尔也会思考，与让巴尔共同度过一段时间对于我们的关系或许是有必要的呢…哈啊…"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "你要带我去哪里，指挥官？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "穿着泳装就变得毫无防备了——还是不要有这么天真的想法比较好哦，指挥官"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_1.wav",
+                    "name": "Return to port",
+                    "quote": "我并不希望我的休息是以你的额外劳动换来的，指挥官，有任何需要帮忙的地方请尽管提出来"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_1.wav",
+                    "name": "Commission complete",
+                    "quote": "这里的视野很好，指挥官，你看，恰好能看到海平线上返回的委托组"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_1.wav",
+                    "name": "Love",
+                    "quote": "微热的海风，海浪声，我们走过沙滩上的脚印……Agréable。对我来说也是一番难得的体验呢…指挥官，我会把与你共度的这段时光永远留在心里的"
+                }
+            ]
+        },
+        {
+            "name": "常緑Rêve prophétique",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "指挥官，新年好。结束一年的辛劳，暂且安享这安宁的时光吧。愿指挥官，与港区的诸位都能得到上天的祝福。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "指挥官，新年好。结束一年的辛劳，暂且安享这安宁的时光吧。愿指挥官，与港区的诸位都能得到上天的祝福。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "又迎来了一轮崭新的朝阳，今天也请多指教了，指挥官。"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "相信我，跟随我，你会得到你想要的。祈祷，并且寻找吧，光明的大道，手中的幸福，崭新的一天，都将呈现在你眼前。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "“抽签”展示的或许正是命运，即便如此，人类的顽强，还是能够打破既定宿命的吧。"
+                },
+                {
+                    "key": "main4",
+                    "voice": "main_4_2.wav",
+                    "name": "Main screen 4",
+                    "quote": "嘘，别太大声，这孩子正要靠近让巴尔呢。"
+                },
+                {
+                    "key": "main5",
+                    "voice": "main_5_2.wav",
+                    "name": "Main screen 5",
+                    "quote": "贝亚恩，时间差不多了？…嗯，和大家约好了一会去重樱的神社参观，指挥官也要一起来吗？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "指挥官也要坐过来吗？请稍等…乖孩子…好了，请坐。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "这是…新年的打招呼方式吗？"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_2.wav",
+                    "name": "Mail reminder",
+                    "quote": "重樱的贺年卡是这种感觉的吗…挺有意思的，呵呵…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "不要着急，先安排出击的各位休息吧，我会在这里等你的。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_2.wav",
+                    "name": "Commission complete",
+                    "quote": "委托组平安回来了。所谓的“开门大吉”就是这样吧。"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "一同静心祷告吧，只要聆听彼此的祈祷之语，必能知晓我们所向同心。让我们二人并肩，向光之彼方前行——"
+                }
+            ]
+        }
+    ]
+}

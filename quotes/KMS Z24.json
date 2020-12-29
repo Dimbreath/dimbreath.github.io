@@ -1,0 +1,298 @@
+{
+    "name": "KMS Z24",
+    "id": 40124,
+    "skins": [
+        {
+            "name": "Z24",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "1936A “纳尔维克”型驱逐舰—Z24"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "从Z23开始，吾等1936型，以及之后的驱逐都只用编号来称呼了，这究竟是为何？明明“莱伯勒希特·马斯”或者“格奥尔格·蒂勒”这样又有气势，又让对手难记的名字更加……"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "颤抖吧，凡人！站在汝之面前的，是赤与黑的恐惧之魔王，铁血的驱逐舰Z24！无须多虑，匍匐于吾之脚下，献出汝之敬畏即可！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "汝可知现在已是几时？快回到工作之位上去，懒惰的凡人！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "区区凡人，居然敢不畏惧吾？吾应当已经表现出足够的威慑感了才对…为何……"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "“黑”乃高贵之象征！无论黑咖啡，黑巧克力，或是黑森林蛋糕，都是从名字就透露出高贵的气息，汝不这么觉得吗，凡人~"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "哈啊~~无聊得吾都犯困…要不试着吓吓下一个进指挥室的人好了~…唔，不行吗？真没意思…"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "贯彻吾之道才是人生！所以Z23啊，作业什么的对吾而言只是累赘！好疼！吾、吾知道了啦，别再念吾了！"
+                },
+                {
+                    "key": "main4",
+                    "voice": "main_4.wav",
+                    "name": "Main screen 4",
+                    "quote": "把慰劳品…忘了？……看来得好好让汝知晓生命是有多么脆弱才行呢，凡人。"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "这双巨爪很棒吧？无论威慑力还是杀伤力，都和“魔王”的称号相匹配！哼哼哼~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "敢对吾如此不敬…想必已经做好足够的心理准备了吧，凡人…？"
+                },
+                {
+                    "key": "headtouch",
+                    "voice": "touch_head.wav",
+                    "name": "Rub",
+                    "quote": "胆、胆子不小啊，凡人，敢在吾头上乱摸……唔，还、还可以再来点…"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "任务？这些琐碎的麻烦事就不要一直留在在那里，快把它们都处理掉，凡人。"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "哼哼，不管怎么说，收获的时刻总是让人愉快的，是吧，凡人~"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "来自深渊的信息…呼呼……"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "汝总算回来了啊，吾累了，要休息一会，没有急事或者黑巧克力不要喊吾。"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "委托奖励？不感兴趣…不过要是有黑巧克力或是黑森林蛋糕之类的美味，记得向吾进贡啊，凡人！"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "干得好，凡人！感觉力量逐渐凝聚起来了！"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "哼哼，那就开始吧，令人兴奋的铁与血之祭典！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "啊哈哈哈哈！鲜血与火焰浇铸出的战场之烟花，真是太棒了！"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "哈啊…哈啊…已经……不用忍耐了吧？可以把一切的一切，都破坏殆尽了吧…？"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "全都匍匐在吾之脚下吧！啊哈哈哈哈！！"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "哈啊…哈啊……已经可以了吧…？"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "汝可知…堕落至极的凡人会有什么样的下场？"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "呣…那些在天上乱窜的“苍蝇”们确实非常讨人厌，不是吗？"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "无论何种对手，感受到到吾之威势都会吓得落荒而逃！…为何汝对吾却没有任何惧意？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "有黑巧克力蛋糕要进贡给吾？哼哼，算你上道，凡人，来吧~啊…还愣着作什么？快喂吾！"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "好，看在汝对吾如此尊敬的份上，就特别赐予汝与吾亲密接触的权力吧！来吧！(张开双臂)……是拥抱啦，拥抱！非得吾说得这么清楚吗，愚蠢的凡人！"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "嚯~居然真的胆敢向吾提出誓约吗，就让汝称赞下汝之勇气吧，凡人！哼哼，从今往后，还要一如既往地向吾献上敬畏和贡品哦！"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: KMS Admiral Graf Spee) 哼哼，一起把敌人撕成碎片吧！"
+                },
+                {
+                    "key": "link2",
+                    "voice": "link2.wav",
+                    "name": "Battle 2",
+                    "quote": "(1 of the following: KMS Z25) 汝之黑色使魔，还挺有趣的。"
+                },
+                {
+                    "key": "link3",
+                    "voice": "link3.wav",
+                    "name": "Battle 3",
+                    "quote": "(1 of the following: KMS Z26) 这次，不会再令汝独自迷失于白色的风暴中了"
+                },
+                {
+                    "key": "link4",
+                    "voice": "link4.wav",
+                    "name": "Battle 4",
+                    "quote": "(1 of the following: KMS Z36) 恶魔(Devil)啊，听从恶魔的命令，消灭敌人吧~"
+                },
+                {
+                    "key": "link5",
+                    "voice": "link5.wav",
+                    "name": "Battle 5",
+                    "quote": "(1 of the following: KMS Z23) 吾讨厌说教！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_ex1100.wav",
+                    "name": "Log in (Extra)",
+                    "quote": "居然敢让吾等这么久，凡人！吾都已经干了许多秘书舰的活儿了！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_ex1100.wav",
+                    "name": "View details (Extra)",
+                    "quote": "…哼！（pose）哈哈哈！凡人，怎么样？可怕吧！想要屈服于吾了吧！……看、看汝之反应好像还可以再改进一点…"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_ex1100.wav",
+                    "name": "Return to port (Extra)",
+                    "quote": "总算回来了啊。有点累了……别跑！过来给吾揉揉肩捶捶背！"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_ex1100.wav",
+                    "name": "Victory (Extra)",
+                    "quote": "呼呼呼呼…呼呼呼啊哈哈哈哈哈哈！"
+                }
+            ]
+        },
+        {
+            "name": "「魔王」的祝祭",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "祝祭之钟声已然敲响，来得正好，凡人！到吾身边，与吾一同享受这愉快的异邦佳节吧！"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "祝祭之钟声已然敲响，来得正好，凡人！到吾身边，与吾一同享受这愉快的异邦佳节吧！"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "休息够了吗？那就陪吾到仪典上游玩一番吧，这可是你的荣幸哦，凡人！"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "即便是“新年”，也不能丢失了身为“魔王”的威仪，所以这对巨爪是绝对不能脱下的！至于拿东西什么的…就是你的任务了，凡人！"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "就赏汝一颗美味的漆黑之果实吧，快张嘴，凡人！"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "既然是难得的祝祭之日，吾就容许汝暂时放下对吾的敬畏吧。作为代价，汝可要好好陪吾解乏！"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "名为“年糕”的料理虽然美味，可惜……不知道有没有黑色的年糕呢…？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "就这么想待在吾之身旁吗？哼哼~"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "即便是祝祭之日，也是有不可为之事的。凡人，汝已经做好被吾惩罚的准备了吧？"
+                }
+            ]
+        }
+    ]
+}

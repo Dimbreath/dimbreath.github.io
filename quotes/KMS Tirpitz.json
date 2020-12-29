@@ -1,0 +1,410 @@
+{
+    "name": "KMS Tirpitz",
+    "id": 40502,
+    "skins": [
+        {
+            "name": "提尔比茨",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "俾斯麦级战列舰—提尔比茨"
+                },
+                {
+                    "key": "profile",
+                    "voice": "profile.wav",
+                    "name": "Details",
+                    "quote": "稍微有点热……啊，抱歉，我是提尔比茨，一直一个人待在北方无所事事，所以有许多人叫我“北方的孤独女王”——如果你认为这是一个好听的绰号，那你也许没有听得仔细……这几个字中，唯有虚无"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get.wav",
+                    "name": "Receive",
+                    "quote": "我曾被困在北方许久，还不得返回自己的故乡，现在你竟敢要我跟你走？！——好啊，我就跟你去看看这个世界吧"
+                },
+                {
+                    "key": "login",
+                    "voice": "login.wav",
+                    "name": "Log in",
+                    "quote": "一旦习惯于等待，所等待的东西就失去了意义……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail.wav",
+                    "name": "View details",
+                    "quote": "谨慎选择敌人，指挥官"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "姐姐……这么说来，我好像确实有个姐姐，呵，我都要忘了"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "在和平的地方眺望着战场，除了“真残酷啊”之外不知道说什么的感觉，你明白吗？"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "战略意图吗……不过装上了炮管却不是用来装填弹药的，还真是有些讽刺啊"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1.wav",
+                    "name": "Normal touch",
+                    "quote": "冷吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2.wav",
+                    "name": "Special touch",
+                    "quote": "我要怎么处置你好呢……"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task.wav",
+                    "name": "Mission reminder",
+                    "quote": "好好完成任务吧……有一天你会意识到还有任务可以执行是一件愉快的事"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete.wav",
+                    "name": "Mission complete",
+                    "quote": "任务奖励……真是不错"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail.wav",
+                    "name": "Mail reminder",
+                    "quote": "你的邮件……呵，真是令人羡慕"
+                },
+                {
+                    "key": "home",
+                    "voice": "home.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，多上战场，你若长居幕后，总有一天会忘了生命之重"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition.wav",
+                    "name": "Commission complete",
+                    "quote": "有军事委托完成了……下次让我去试试如何？稍微……有点好奇"
+                },
+                {
+                    "key": "upgrade",
+                    "voice": "upgrade.wav",
+                    "name": "Enhancing complete",
+                    "quote": "无论多强，只要没有对手，那就毫无意义……"
+                },
+                {
+                    "key": "battle",
+                    "voice": "warcry.wav",
+                    "name": "Flagship fight",
+                    "quote": "我将为你而战，指挥官"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp.wav",
+                    "name": "Victory",
+                    "quote": "这就是……胜利的滋味"
+                },
+                {
+                    "key": "lose",
+                    "voice": "lose.wav",
+                    "name": "Defeat",
+                    "quote": "这就是……面对失败时的恐惧与不甘吗……？"
+                },
+                {
+                    "key": "skill",
+                    "voice": "skill.wav",
+                    "name": "Skills",
+                    "quote": "Checkmate"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp.wav",
+                    "name": "Low HP",
+                    "quote": "没人会保护自取灭亡的人"
+                },
+                {
+                    "key": "feeling1",
+                    "voice": "feeling1.wav",
+                    "name": "Upset",
+                    "quote": "结果……你也不过是个无法驱使我的无能指挥官吗……"
+                },
+                {
+                    "key": "feeling2",
+                    "voice": "feeling2.wav",
+                    "name": "Stranger",
+                    "quote": "我早已习惯北方的寒冷与孤寂，事到如今自然不会还有什么期冀……"
+                },
+                {
+                    "key": "feeling3",
+                    "voice": "feeling3.wav",
+                    "name": "Friendly",
+                    "quote": "一无所有，方能无所畏惧。但是这样的勇敢无畏，真的是值得夸耀的吗…？"
+                },
+                {
+                    "key": "feeling4",
+                    "voice": "feeling4.wav",
+                    "name": "Crush",
+                    "quote": "我想最糟糕的感觉，莫过于不知道应该等待还是放弃了吧，你有值得我等待的价值吗，指挥官？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5.wav",
+                    "name": "Love",
+                    "quote": "啊…原来如此，我曾以为我早已习惯了寒冷，早已视孤独如美酒，不过看来我只是忘了，对，忘了与他人交流的愉快，忘了有人陪伴时心脏的鼓动…不过现在，我都记起来了——"
+                },
+                {
+                    "key": "propose",
+                    "voice": "propose.wav",
+                    "name": "Promise",
+                    "quote": "啊啊，这就是…感情的热度吗？仿佛要把心中的寒冷和绝望都融化一般——Danke sehr，指挥官，北方的女王，已经不再孤独了"
+                },
+                {
+                    "key": "link1",
+                    "voice": "link1.wav",
+                    "name": "Battle 1",
+                    "quote": "(1 of the following: KMS Bismarck) 悲伤的表情可不适合你，姐姐"
+                }
+            ]
+        },
+        {
+            "name": "冰雪消融的夏日",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "夏天，对过去的我而言不过是个闷热的季节…如今么…？看到我的打扮还不明白吗？走吧，沙滩那里应该有许多人了"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_1.wav",
+                    "name": "Receive",
+                    "quote": "夏天，对过去的我而言不过是个闷热的季节…如今么…？看到我的打扮还不明白吗？走吧，沙滩那里应该有许多人了"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_1.wav",
+                    "name": "Log in",
+                    "quote": "指挥官，不用急，对我来说，等你是一件有意义的事"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_1.wav",
+                    "name": "View details",
+                    "quote": "平日的战斗正是为了这片刻的安宁——而正是有休息，才能让我们的斗志更加昂扬"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_1.wav",
+                    "name": "Main screen 1",
+                    "quote": "和你一起在沙滩，即使只是坐着看海平线，也丝毫不会觉得无聊"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_1.wav",
+                    "name": "Main screen 2",
+                    "quote": "部分同僚对我似乎有些误解，我并不是深居闺中的大小姐…呼，稍微陪她们玩玩好了，排球之类的"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_1.wav",
+                    "name": "Main screen 3",
+                    "quote": "夕阳下和夜晚的沙滩景色很美，工作结束后一起去散散步吗？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_1.wav",
+                    "name": "Normal touch",
+                    "quote": "稍微有些热……指挥官，空调能开大一点吗？"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_1.wav",
+                    "name": "Special touch",
+                    "quote": "既然是夏天……也是没办法的事"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_1.wav",
+                    "name": "Mission reminder",
+                    "quote": "就算是我，在夏天时也不会热衷于完成任务的，因为…很热"
+                },
+                {
+                    "key": "hp_warning",
+                    "voice": "hp_1.wav",
+                    "name": "Low HP",
+                    "quote": "等待机会，不要冒进"
+                }
+            ]
+        },
+        {
+            "name": "铁血的冰风",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "我正在想，我的那位姐姐会怎么来邀请我，果然是拜托指挥官你了吗……呵呵，那就走吧，别让她等太久了——"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_2.wav",
+                    "name": "Receive",
+                    "quote": "我正在想，我的那位姐姐会怎么来邀请我，果然是拜托指挥官你了吗……呵呵，那就走吧，别让她等太久了——"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_2.wav",
+                    "name": "Log in",
+                    "quote": "你来了，指挥官。不用紧张，夜晚还很长"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_2.wav",
+                    "name": "View details",
+                    "quote": "其实，我也不知道和姐姐有什么可以聊的话题…不过，这一次，我们不缺时间。所以总会有话题的，不是吗？"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_2.wav",
+                    "name": "Main screen 1",
+                    "quote": "曾经，我一直对“姐姐”两个字没有什么实感。不过，当再次与她重逢时，第一眼，我就知道，啊，她是我的姐姐"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_2.wav",
+                    "name": "Main screen 2",
+                    "quote": "看，在金碧辉煌的大厅中央，她被所有人围着，就像是世界的中心——但我知道，你也知道，那不是她想要的"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_2.wav",
+                    "name": "Main screen 3",
+                    "quote": "等待着她来邀请我，而不主动去找她，算是我作为妹妹的一点坏心眼吧。毕竟，她才是姐姐，不是吗？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_2.wav",
+                    "name": "Normal touch",
+                    "quote": "嗯？啊，没什么，我只是在思考，究竟是叫她“姐姐”，还是“俾斯麦”好呢"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_2.wav",
+                    "name": "Special touch",
+                    "quote": "嗯？我的紧张原来表现得这么明显吗？"
+                },
+                {
+                    "key": "mission",
+                    "voice": "task_2.wav",
+                    "name": "Mission reminder",
+                    "quote": "有新的任务吗？没关系，那就让姐姐稍微多等一会儿吧"
+                },
+                {
+                    "key": "mission_complete",
+                    "voice": "mission_complete_2.wav",
+                    "name": "Mission complete",
+                    "quote": "指挥官，难得的宴会，也不必太过焦急，先一起吃点什么吧"
+                },
+                {
+                    "key": "mail",
+                    "voice": "mail_2.wav",
+                    "name": "Mail reminder",
+                    "quote": "舞蹈的邀请络绎不绝啊，指挥官。不如，我也邀请你跳一支舞吧？"
+                },
+                {
+                    "key": "home",
+                    "voice": "home_2.wav",
+                    "name": "Return to port",
+                    "quote": "指挥官，想知道我是怎么看待我的那位姐姐的吗？"
+                },
+                {
+                    "key": "expedition",
+                    "voice": "expedition_2.wav",
+                    "name": "Commission complete",
+                    "quote": "指挥官，似乎有新的委托完成了。去吧，我会在这里等你"
+                },
+                {
+                    "key": "win_mvp",
+                    "voice": "mvp_2.wav",
+                    "name": "Victory",
+                    "quote": "如果是她…会怎么打这场仗呢？"
+                },
+                {
+                    "key": "feeling5",
+                    "voice": "feeling5_2.wav",
+                    "name": "Love",
+                    "quote": "虽然幻想她请求你时的窘迫样子相当有趣，不过，真到了面对她时，我也无法像现在这样游刃有余吧……指挥官，到时候就要麻烦你了"
+                }
+            ]
+        },
+        {
+            "name": "松之节句、白之冰华",
+            "quotes": [
+                {
+                    "key": "drop_descrip",
+                    "voice": "",
+                    "name": "Drop description",
+                    "quote": "重樱的新年这时候该说“新年快乐”吧。参照重樱的习俗换了一身衣服，会不会很奇怪？…很合适？这样…既然你都这么说了，我就再多穿一阵子好了。"
+                },
+                {
+                    "key": "unlock",
+                    "voice": "get_3.wav",
+                    "name": "Receive",
+                    "quote": "重樱的新年这时候该说“新年快乐”吧。参照重樱的习俗换了一身衣服，会不会很奇怪？…很合适？这样…既然你都这么说了，我就再多穿一阵子好了。"
+                },
+                {
+                    "key": "login",
+                    "voice": "login_3.wav",
+                    "name": "Log in",
+                    "quote": "久等了，指挥官。让我们尽早去向大家拜年吧，在舰载机起飞之前……"
+                },
+                {
+                    "key": "detail",
+                    "voice": "detail_3.wav",
+                    "name": "View details",
+                    "quote": "听重樱的各位说，松树有“大家的依靠”这样的含义。感觉…就像指挥官一样，无论对大家，还是对我……呵呵，没什么。"
+                },
+                {
+                    "key": "main1",
+                    "voice": "main_1_3.wav",
+                    "name": "Main screen 1",
+                    "quote": "也得向姐姐问个好才行，不过…该用什么表情面对她呢…指挥官，你能一起来吗？"
+                },
+                {
+                    "key": "main2",
+                    "voice": "main_2_3.wav",
+                    "name": "Main screen 2",
+                    "quote": "阿拉巴马说要以“新年的游戏”一决胜负…偶尔这么喧闹一番也不错吧。输的要在脸上涂墨？…还是算了吧。"
+                },
+                {
+                    "key": "main3",
+                    "voice": "main_3_3.wav",
+                    "name": "Main screen 3",
+                    "quote": "即便已经习惯了寒冷，还是会不自觉向着眼前的温暖伸手啊…指挥官…能稍微靠近一些吗？"
+                },
+                {
+                    "key": "touch",
+                    "voice": "touch_1_3.wav",
+                    "name": "Normal touch",
+                    "quote": "这份温暖…我并不讨厌。"
+                },
+                {
+                    "key": "touch2",
+                    "voice": "touch_2_3.wav",
+                    "name": "Special touch",
+                    "quote": "哈啊…还是稍微在意下别人的目光比较好吧。"
+                }
+            ]
+        }
+    ]
+}
